@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>auto</title>
+		<link rel="stylesheet" type="text/css" href="src/static/css/bootstrap.min.css" />
+		<script type="text/javascript" src="src/static/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="src/static/js/jquery.js"></script>
+		<script type="text/javascript" src="src/static/js/define.js"></script>
+	</head>
+
+	<body>
+		<h1 style="width:150px;;margin: 0 auto;margin-top:30px;">自动分配</h1>
+		<form action="auto" method="post" class="form-horizontal" role="form" style="margin-top: 60px;">
+			<div class="form-group">
+				<label for="firstname" class="col-sm-3 control-label">地址池开始地址</label>
+				<div class="col-sm-6">
+					<input autocomplete="off" type="text" class="form-control" name="firstname" placeholder="请输入地址池开始地址">
+				</div>
+			</div>
+			<div class="form-group">
+				<label for="lastname" class="col-sm-3 control-label">地址池结束地址</label>
+				<div class="col-sm-6">
+					<input autocomplete="off" type="text" class="form-control" name="lastname" placeholder="请输入地址池结束地址">
+				</div>
+			</div>
+			<div class="form-group">
+				<label for="firstname" class="col-sm-3 control-label">网关</label>
+				<div class="col-sm-6">
+					<input autocomplete="off" type="text" class="form-control" name="netmask" placeholder="请输入网关">
+				</div>
+			</div>
+			<div class="form-group">
+				<label for="firstname" class="col-sm-3 control-label">首选DNS服务器</label>
+				<div class="col-sm-6">
+					<input autocomplete="off" type="text" class="form-control" name="primary" placeholder="请输入首选DNS服务器">
+				</div>
+			</div>
+			<div class="form-group">
+				<label for="firstname" class="col-sm-3 control-label">备用DNS服务器</label>
+				<div class="col-sm-6">
+					<input autocomplete="off" type="text" class="form-control" name="vice" placeholder="请输入备用DNS服务器">
+				</div>
+			</div>
+			<div class="form-group">
+				<div class="col-sm-offset-3 col-sm-10">
+					<input type="submit" value="保存">
+				</div>
+			</div>
+		</form>
+	</body>
+
+</html>
