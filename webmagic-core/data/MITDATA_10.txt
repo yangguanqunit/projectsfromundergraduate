@@ -1,0 +1,993 @@
+author:null
+title:Internet of Farm Things
+subtitle:Companies are competing to turn data into advice on how to farm better, and attracting investments from the likes of Google Ventures and Monsanto.
+author:Antonio Regalado
+title:Farmers Seek to Deploy Powerful Gene Drive
+subtitle:A technology feared for its potential as a bioweapon is attracting interest from farmers as a way to control pests.
+author:null
+title:This Robot Will Swing Over Crops like Tarzan
+subtitle:Researchers actually modeled this plant-watching robot on sloths.
+author:Tom Simonite
+title:Mining 24 Hours a Day with Robots
+subtitle:Mining companies are rolling out autonomous trucks, drills, and trains, which will boost efficiency but also reduce the need for human employees.
+author:null
+title:Absorbent Beads Could Save Energy—and Lives
+subtitle:Zeolite beads are a better, more efficient way to prevent crops from rotting in humid parts of the globe.
+author:null
+title:To Cure Crop Disease Faster, Add Bugs
+subtitle:DARPA scientists think they can use insects to deliver genetic changes to crops.
+author:null
+title:A Desert Full of Tomatoes, Thanks to Solar Power and Seawater
+subtitle:Sundrop Farms has used a clever system to grow food using unlikely ingredients—but is the idea likely to catch on?
+author:null
+title:How Much Force Do Bacteria Produce? It’s Now Been Measured
+subtitle:The results suggest that bacteria could one day be harnessed as micrometer-sized machines.
+author:null
+title:The Ideal Fuel
+subtitle:A nanomaterials chemist has figured out a good way to mimic leaves and turn water and carbon dioxide into things we need.
+author:null
+title:Microbes Engineered to Prevent Obesity
+subtitle:Genetically engineered bacteria ward off obesity in mice, showing how the microbiome could be used treat chronic diseases in people.
+author:null
+title:A Pill Filled with Bacteria Instead of Drugs
+subtitle:Delivering healthy bacteria in a pill could help patients harboring out-of-balance microbial communities.
+author:null
+title:Transplanted Gut Bugs Protect Mice from Diabetes
+subtitle:Intestinal microbes from male mice changed the hormones and disease rates of female mice.
+author:null
+title:How Pathogens Fight Drugs
+subtitle:“Death galaxy” chip shows bacteria evolve antibiotic resistance at a surprising pace.
+author:null
+title:Biomedical News in Brief
+subtitle:Virus-hunting Salmonella, a warning to drug companies, and the fall of RNAi.
+author:null
+title:Bacteria Genetically Engineered to Grow in Stripes
+subtitle:Scientists can control the number of stripes in the bacterial bulls-eye by tweaking a single gene.
+author:null
+title:Mapping Infectious Diseases
+subtitle:A system maps outbreaks culled from Internet news sites.
+author:null
+title:How an Inventor You’ve Probably Never Heard of Shaped the Modern World
+subtitle:A 56-year-old algorithm continues to have a heavy influence on the technologies we all use daily.
+author:null
+title:Google Unveils Neural Network with “Superhuman” Ability to Determine the Location of Almost Any Image
+subtitle:Guessing the location of a randomly chosen Street View image is hard, even for well-traveled humans. But Google’s latest artificial-intelligence machine manages it with relative ease.
+author:David Talbot
+title:App Tracks Your Teenager's Driving Habits
+subtitle:The prototype could also monitor an elderly driver’s aptitude over time.
+author:Rachel Metz
+title:New App Watches Your Every Move
+subtitle:The creators of Placeme think “persistent tracking” will have all sorts of positive uses—from keeping tabs on your exercise habits to keeping watch over loved ones.
+author:null
+title:If You Have a Smart Phone, Anyone Can Now Track Your Every Move
+subtitle:Navizon I.T.S. makes it easy to pinpoint Wi-Fi devices anywhere its listening nodes are installed.
+author:null
+title:Is Skyhook's Location Services Business Doomed?
+subtitle:Broadcom executives think they have a superior solution.
+author:Rachel Metz
+title:Exploring the World, Note by Note
+subtitle:Pinwheel, a new site created by Flickr cofounder Caterina Fake, lets users post virtual notes anywhere.
+author:null
+title:Apple Ignored Warning on Address-Book Access
+subtitle:The company knew in 2010 that an app was grabbing users’ personal information.
+author:null
+title:How a Web Link Can Take Control of Your Phone
+subtitle:If Android users click the wrong link, an attacker could intercept phone calls and track their location.
+author:null
+title:Gut Check: Scientists are Wary of At-Home Microbiome Tests
+subtitle:New services that sequence the bacteria in your digestive tract can provide only limited information for now.
+author:Antonio Regalado
+title:Companies Bet on Designer Bacteria as New Way to Treat Disease
+subtitle:Synthetic biologists are developing genetically modified bacteria that you swallow, but no one knows yet how they should be regulated.
+author:null
+title:Unraveling the Mysterious Function of the Microbiome
+subtitle:A new class of experimental therapies is emerging from the study of how the community of microörganisms in your body contributes to disease.
+author:null
+title:New Way to Boost Crop Production Doesn’t Rely on GMOs or Pesticides
+subtitle:Researchers are fiddling with the plant equivalent of gut bacteria.
+author:null
+title:Canada’s Carbon Tax Needs to Spread South of the Border
+subtitle:The U.S.’s northern neighbor has announced a bold step toward reducing its carbon emissions. Can America follow suit?
+author:Emily Mullin
+title:5 Biotech Products U.S. Regulators Aren’t Ready For
+subtitle:New techniques being used to produce our food or shape the environment raise regulatory questions.
+author:null
+title:In a First, Commercial Coal Plant Buries Its CO2
+subtitle:A coal plant in Saskatchewan will capture most of its carbon pollution—and use it to extract oil from the ground.
+author:null
+title:Can Carbon Capture Clean Up Canada’s Oil Sands?
+subtitle:Alberta will serve as a test bed for large-scale carbon capture and sequestration.
+author:null
+title:Canadian Oil Sands Headed to Asia?
+subtitle:Decision on Alberta-to-Houston pipeline could decide the destination of much of the oil.
+author:null
+title:Canada's Oil Sands on the Verge of a Boom, Again
+subtitle:High crude prices, cheap natural gas, and U.S. demand boost heavy oil profits—and greenhouse gases.
+author:null
+title:Canada's Stimulus Targets Carbon Capture and Nuclear Power
+subtitle:Canada’s budget lacks the renewables focus of Obama’s plan.
+author:null
+title:Carbon-Capture Credits Blocked
+subtitle:Poznan negotiators fail to unite two controversial energy issues.
+author:null
+title:Largest Study of Online Tracking Proves Google Really Is Watching Us All
+subtitle:Google’s Web trackers are present on the majority of the Web’s top million sites.
+author:null
+title:Alphabet and Facebook’s Stratospheric Internet Plans Get Tangled in High-Altitude Red Tape
+subtitle:Plans to use drones and balloons to provide wireless Internet will need considerable help from regulators overseeing airspace and communications satellites.
+author:null
+title:EPA's Voluntary Nanomaterials Program Ineffective
+subtitle:Unsurprisingly, an interim report from the EPA’s voluntary nanomaterials information-gathering program tells us that it hasn’t learned much.
+author:null
+title:FDA Initiative Will Emphasize Nano Safety
+subtitle:Yesterday, the FDA announced a new nanotechnology initiative.
+author:null
+title:Will Obama’s Climate Policy Spur New Energy Technologies?
+subtitle:The impact of proposed carbon-emissions regulations on energy innovation could be small without direct R&D funding.
+author:null
+title:What to Look for in the President’s Climate Address
+subtitle:Obama will propose a climate plan, but his options are limited without congressional support.
+author:null
+title:EPA's Lousy New Nanotech Program
+subtitle:The EPA is starting to do something about the potential hazards of nanomaterials–but not much.
+author:null
+title:Unconventional-Weapons Warnings from Obama Advisors
+subtitle:Members of Obama’s transition team warn that the United States has not taken seriously the threat of bioterrorism, and that some chemical plants are potential targets.
+author:null
+title:Hacking HIV
+subtitle:Thirty-four million people in the world are infected with HIV. Only eight million have access to life-saving drugs, and there’s no effective vaccine. Researchers at the Ragon Institute of MGH, MIT, and Harvard won’t rest until they find one.
+author:null
+title:The “What If?” Whiz
+subtitle:By asking that simple question for more than five decades, Institute Professor Millie Dresselhaus has pioneered nanoscience, launched a new field of energy research, and helped women find their place at MIT.
+author:null
+title:Okonjo the Troublemaker
+subtitle:Nigeria’s finance minister, Ngozi Okonjo-Iweala, MCP ’78, PhD ’81, isn’t afraid to clean house.
+author:null
+title:Ambri Funding Influx Suggests a New Day for Grid Batteries
+subtitle:Ambri raises money to build a commercial-scale factory for batteries that promise low-cost, multi-hour energy storage for the grid.
+author:null
+title:In China and Germany, Renewables Are Outgrowing Their Grids
+subtitle:Wind and solar installations are being built apace, but the infrastructure is holding them back.
+author:null
+title:SolarCity, Using Tesla Batteries, Aims to Bring Solar Power to the Masses
+subtitle:SolarCity’s new battery system might help solar become a significant source of electricity.
+author:null
+title:The Effects of Fukushima Linger after Five Years, but Not from Radiation
+subtitle:While hundreds died in the evacuation, none perished as a result of exposure to radiation.
+author:null
+title:New Nuclear Fuel Could Boost Reactors, But Also Safety Worries
+subtitle:A new fuel rod design will be tested in a full-size reactor, but some worry it could bring fresh safety problems.
+author:null
+title:Japan’s Floating Wind Turbines Show the Challenges of Renewables
+subtitle:There’s a huge amount of wind off the coast of Japan, but harnessing it will be fantastically expensive.
+author:null
+title:Going Nuclear: The Global Power Picture
+subtitle:Three years after the Fukushima disaster, some countries are pulling back from nuclear power while others grow capacity.
+author:null
+title:How the Fukushima Ice Barrier Will Block Radioactive Groundwater
+subtitle:Japan plans to stop leaking radioactive groundwater at Fukushima with an underground wall of ice. Here’s how it would work.
+author:null
+title:Japan’s Economic Troubles Spur a Return to Nuclear
+subtitle:Some of the nuclear power plants shut down after the Fukushima disaster could restart soon.
+author:null
+title:Japan Isn't Going Nuclear Free After All
+subtitle:The government responds to business community pressure by shelving a plan announced last week.
+author:null
+title:Crisis Continues at Nuclear Power Plants
+subtitle:Engineers struggle to keep reactors cool after explosions and radiation leaks.
+author:null
+title:We Need Nuclear-Powered Airplanes, Not Solar-Powered Ones
+subtitle:Making liquid fuels from low-carbon sources is better than mounting solar panels on planes.
+author:null
+title:A Lunar Nuclear Reactor
+subtitle:Tests prove the feasibility of using nuclear reactors to provide electricity on the moon and Mars.
+author:null
+title:Reactors for the Middle East
+subtitle:New designs could decrease the chances that nuclear materials will fall into the hands of terrorists.
+author:Deborah Douglas
+title:The Move That Shaped MIT
+subtitle:Moving to Cambridge from Copley Square didn’t just give the Institute more space. It transformed MIT into a world-class research university.
+author:null
+title:Letters
+subtitle:
+author:null
+title:Advanced Nuclear Industry to Regulators: Give Us a Chance
+subtitle:Entrepreneurs argue that reactor technology innovation is limited by regulatory barriers.
+author:null
+title:Novel Mobile Display Tech Could End Up on Your Car Dashboard
+subtitle:null
+author:null
+title:Portable Protection
+subtitle:null
+author:null
+title:CT Scanner Delivers Less Radiation
+subtitle:Faster, more sensitive scans and better image processing may reduce the risk of x-ray-related cancers.
+author:null
+title:Polarized 3-D
+subtitle:null
+author:null
+title:Gesture-Controlled Laptop
+subtitle:null
+author:null
+title:Buying Bluefin Will Give Twitter a Piece of TV’s $72 Billion Ad Market
+subtitle:The analytics startup will help Twitter understand how its users react to particular shows and advertisements.
+author:null
+title:Will France Give Up Its Role as a Nuclear Powerhouse?
+subtitle:The country, which gets most of its electricity from nuclear power, is debating whether to wean itself from that dependency.
+author:null
+title:Gesture-Controlled Laptop
+subtitle:
+author:null
+title:Huge British Nuclear Project Becomes a Diplomatic Flash Point
+subtitle:Hinkley Point’s demise could mark the end of the era of behemoth nuclear plants.
+author:null
+title:Advanced Nuclear Startup Terrestrial Energy Lands Initial Funding
+subtitle:Canadian startup pursuing an advanced molten-salt nuclear reactor gets significant outside backing.
+author:null
+title:White House Strikes a Blow for Advanced Nuclear Reactors
+subtitle:The Department of Energy will help startups navigate the testing and licensing process—but some nuclear entrepreneurs doubt it will be enough.
+author:Gregory Mone
+title:Robo Swarm
+subtitle:A collective of 100 robots was considered huge until Radhika Nagpal ’94, SM ’94, PhD ’01, taught more than 1,000 of them to act together.
+author:null
+title:Letters
+subtitle:
+author:Peter Dizikes
+title:The Trade-Offs of Free Trade
+subtitle:MIT economist David Autor has helped reshape thinking about free trade and job losses.
+author:Amanda Schaffer
+title:From Bottle Rockets to Bionic Spinach
+subtitle:Michael Strano set off hydrogen-fueled rockets as a kid. Today his lab is developing nanosensors, bionic plants, nanoscale ice wires, and a brand-new source of energy.
+author:Katherine Bourzac, SM ’04
+title:Toppling Energy Illusions
+subtitle:Economist Catherine Wolfram, PhD ’96, puts assumptions about energy use to the test.
+author:null
+title:Adventures on the Intellectual Playground
+subtitle:MIT professor Angela Belcher applies her biological toolkit to society’s biggest problems in energy, the environment, and health care.
+author:Jean Yang, SM ’10, PhD ’15
+title:Making It Easy to Make Apps
+subtitle:A programming tool gives children the ability to build their own apps—and solve social problems.
+author:null
+title:Letters
+subtitle:
+author:null
+title:Social Networking Meets Problem Solving
+subtitle:The website Jig wants to solve your needs—with a little help from your friends.
+author:null
+title:Managing the Chaos of a Thousand Voices
+subtitle:How the Drupal community is scaling up its collaborative vision.
+author:null
+title:Connect, Communicate, Collaborate
+subtitle:Cisco’s productivity software combines social networking with other forms of communication.
+author:null
+title:Google's Ultra-Real-Time Messaging Tool Lives On
+subtitle:The company halted its work on Wave, but aspects of its radical approach to communication have been reincarnated for business collaboration.
+author:null
+title:Not Your Father's Intranet
+subtitle:Socialtext is fueling corporate collaboration one tweet at a time.
+author:null
+title:Yammer Gets Workers Hooked First, then Woos Bosses
+subtitle:A free business-focused social network lets employees choose how to collaborate.
+author:null
+title:Collaborating through Streams of Information
+subtitle:JP Rangaswami, chief scientist at Salesforce.com, explains why his company’s new tool for collaboration could pave the way for productive game-like interactions in the office.
+author:null
+title:Collaborating by Connecting Websites
+subtitle:How an API can help companies market themselves and reach new customers.
+author:null
+title:Please Update Your Status at Work
+subtitle:Collaboration software from a company called Jive Software is challenging products from established rivals such as IBM.
+author:null
+title:In a Bid to Get Its Devices into the Workplace, Samsung Courts Businesses
+subtitle:The leading smartphone manufacturer hopes to one-up Apple and nudge out struggling BlackBerry.
+author:null
+title:Matchmaking for the Cloud
+subtitle:A marketplace sells unused computing capacity—but a lack of transparency may put off some customers.
+author:null
+title:The Need for Speed on the Web
+subtitle:A startup hopes to exploit the growing interest in making websites speedier.
+author:null
+title:We Need to Talk About the Power of AI to Manipulate Humans
+subtitle:Our tendency to become emotionally attached to chatbots could be exploited by companies seeking a profit.
+author:null
+title:Emotional Chatting Machine Assesses Your Emotion and Copies It
+subtitle:Chatbots have never been able to empathize. That looks set to change, thanks to a Chinese team that has built a chatbot capable of conveying specific emotions.
+author:Tom Simonite
+title:Customer Service Chatbots Are About to Become Frighteningly Realistic
+subtitle:A startup gives chatbots and virtual assistants realistic facial expressions and the ability to read yours.
+author:null
+title:Chatbots with Social Skills Will Convince You to Buy Something
+subtitle:Virtual assistants that can read social cues and nonverbal signals are less jarring—and surprisingly persuasive.
+author:null
+title:Do Your Banking with a Chatbot
+subtitle:Kasisto’s AI platform is powering a mobile-only bank in India, where chatbots handle all consumer requests.
+author:Emily Parker
+title:Can WeChat Thrive in the United States?
+subtitle:Though the messaging app dominates in China, few Americans have even heard of it.
+author:null
+title:Is the Chatbot Trend One Big Misunderstanding?
+subtitle:China’s messaging services show that conversational interfaces are not always desirable.
+author:null
+title:Google Finally Launches a Siri Killer in Pivot Away from Conventional Search
+subtitle:The Google Assistant is an answer to Siri that has greater powers of conversation and will take over your home.
+author:null
+title:No Industry Can Afford to Ignore Artificial Intelligence
+subtitle:’s EmTech Digital conference will explore and explain how artificial intelligence is transforming all kinds of business.
+author:null
+title:Mr. Musk Goes to Mars
+subtitle:The founder and CEO of SpaceX has laid out a dazzling plan for getting to the Red Planet, but he also left a lot of blanks to fill in.
+author:null
+title:Tesla’s Next Broken Promise
+subtitle:Automakers from Shanghai to Detroit have responded to Tesla’s remarkable success by accelerating their own electric vehicle ambitions. Now Tesla is promising to upend large-scale car manufacturing, but it faces tough competition.
+author:null
+title:With SolarCity Cuts, Elon Musk’s Magic May Be Wearing Thin
+subtitle:As demand for its rooftop solar panels slows, SolarCity cuts costs and seeks a fundamentally new strategy.
+author:David Rotman
+title:Paying for Solar Power
+subtitle:SolarCity’s massive new manufacturing plant in Buffalo, New York, reflects a booming demand for solar power. Is it sustainable?
+author:null
+title:Apple Is Countering Amazon and Google with a Siri-Enabled Speaker
+subtitle:Oddly, though, Apple is emphasizing HomePod’s musical skills rather than all-around smarts.
+author:null
+title:Here Is the Safety Trick That Will Help SpaceX Fly You to the Moon
+subtitle:Automating rocket safety could catalyze rapid growth in the commercial space industry.
+author:null
+title:SpaceX Is Making Commercial Space Launches Look like Child’s Play
+subtitle:Two successful launches in a weekend, one using a recycled rocket—and the booster landed successfully each time.
+author:null
+title:SpaceX Has a Reusable Rocket, and Now the Race Is on to Perfect Them
+subtitle:The company’s approach to recycling spacecraft isn’t necessarily the right one, but an increasingly Silicon Valley-esque space race aims to find it.
+author:Jamie Condliffe
+title:SpaceX Plans to Fly Tourists to the Moon—but 2018 Is Ambitious
+subtitle:The company isn’t known for meeting its own deadlines, and there’s a lot of testing yet to be done.
+author:Jamie Condliffe
+title:Following Rocket Failure, SpaceX Struggles to Relaunch
+subtitle:Since a catastrophic explosion in September, delays have lost the company work to a European rival.
+author:null
+title:SpaceX’s Plan to Provide Internet from Orbit Edges Closer to Launch
+subtitle:Using over 4,000 satellites to blanket the world in wireless broadband would be expensive compared to other approaches.
+author:null
+title:The 21st-Century Space Race: Will Boeing or SpaceX Be First to Mars?
+subtitle:The aerospace giant aims to beat out Elon Musk by sending the first manned mission to the Red Planet.
+author:null
+title:Using Government to Spur Innovation
+subtitle:It’s hard to get industrial policy right. But when done correctly, it’s a great way to solve big problems.
+author:null
+title:General Motors Is Doing Its Best to Out-Tesla Tesla
+subtitle:After unveiling its “Tesla fighter” last week, the company has now made a bold promise focused on using more renewable energy. Sound familiar?
+author:null
+title:Elon Musk’s Promise of “Solar Roofs” Has Echoes of a Rust Belt Failure
+subtitle:SolarCity’s chairman dropped hints that the company is planning a new product—but it’s been tried before.
+author:null
+title:Tesla-SolarCity Success Depends on Battery Technology That Doesn’t Yet Exist
+subtitle:Elon Musk is making bold claims about creating a new energy company, but the key ingredient to make it work remains elusive.
+author:null
+title:Elon Musk’s Bonkers Plan to Join Tesla and SolarCity
+subtitle:The eccentric entrepreneur wants his unprofitable electric-car maker to buy his loss-making solar developer.
+author:null
+title:Shifting Economic Winds Spell Trouble for Solar Giants SolarCity and Sunrun
+subtitle:Two companies that have built their business on leasing solar panels are suffering as customers are increasingly looking to buy.
+author:null
+title:Watching SunEdison’s Collapse, Solar Industry Resets
+subtitle:SunEdison’s collapse and mounting losses elsewhere are causing solar developers to change course.
+author:null
+title:The Tech Company that Earns Greenpeace's Highest Rating
+subtitle:Q&A with Darrel Stickler, a leader of Cisco Systems’ green task force.
+author:null
+title:Everyone Is Video Calling
+subtitle:The technology is becoming ubiquitous—but don’t expect to be able to call just anyone.
+author:null
+title:A Step toward Holographic Videoconferencing
+subtitle:A full-color holographic display system refreshes every two seconds, fast enough to send live 3-D images.
+author:null
+title:Facebook’s New Map of World Population Could Help Get Billions Online
+subtitle:Software that scours satellite images for signs of human habitation could build the most accurate map of the world’s population yet.
+author:null
+title:Navigating Planet Ad Tech
+subtitle:A guide for marketers
+author:null
+title:Apps Could Turn Your Smart Phone Into a Wallet
+subtitle:The first near-field communication apps are trickling in, but the handsets that can use them remain in the minority.
+author:null
+title:A Quantum Communications Switch
+subtitle:The device could one day let superfast quantum computers talk to each other.
+author:null
+title:Out of Many, One In-box
+subtitle:Nokia experiments with a universal in-box that combines messages from many separate apps into a single place.
+author:null
+title:Optical Fibers Made of Metamaterials Should Be Superfast
+subtitle:Metamaterial fibers that carry both light and plasmons could speed up telecommunications.
+author:null
+title:A New Super Bowl Security System
+subtitle:Tampa authorities are using Microsoft’s Surface display to better protect fans.
+author:null
+title:Don't Blame the Internet
+subtitle:Children are no more at risk online than off, a study says.
+author:null
+title:The Connected Classroom
+subtitle:Online learning comes into the classroom.
+author:null
+title:Real-Time Texting App Lets You Interrupt Without Saying a Word
+subtitle:Beam Messenger shows friends what you type as you’re texting, even if you decide to delete it.
+author:null
+title:Are Telepathy Experiments Stunts or Science?
+subtitle:Scientists have established direct communication between two human brains, but is it more than a stunt?
+author:null
+title:Researchers Hack Mobile Data Communications
+subtitle:The encryption protecting mobile-device data transmission is permeable.
+author:null
+title:Technology Will Make Collaboration Your Next Competitive Advantage
+subtitle:New tools are changing the way people work with each other, their companies’ partners, and their customers.
+author:null
+title:Mobile Payments Try to Take Root in Afghanistan
+subtitle:A study reveals the challenges facing mobile payment systems in Third World countries.
+author:null
+title:An App for Dissidents
+subtitle:A startup is offering free encrypted voice and text communications to protesters in Egypt.
+author:null
+title:A Broadband Boom in the Boondocks
+subtitle:A massive injection of spectrum might be about to revolutionize the digital infrastructure of rural America.
+author:null
+title:Nextbit Robin Review: A Smartphone Aims to Solve Storage Woes
+subtitle:Nextbit is trying to make it so you never run out of storage on your smartphone.
+author:null
+title:Algorithms That Learn with Less Data Could Expand AI’s Power
+subtitle:Geometric Intelligence says its learning algorithms can pick up new skills faster than those behind the recent flurry of investment in AI.
+author:Anne Trafton
+title:An App for  Detection
+subtitle:High-tech droplets could let workers spot foodborne pathogens with their phones.
+author:null
+title:A Virtual Test for Post-Traumatic Stress Disorder
+subtitle:Researchers hope the use of multiple sensors will result in a more objective way of diagnosing this anxiety disorder.
+author:null
+title:An On-Off Switch for Anxiety
+subtitle:Researchers discover a brain circuit that can instantly dampen—or exacerbate—anxiety in mice.
+author:null
+title:Scientists Control Sleep and Social Activity with Light
+subtitle:Optogenetics allows researchers to explore a growing range of behavior.
+author:null
+title:A Brain Implant that Uses Light
+subtitle:A novel optical device could ultimately be used to treat neurological disease.
+author:null
+title:Brain Cells' Long Migration
+subtitle:Neurons follow blood-vessel highways to make their way across the brain.
+author:null
+title:Stretched Nerve 'Bridges' Trigger Repair
+subtitle:The tissue creates a scaffold for nerve tissue regeneration.
+author:null
+title:Defining an Algorithm for Inventing from Nature
+subtitle:The pipeline linking ecological discovery to bioengineering insight.
+author:null
+title:Illuminating Parkinson's Disease
+subtitle:New technique suggests how deep brain stimulation ameliorates symptoms.
+author:null
+title:HP Rewires Electronics
+subtitle:A new electronic device could lead to denser, faster kinds of memory, and processing chips that act more like the brain.
+author:null
+title:Mice Get Hooked on Light
+subtitle:Hybrid proteins that respond to light could reveal the biochemistry of addiction.
+author:null
+title:This Company Thinks Your Car Wants Google Glass
+subtitle:A heads-up display could be safer than glancing at your smartphone while driving—but some features may be more distracting than others.
+author:null
+title:Turning a Regular Smartphone Camera into a 3-D One
+subtitle:Microsoft researchers say simple hardware changes and machine learning techniques let a regular smartphone camera act as a depth sensor.
+author:null
+title:A Cure for Urban GPS: a 3-D Antenna
+subtitle:GPS readings in cities and indoors can be terrible. One startup has found a novel solution.
+author:null
+title:Using Wi-Fi for Navigating the Great Indoors
+subtitle:A phone can locate you indoors to within a few paces by combining Wi-Fi signals and the jolt of your footsteps.
+author:null
+title:A Smoother Street View
+subtitle:Microsoft’s new toy allows for a more seamless walk down an online avenue.
+author:null
+title:Merging Video with Maps
+subtitle:A new system uses panoramic images to create navigation videos that highlight turns and landmarks.
+author:null
+title:Mouse for 3-D Navigation
+subtitle:A device that supplements existing desktop equipment makes moving through 3-D environments more intuitive.
+author:null
+title:Digital Archaeologists Excavate Chips, Not Dirt
+subtitle:A new class of historian races against time to preserve our understanding of the inner workings of obsolete technologies.
+author:null
+title:Wrist Sensor Tells You How Stressed Out You Are
+subtitle:Devices from two startups could be used to treat people with anxiety disorders—and one of the devices may eventually diagnose pain.
+author:null
+title:The Hunt Is On for Biological Signs of Post-Traumatic Stress Disorder
+subtitle:Nationwide team will work to find biomarkers that could improve diagnosis and treatment.
+author:null
+title:Erasing Memories
+subtitle:New research shows that people can learn to suppress memories. It also suggests new avenues for treating post-traumatic stress disorder.
+author:null
+title:World’s Smallest Pacemaker Can Be Implanted without Surgery
+subtitle:New cardiac devices are small enough to be delivered through blood vessels into the heart.
+author:Christof Koch
+title:Cracking the Brain’s Codes
+subtitle:How does the brain speak to itself?
+author:null
+title:In Pursuit of Human Augmentation
+subtitle:The journey toward making “normal” obsolete.
+author:Alexandra Morris
+title:Eavesdropping on Neurons
+subtitle:A new automated version of one of neuroscience’s most important techniques, patch clamping, makes it much easier and faster for scientists to tap into the inner workings of brain cells.
+author:null
+title:Entrepreneur Hopes to Use Interference to Improve the Mobile Internet
+subtitle:WebTV’s creator thinks his forthcoming wireless technology will give us faster, better mobile Internet access.
+author:James Temple
+title:This Startup Developed a Promising New Battery Material—and a Novel Survival Strategy
+subtitle:Kenan Sahin made $1.5 billion on his first company. Now he’s using his resources and experience to advance lithium-ion cathodes, propel electric vehicles, and help other battery startups succeed.
+author:null
+title:Self-Charging Phones Are on the Way, Finally
+subtitle:A handful of companies are coming up with ways to extend your phone’s battery life when you’re far from a power outlet.
+author:Richard Martin
+title:Survival in the Battery Business
+subtitle:Backing from disparate investors such as General Motors and a vacuum maker has given the battery startup Sakti3 an unusual amount of momentum.
+author:null
+title:A Battery for Electronics That Lasts Twice as Long
+subtitle:A startup called SolidEnergy has developed a kind of lithium-ion battery that stores far more energy.
+author:null
+title:Hawaii’s Solar Push Strains the Grid
+subtitle:Kauai’s utility takes a second stab at battery storage as solar heads toward 80 percent of peak power.
+author:null
+title:Internet-Connected Battery Could Bring Smoke Alarms Online
+subtitle:Roost’s batteries will let smoke alarms send alerts via smartphone, and may bring other battery-powered devices online, too.
+author:null
+title:Wireless Power for Minuscule Medical Implants
+subtitle:A novel way of powering implanted devices could enable new ways to control appetite, regulate insulin, and treat brain injuries.
+author:null
+title:Tesla Versus the Luxury Automakers
+subtitle:Does the introduction of luxury EVs from BMW, Cadillac, and Mercedes spell doom for Tesla?
+author:null
+title:Robots Lay Three Times as Many Bricks as Construction Workers
+subtitle:Creators of a new bricklaying robot say its purpose is to leverage human jobs, not entirely replace them.
+author:null
+title:A Shortcut to Designer Nanostructures
+subtitle:A new nanolithography technique works rapidly over large areas.
+author:null
+title:New Chip Points the Way Beyond Silicon
+subtitle:Germanium could be the next great chip material after silicon’s limits have been reached.
+author:null
+title:Researchers "Grow" New Blood Vessels
+subtitle:The synthetic vessels can be stored for long periods and avoid the complications typical of vessel grafts.
+author:null
+title:Organs Made from Scratch
+subtitle:“Building blocks” containing gels turn cells into different types of tissue.
+author:null
+title:Microthreads Help Grow New Muscles
+subtitle:Doctors can’t do much in cases of severe muscle damage. New research shows that hair-thin threads might help.
+author:null
+title:Tissues that Build Themselves
+subtitle:Specially engineered cells arrange themselves into three-dimensional microtissues.
+author:null
+title:Cellular Reprogramming Feats Keep Getting Better
+subtitle:null
+author:null
+title:An Implantable Antenna
+subtitle:A prototype silk biosensor could someday alert doctors to signs of disease.
+author:null
+title:Detecting Aircraft Pathogens Before It's Too Late
+subtitle:A new study suggests that single particle detectors should be used to help control pandemics.
+author:Susan Young Rojahn
+title:Stem Cells Reveal Defect in Parkinson's Cells
+subtitle:The nuclei of brain stem cells in some Parkinson’s patients become misshapen with age. The discovery opens up new ways to target the disease.
+author:null
+title:New Method for Making Neurons Could Lead to Parkinson's Treatment
+subtitle:When transplanted into rodents with brain damage similar to Parkinson’s, the cells reversed the animals’ motor issues.
+author:null
+title:A Magnetic Shortcut to Clinical Trials
+subtitle:Finding effective drug dosages using MRI could accelerate drug development.
+author:null
+title:Direct-to-Consumer Genetic Research
+subtitle:23andMe’s consumer-based approach to research seems to be working.
+author:null
+title:Implanted Sensor Could Provide Clues to Brain Chemistry
+subtitle:A system to detect brain chemicals may improve therapies for Parkinson’s and other disorders.
+author:null
+title:Decoding the Brain with Light
+subtitle:Scientists are using genetic “light switches” to probe memory and improve disease therapy.
+author:null
+title:Green Genes
+subtitle:The first transgenic primates able to pass on their foreign genes are both a stunning medical advance and a troubling peek into the future.
+author:null
+title:Sending Genes into the Brain
+subtitle:More-invasive therapies show promise for treating Parkinson’s.
+author:null
+title:Brain Implant Detects, Responds to Epilepsy
+subtitle:Medtronic’s device can sense changes in brain activity related to disease.
+author:null
+title:Automatic Relief
+subtitle:null
+author:null
+title:A Pacemaker the Size of a Tic Tac
+subtitle:Medtronic is using microelectronics to make a pacemaker so small it can be injected.
+author:null
+title:Harvesting Business Ideas from Inside and Out
+subtitle:Medtronic taps social networking and crowdsourcing to find innovation in unexpected places.
+author:null
+title:Researchers, Using Light to Activate Neurons, Make Mice Obsessive, or Not
+subtitle:Mind-control optogenetics experiments in mice give new clarity to the neural circuitry that underlines repetitive behaviors.
+author:null
+title:Brain Implants Can Reset Misfiring Circuits
+subtitle:Pacemaker-like treatment calms an overactive circuit in the brains of OCD patients.
+author:null
+title:Telepresence Robot for the Disabled Takes Directions from Brain Signals
+subtitle:Brain control becomes a more practical way to control robots when the machines can do some things for themselves.
+author:null
+title:Got Sleep Problems? Try Tracking Your Rest with Radar.
+subtitle:A research project called DoppleSleep can tell how well you’re sleeping without getting in the way.
+author:null
+title:World Cup Mind-Control Demo Faces Deadlines, Critics
+subtitle:A Brazilian neuroscientist says brain-controlled robotics will let the paralyzed walk again.
+author:null
+title:Gene Therapy Tested as a Way to Stop Blindness
+subtitle:By delivering gene therapies to patients before they go blind, doctors may be able to prevent the loss of many important light-detecting cells.
+author:null
+title:Computer-Controlled Anesthesia Could Be Safer for Patients
+subtitle:Computer-controlled sedation could lighten the load for intensive-care staff and make the process safer for patients.
+author:null
+title:Device Could Spot Seizures by Reading Brainwaves through the Ear
+subtitle:A tiny, unobtrusive brain monitor could help track daily seizures.
+author:null
+title:How Well Can Bionic Eyes See?
+subtitle:New computer simulations illustrate the limits of prosthetic eyes and suggest pathways for making them better.
+author:null
+title:Samsung Demos a Tablet Controlled by Your Brain
+subtitle:An easy-to-use EEG cap could expand the number of ways to interact with your mobile devices.
+author:null
+title:A New Way to Make Sheets of Graphene
+subtitle:Technique might enable advances in display screens, solar cells, or other devices.
+author:null
+title:New Approach to Making Graphene Could Lead to Workable Transistors
+subtitle:Using DNA to synthesize and align ultra-thin graphene ribbons could represent a way to manufacture graphene transistors that don’t leak.
+author:null
+title:Microchip Adapts to Severe Damage
+subtitle:An integrated circuit that adjusts to damage shows a way to make ordinary chips more efficient and reliable.
+author:null
+title:A Battery and a “Bionic” Ear: a Hint of 3-D Printing’s Promise
+subtitle:Laboratory advances hint at how additive manufacturing technology could change the way some electronic devices are made.
+author:null
+title:Making Stretchable Electronics
+subtitle:A startup prepares to manufacture electronics that conform to skin, arteries, and organs, allowing new surgical and measuring methods.
+author:null
+title:Novel Electronics Could Speed Adoption of Solar Power
+subtitle:A new design shrinks the device connecting solar panels to the grid, cutting installation costs.
+author:null
+title:Wearable Sensor Reveals what Overwhelms You
+subtitle:The Q Sensor could help you manage stress by showing when you are under pressure.
+author:null
+title:New Implant Can Monitor Tumors Continuously
+subtitle:Researchers hope to combine the sensor with a device to deliver targeted chemotherapy.
+author:null
+title:Automakers Test In-Car Brain Sensors
+subtitle:Manufacturers are testing a brain-wave-sensing system that sounds an alarm when it detects sleepiness.
+author:null
+title:How to Find Hidden Explosives at Airports
+subtitle:We already have the technology for discovering hidden explosives, but it could lead to long lines.
+author:null
+title:When Your Diet Needs a Band-Aid
+subtitle:A new “smart patch” determines caloric intake and expenditure.
+author:null
+title:An Implant Could Ease Balance Problems
+subtitle:A patient has received the first ear implant to treat a balance disorder; researchers hope it leads to similar devices that are even more complex.
+author:null
+title:Now I See You
+subtitle:A surgery-free prosthetic retina restores vision in blind mice and raises the prospects for something similar in people.
+author:null
+title:Biomaterial Could Let Doctors 'Sculpt' Delicate Facial Features
+subtitle:The new material, which can be injected, molded, and set in place by exposure to light, could benefit people disfigured by disease or injury.
+author:null
+title:Wireless Heart Implant Reduces Hospitalizations
+subtitle:A pressure-sensing implant helps heart-failure patients stay healthy.
+author:null
+title:Building a Substitute Pancreas for Diabetics
+subtitle:A startup hopes implanted insulin-producing cells will free diabetics from insulin injections.
+author:null
+title:A Brain Implant that Thinks
+subtitle:A monkey study suggests that neural implants could one day help brain-damaged patients perform specific cognitive tasks.
+author:null
+title:Could Augmented Reality be Hazardous to Your Health?
+subtitle:Pop-up alerts and other displays in our field of vision could interfere with our perception of speed and velocity, says a bioengineer
+author:null
+title:Taming Tinnitus with Electrical Stimulation
+subtitle:Stimulating the vagus nerve may help block phantom sounds by reorganizing the brain.
+author:null
+title:Targeting the Brain with Sound Waves
+subtitle:Ultrasound might provide a new, noninvasive way to control brain activity.
+author:null
+title:Spotting Alzheimer's Disease Early
+subtitle:An experimental tracer detects signs of the disorder in living patients.
+author:null
+title:Brain Defect Found in Tone-Deaf People
+subtitle:A missing brain circuit may explain why some people can’t keep a tune.
+author:null
+title:Color-Blind Monkeys Get Full Color Vision
+subtitle:Gene therapy can transform the visual system, even in adults.
+author:null
+title:Reading the Surface of the Brain
+subtitle:A startup aims to develop a minimally invasive neural prosthesis for disabled patients.
+author:null
+title:Neural Stimulation for Autoimmune Diseases
+subtitle:A startup is developing an implanted stimulator to treat such illnesses as arthritis and inflammatory bowel diseases.
+author:null
+title:Immune System Offers Major Clue to Schizophrenia
+subtitle:A massive genetic study has sketched out a molecular link between schizophrenia and how the brain is shaped in adolescence.
+author:null
+title:What It Will Take for Computers to Be Conscious
+subtitle:The world’s best-known consciousness researcher says machines could one day become self-aware.
+author:null
+title:Brain Imaging Lets Vegetative Patient Communicate
+subtitle:The surprising new research is likely to challenge our notions of consciousness.
+author:null
+title:EEG Detects Signs of Awareness in Vegetative Patients
+subtitle:Researchers develop a simple way to test whether patients who appear unresponsive truly are.
+author:null
+title:DNA Sequencing Could Map the Brain’s Wiring
+subtitle:A fast, cheap way to identify neuron-to-neuron connections could shed light on disorders including autism and schizophrenia.
+author:null
+title:Awakening After 23 Years
+subtitle:A striking case affirms the paucity of care for people in a vegetative state.
+author:null
+title:How to Train Your Own Brain
+subtitle:A new way to create and interpret real-time brain scans could help addicts control their cravings.
+author:null
+title:Thought Translator Knows Vowels from Consonants
+subtitle:Scientists make progress reading thoughts from the severely impaired.
+author:null
+title:Tracking the Brain's Ability to Bluff
+subtitle:Brain-imaging experiments show how bargaining games could provide insights into psychiatric disorders.
+author:null
+title:Mapping How the Brain Matures
+subtitle:New analysis tools may eventually help doctors predict autism and other developmental disorders.
+author:null
+title:Repairing the Stroke-Damaged Brain
+subtitle:Noninvasive electrical therapy combined with rehab boosts recovery after stroke.
+author:null
+title:Reading Thoughts with Brain Imaging
+subtitle:Researchers use fMRI to determine the contents of short-term memory.
+author:null
+title:Solving the Mystery of fMRI
+subtitle:Researchers determine which cells mediate the blood flow tracked in fMRI.
+author:null
+title:Two Devices Treat Alzheimer's
+subtitle:Companies hope that brain stimulation will work where drugs have failed.
+author:Emily Mullin
+title:These New Devices Promise to Fight Pain without Opioids
+subtitle:Companies want to replace addictive painkillers and help people detox from opioids.
+author:null
+title:Safer Electrical Therapy for Parkinson’s
+subtitle:Delivering electrical stimulation via the spinal cord could help ease symptoms of the disease.
+author:null
+title:Clues to Controlling Seizures
+subtitle:New approaches to modeling the brain could improve electrical-stimulation therapies.
+author:null
+title:Engineering the Brain: The Panel
+subtitle:Neuroengineering at MIT’s Emerging Technologies Conference.
+author:null
+title:A Messy Art
+subtitle:A neurosurgeon explains how she manages to cope with the newest technologies for brain surgery.
+author:null
+title:Home Assistants Like Amazon Echo Could Be a Boon for Assisted Living
+subtitle:Elliptic Labs says it can use the speakers and mics on smart home assistants to detect if you’re there.
+author:null
+title:This Dryer Blasts Water Out of Fabric with Sound Waves
+subtitle:An ultrasonic dryer can extract moisture from your clothes faster and more efficiently than heat.
+author:null
+title:With $100 Million, Entrepreneur Sees Path to Disrupt Medical Imaging
+subtitle:Will ultrasound-on-a-chip make medical imaging so cheap that anyone can do it?
+author:null
+title:This App Lets You Control Your Phone Using Sonar
+subtitle:The built-in microphone and speakers of an iPhone can be used for far more than just talking.
+author:null
+title:Nanoparticles Show Which Way the Stem Cells Went
+subtitle:By monitoring the path of stem cells in the body, scientists can better explore experimental therapies, and doctors can better tune treatments in patients.
+author:null
+title:Patent Hints at iPad-Powered Portable Ultrasound Machine
+subtitle:Sonosite appears to be contemplating replacing custom hardware with a tablet computer
+author:null
+title:Making VR Movies You’d Actually Want to Watch
+subtitle:Google’s in-house VR filmmaker has figured out how to improve cinematic content for VR headsets.
+author:null
+title:Move Over, Cyber Monday: Here Comes “Black November”
+subtitle:Online sales are grabbing a bigger piece of holiday shopping, and retailers aren’t waiting until Cyber Monday to offer big deals.
+author:null
+title:GE and EADS to Print Parts for Airplanes
+subtitle:The technology could be used to make parts that perform better and cost less.
+author:null
+title:Device Tracks Blood Flow in the Brain
+subtitle:A headset ultrasound monitor could make it easier to detect the dangerous aftereffects of brain injuries.
+author:null
+title:Walmart’s Robotic Shopping Carts Are the Latest Sign That Automation Is Eating Commerce
+subtitle:Automated shopping carts may be a gimmick, but stores and warehouses are rapidly being transformed by automation.
+author:null
+title:A Former Walmart Exec Wants to Help You Buy Less
+subtitle:An unlikely team comes together with a startup that aims to change retail by becoming the marketplace for the “sharing economy.”
+author:null
+title:How Corporations Buy Their Way to Green
+subtitle:The renewable-energy certificate system has gotten more transparent, but improvements are still needed.
+author:null
+title:Why Medicine Will Be More Like Walmart
+subtitle:What health care will look like after the information technology revolution.
+author:null
+title:Walmart's New High-Tech Labs: You're Not in Arkansas Anymore
+subtitle:The way we shop is changing at lightning speed, and the world’s largest retailer knows it needs to keep pace.
+author:null
+title:Wal-Mart to Sell Electronic Health Record Systems
+subtitle:The superstore may improve access for small private practices.
+author:null
+title:The Super Bowl’s Second Screen
+subtitle:CBS is betting on the growing audiences who will use their tablets as they watch the big game.
+author:null
+title:Brain Injury Study Tracks Football’s Youngest Players
+subtitle:Researchers are using smart helmets and imaging to study brain injury risk in young football players over a season.
+author:null
+title:Facebook Data Shows Which Super Bowl Team Wins on Popularity
+subtitle:Drawing on millions NFL team page “likes,” Facebook reveals every county’s favorite Super Bowl team
+author:null
+title:Augmented-Reality Startup Meta Ups the Ante in the Headset Race
+subtitle:The startup’s headset will need to be tethered to a computer, but it costs a third the price of HoloLens.
+author:Amanda Schaffer
+title:Are Young Athletes Risking Brain Damage?
+subtitle:Sports leagues should do more to protect children from the long-term problems that stem from hits to the head.
+author:null
+title:A Wearable Computer More Powerful than Glass, and Even More Awkward
+subtitle:A startup that makes 3-D glasses stands out, in part, by including Steve Mann on its team.
+author:null
+title:Big Data Analysis Is Changing the Nature of Sports Science
+subtitle:When it’s possible to record the exact movements of players in team games such as football, basketball, and so on, how can algorithms crunch this data to provide meaningful insight?
+author:null
+title:What's Next for Concussions in Football?
+subtitle:No one helmet is better than the other, but new research funding could help change that.
+author:null
+title:Catching Classic Sports Moments as They're Happening
+subtitle:A startup quantifies what makes games exciting—and alerts you to go watch them.
+author:null
+title:Detecting Concussion on the Football Field
+subtitle:New device shows that brain injury may linger even after obvious symptoms disappear.
+author:null
+title:A New Era of Football?
+subtitle:Emphasis on preventing long-term brain injury has league executives changing policies.
+author:null
+title:How the Experts Quantify Sports
+subtitle:From identifying raw talent to measuring team chemistry, experts discuss the statistical side of sports.
+author:null
+title:Google Gives Away Video Software to Lure Developers
+subtitle:An open and free video format offers new opportunities for Web programmers.
+author:null
+title:App Developers Sticking to iPhone
+subtitle:Developers say fragmentation is hurting Android, while RIM and Microsoft fall still farther behind.
+author:null
+title:Virtual Reality Actually Feels Real When It Uses Physics
+subtitle:A small startup is trying to improve VR by simulating virtual characters’ bones and motions more realistically.
+author:null
+title:Fun (and Some Nausea) with the First Games for the Oculus Rift Headset
+subtitle:The first games for Oculus Rift are pretty sweet, though some can cause motion sickness.
+author:null
+title:Zapping Your Skull Could Alleviate Virtual-Reality Motion Sickness
+subtitle:The Mayo Clinic is betting that technology developed for flight simulators could help bring a sense of motion to VR and reduce nausea, too.
+author:null
+title:A Mouse with the Same Cancer as You
+subtitle:For $12,000, a company grafts a patient’s cancer into rodents and tests drugs on them.
+author:Rachel Metz
+title:How to Save Your Digital Soul
+subtitle:With a selfie and some audio, a startup called Oben says, it can make you an avatar that can say—or sing—anything.
+author:null
+title:Giving Prosthetics a Sense of Touch
+subtitle:A study gives a first demonstration that brain-machine interfaces can include touch feedback.
+author:null
+title:One Avatar, Many Worlds
+subtitle:Companies want to let users carry their avatar identities online.
+author:null
+title:Creating a Web of Worlds
+subtitle:Metaplace builds a different architecture for virtual worlds.
+author:null
+title:Workers at This Startup Will Soon Swap Their PC Monitors for Augmented Reality Glasses
+subtitle:Meron Gribetz says that his gesture controlled glasses can make you more productive.
+author:null
+title:Second Life Closes Banks
+subtitle:After months of financial scandals and fraud allegations, virtual banks got an eviction notice from Linden Lab.
+author:null
+title:Teaching Bacteria to Behave
+subtitle:Single-celled organisms could be “trained” to deliver drugs.
+author:null
+title:Google's Wi-Fi Dreams
+subtitle:Tech giants and broadcasters tussle over vacant TV channels.
+author:null
+title:What the FCC's Auction Means
+subtitle:Verizon and AT&T dominate the airwaves, but Google helped open the networks.
+author:null
+title:Three-Minute Anthrax Sensor
+subtitle:A new detector uses living cells that light up in the presence of airborne bioterror agents, such as anthrax and smallpox.
+author:null
+title:Capturing Protein Interactions
+subtitle:Freezing and slicing gives a snapshot of life inside cells.
+author:null
+title:Controlling Cell Behavior with Magnets
+subtitle:Nanoparticles allow researchers to initiate biochemical events at will.
+author:null
+title:How Will We Keep Drones from Running into Things?
+subtitle:As unmanned aircraft proliferate, a combination of regulations and crash-avoidance technologies will be needed.
+author:null
+title:Air Traffic Control for Drones
+subtitle:If large numbers of commercial drones are to take to the skies, they’ll need an air traffic control system.
+author:null
+title:This Surveillance Drone Never Needs to Land
+subtitle:A new automated aerial vehicle uses an extremely thin wire tethered to the ground to transmit power and data.
+author:null
+title:Why the U.K. Wants a Genomic National Health Service
+subtitle:The U.K. plans to sequence 100,000 National Health Service patients by 2017—in a bold push to be a genomic medicine leader.
+author:null
+title:Operation Berlin
+subtitle:A Cold War demo of time sharing linked Cambridge with West Berlin.
+author:Will Knight
+title:New Twists in the Road to Quantum Supremacy
+subtitle:Quantum computers will soon surpass conventional ones, but it will take time to make the machines useful.
+author:Will Knight
+title:IBM and MIT Bet That Materials and Quantum Advances Will Supercharge AI
+subtitle:A new center at MIT could advance artificial intelligence and help IBM reestablish itself as a leader in the field.
+author:David H. Freedman
+title:A Reality Check for IBM’s AI Ambitions
+subtitle:IBM, number 39 on our list of the 50 Smartest Companies, overhyped its Watson machine-learning system, but the company still could have the best access to the kind of data needed to make medicine much smarter.
+author:null
+title:New Weather App Can Spread Urgent Alerts Even When Cell Networks Are Down
+subtitle:The Weather Company’s new Android app uses mesh networking to spread data between phones over Wi-Fi and Bluetooth.
+author:null
+title:Augmented Reality Could Speed Up Construction Projects
+subtitle:Builders are experimenting with Microsoft’s HoloLens to visualize projects and avoid expensive mistakes.
+author:Andrew Rosenblum
+title:Air Force Tests IBM’s Brain-Inspired Chip as an Aerial Tank Spotter
+subtitle:Chips with silicon “neurons” could make satellites, aircraft, and drones smarter.
+author:null
+title:HoloLens Starts to Show How Augmented Reality Can Be Social
+subtitle:A simple gaming demo makes it clear that augmented reality is a lot more fun with others.
+author:null
+title:Microsoft Researchers Are Working on Multi-Person Virtual Reality
+subtitle:Researchers in Jaron Lanier’s lab at Microsoft are exploring ways for people to share the experience of mixed reality.
+author:Signe Brewster
+title:Two Weeks with Oculus Touch and I’m Hooked
+subtitle:Virtual reality gets much more immersive as soon as you strap on these new hand-tracking controllers.
+author:null
+title:Reality Check: Comparing HoloLens and Magic Leap
+subtitle:After trying demos of Magic Leap and HoloLens, it’s clear that commercializing augmented reality technology will be difficult.
+author:null
+title:How to Stop Virtual Reality from Making You Want to Puke
+subtitle:Stanford researchers are building a light field stereoscope in hopes of making it easier to add realistic focus cues to virtual reality.
+author:null
+title:Microsoft’s HoloLens Will Put Realistic 3-D People in Your Living Room
+subtitle:The HoloLens augmented-reality headset projects believable images of people into real settings.
+author:null
+title:This Super-Fast 3-D Printer Is Powered by Holograms
+subtitle:A startup called Daqri has technology that can print solid objects faster and also powers a new kind of head-up display.
+author:null
+title:Intel Might Be Making an Augmented-Reality Headset, Hoping to Cash In on a Rising Industry
+subtitle:If it is building an AR device, chip maker Intel could be planning to let other companies manufacture it.
+author:null
+title:Are Face Recognition Systems Accurate? Depends on Your Race.
+subtitle:The available evidence suggests that face matching systems don’t work equally well for different races.
+author:null
+title:Paper-Thin Lenses Could Shrink Cameras and Holographic Displays
+subtitle:Nanostructured sheets of silicon can bend light in unusual ways, eliminating the need for bulky lenses.
+author:null
+title:Super-thin Superconducting Cables
+subtitle:New compact cables show promise for power transmission and high-field magnets.
+author:null
+title:Energy-Dense Silicon Batteries Get $3M
+subtitle:Startup Amprius has recieved government funding to scale up production of advanced lithium-ion electrodes.
+author:null
+title:Nanofluidics Get More Complex
+subtitle:A new three-dimensional device sorts and separates nanoparticles by size.
+author:null
+title:A Network That Builds Itself
+subtitle:Ad-hoc wireless networks may soon tell emergency workers how to deploy transmitters.
+author:null
+title:Home Tweet Home: A House with Its Own Voice on Twitter
+subtitle:A techie’s San Francisco home has its own Twitter feed. Will yours be next?
+author:null
+title:Magic Leap Has a Headset, but Its Technology Is Still Mysterious
+subtitle:The augmented-reality startup has raised over a billion dollars from investors, but it still isn’t saying how its technology really works.
+author:null
+title:Isaac Asimov Asks, “How Do People Get New Ideas?”
+subtitle:null
+author:null
+title:Google Brain Wants Creative AI to Help Humans Make a “New Kind of Art”
+subtitle:The search giant’s AI research division has developed a deep-learning tool to produce music and art with humans in the loop.

@@ -1,0 +1,966 @@
+author:null
+title:What If the Free Market Decided Whether or Not Drugs Work?
+subtitle:President Trump’s pick to lead the country’s drug regulatory agency could usher in major reforms.
+author:null
+title:FDA E-mails Reveal Apple’s Long Game for Health Tech
+subtitle:Close communications with the agency suggest that Apple is heavily invested in developing medical equipment—but is in no hurry about it.
+author:null
+title:Device Lets Cancer Patients Assist in Their Own Breast Reconstruction, at Home
+subtitle:A needleless, remote-controlled device for tissue expansion is awaiting FDA approval.
+author:null
+title:Clinics Offering Unproven Stem Cell Therapies Are Proliferating Across the U.S.
+subtitle:Patients don’t need “stem cell tourism” anymore—ineffective and potentially dangerous interventions abound at home.
+author:null
+title:Who Approved the Genetically Engineered Foods Coming to Your Plate? No One.
+subtitle:Uncertainty about future regulations clouds the future of agricultural biotechnology in the U.S.
+author:null
+title:A DIY Bioprinter Is Born
+subtitle:Members of the biohacker movement have created an inexpensive device to print cells. Will they print a leaf next?
+author:null
+title:Healthy Genetic Variants Used to Make New Cholesterol Drugs
+subtitle:By mimicking genetic variation in people with naturally low levels of cholesterol, drug developers are hoping to create a new drug.
+author:null
+title:Tidal-Power System Hits Record Output
+subtitle:Marine Current Turbines’ SeaGen system quadruples the world tidal-turbine power record.
+author:null
+title:Startup’s Artificial DNA Could Revolutionize Drug Design
+subtitle:Company pursues breakthrough medicines with proteins unlike any seen in nature.
+author:Emily Mullin
+title:A Year After Approval, Gene-Therapy Cure Gets Its First Customer
+subtitle:GlaxoSmithKline says it has treated a child with Strimvelis, its gene therapy for immune deficiency.
+author:null
+title:Nanocarriers Come Through
+subtitle:Tiny Trojan horses deliver a cancer drug to cell nuclei.
+author:Jessica Leber
+title:Merck Looks to Startups
+subtitle:The drug giant is hoping to boost its innovation pipeline with new funding for early-stage biotechnology research.
+author:null
+title:Insulin in a Pill
+subtitle:A drugmaker is testing an alternative to diabetes injections, but many sizable hurdles remain.
+author:null
+title:Breakthrough Flu Drug Might Already Exist
+subtitle:Fragments of known drugs could lead to a more robust antiviral for H1N1 and other flu variants.
+author:null
+title:A Two-Pronged Attack on Cancer
+subtitle:A number of dual-action antibodies are in clinical trials for fighting cancer.
+author:null
+title:Google Bids to Make Its Sideshows into Main Attractions
+subtitle:Google’s rebirth as Alphabet is an attempt to prove that the company’s “moonshots” can be as successful as its Internet business.
+author:null
+title:Rogue Pharmacies Dominate Bing's Ads
+subtitle:Illegitimate pharmacies account for 90 percent of drug ads on Microsoft’s Bing, according to a new report.
+author:null
+title:Google to Try to Solve Death, LOL
+subtitle:A new company launched by Google will seek to extend human life spans.
+author:null
+title:Protein Hints at a Fountain of Youth in Blood
+subtitle:It’s another tantalizing finding in an area of anti-aging research that has had mixed results.
+author:null
+title:The Anti-Aging Pill
+subtitle:Facing a long wait for evidence, a longevity researcher takes an unusual path to market.
+author:null
+title:Anti-Aging Uncertainties Persist
+subtitle:New research raises further questions about the role of sirtuins in aging.
+author:null
+title:A Spit Test for Age
+subtitle:Researchers are able to predict individuals’ ages from DNA modifications in their saliva.
+author:null
+title:Stealth DNA May Control Aging
+subtitle:Research on Amish people reveals a link between a rare genetic pattern and healthy aging.
+author:null
+title:Genes for Extreme Longevity
+subtitle:Scientists can predict who will live past 100 using a subset of 150 genetic variations.
+author:null
+title:Longevity Genes May Protect against Alzheimer's
+subtitle:Drugs that mimic the molecular effect are under development.
+author:null
+title:Genetic Fountain of Youth
+subtitle:Researchers have identified a genetic tweak that can slow aging in mice.
+author:null
+title:A Genetic Determinant of Biological Aging in Humans?
+subtitle:Researchers have found a genetic variant linked to the length of telomeres.
+author:null
+title:Pfizer "Disappointed" with First Results for Alzheimer's Drug Candidate
+subtitle:Amyloid-recognizing drug has no effect in patients with a high-risk genetic background.
+author:null
+title:Pharmaceutical Firms Widen Search for Medicines
+subtitle:Desperate to find new drugs, some pharmaceutical firms are outsourcing nearly half of their R&D budgets.
+author:null
+title:A Simpler Way to Report Drug Side Effects
+subtitle:Taking advantage of electronic health records.
+author:null
+title:Gene-Editing Startup Raises $120 Million to Apply CRISPR to Medicine
+subtitle:A company started by several gene-editing pioneers gets new funding to develop treatments for blood cancers, eye diseases, and sickle-cell anemia.
+author:null
+title:Pharma Invests Big in Stem Cells
+subtitle:GSK gives the Harvard Stem Cell Institute $25 million.
+author:null
+title:Where Have All the Billions Gone?
+subtitle:Big Pharma is on a buying spree to obtain smaller biotech companies after having spent billions on R&D and failing to produce new drugs.
+author:null
+title:The Billion-Dollar Bid to Prevent Epidemics
+subtitle:Filling a gap that pharma fails to fund, a new initiative will develop vaccines to prevent outbreaks of emerging viruses.
+author:null
+title:Freeze-Dried Molecules Can Be Used to Whip Up Medicines Anywhere
+subtitle:The approach could be a tenth the price of earlier methods.
+author:null
+title:Genomics Goes to (Clinical) Trial
+subtitle:Foundation Medicine will profile tumor genomes for Novartis’ cancer drug trials.
+author:null
+title:Fine-tuning Cancer Treatments
+subtitle:Drug companies are harnessing new knowledge of cancer genetics.
+author:null
+title:Device Tests Drugs on a Tumor That’s Still in the Body
+subtitle:Presage’s device would allow oncologists to test potentially harmful compounds in tiny amounts before giving patients a full dose.
+author:null
+title:A New Way to Break Ultra-Strong Chemical Bonds
+subtitle:Cornell advance could be a first step to low-energy industrial chemical production.
+author:null
+title:An Off Switch for Autism
+subtitle:Neuroscientists reverse autism symptoms in mice.
+author:null
+title:High-Speed Evolution Aids Drug Development
+subtitle:A new technique can make tailor-made proteins evolve in days, not years.
+author:null
+title:New Brain-Mapping Technique Captures Every Connection Between Neurons
+subtitle:A new technique called MAP-seq uses RNA bar codes to quickly and cheaply chart connections between brain cells.
+author:null
+title:First Monkeys with Autism Created in China
+subtitle:They spin in their cages and don’t interact. The scientists who created autistic monkeys say they’ll now try to cure them.
+author:null
+title:Microsoft Researchers Get Wrapped Up in Smart Scarf
+subtitle:In the quest to make wearable electronics useful, researchers take a close look at the neck.
+author:null
+title:Tiny Brain Clumps Offer New Clues into the Cause of Autism
+subtitle:Brain “organoids” made from the stem cells of autism patients could help researchers determine the factors that lead to the disorder.
+author:null
+title:Digital Summit: First Emotion-Reading Apps for Kids with Autism
+subtitle:Software meant to help people interpret emotions will soon be available in several apps.
+author:null
+title:The Mystery of Autism
+subtitle:null
+author:David Rotman
+title:Shining Light on Madness
+subtitle:Drugs for psychiatric illnesses aren’t very effective. But new research is offering renewed hope for better medicines.
+author:Stephen S. Hall
+title:Solving the Autism Puzzle
+subtitle:For years scientists searched fruitlessly for the causes of autism by looking for genes shared by families prone to the disorder. Now researchers taking a new approach have begun to unlock its secrets.
+author:null
+title:Priming the Body to Tackle Cancer
+subtitle:Immune therapy proves effective against melanoma in an early trial.
+author:null
+title:Drug Follows Melanoma Wherever It Goes
+subtitle:Researchers are testing the safety of a nanoparticle that targets cancer cells.
+author:null
+title:A Cancer-Fighting Implant
+subtitle:A polymer disc shrinks tumors in rodents by eliciting an immune attack.
+author:null
+title:Implant Makes Cells Kill Cancer
+subtitle:A polymer device trains immune cells to shrink tumors.
+author:null
+title:Transparent Fish Provide a Window into Clogged Arteries
+subtitle:Genetically engineered zebrafish could provide a quick way to test new drugs to prevent dangerous plaque buildup in the heart.
+author:null
+title:Defeating Drug-Resistant Cancers
+subtitle:Tumors can evolve resistance to powerful new cancer drugs. But scientists are now learning why, giving hints at how to stop it.
+author:null
+title:The Smell of Cancer
+subtitle:Skin-cancer tumors give off a characteristic odor profile that could be used for early detection.
+author:null
+title:How Fish Grow New Hearts
+subtitle:Could mimicking the process in humans rejuvenate damaged hearts?
+author:null
+title:Augmented Reality Gets to Work
+subtitle:Augmented reality hasn’t yet lived up to its promise, but it could catch on in situations where it makes employees more efficient.
+author:null
+title:A Transparent Fish for Studying Cancer
+subtitle:Scientists can watch cancer spread and blood form in real time.
+author:null
+title:The i-MiEV
+subtitle:null
+author:null
+title:Here Come the High-Definition 3-D TVs
+subtitle:Panasonic, Samsung, Sony announced upcoming 3-D HDTVs this week.
+author:null
+title:Mitsubishi Unveils Laser TV, 3-D Home Theater
+subtitle:Expected to be available by the end of the year, laser TV promises twice the color of HD.
+author:null
+title:Bringing 3-D Home
+subtitle:The electronics industry hopes to woo consumers with eye-popping technology.
+author:null
+title:Forget Hydrogen Cars, and Buy a Hybrid
+subtitle:Hybrids are a much more cost-effective way to reduce carbon emissions than newly released hydrogen fuel cell cars.
+author:null
+title:Toyota Scales Back Electric Vehicle Plans
+subtitle:The automaker is focusing on hybrids instead, intending to produce 21 models by 2015.
+author:null
+title:A Wish List for the Next GM Volt
+subtitle:The car is an engineering achievement, but it could easily be even more appealing.
+author:null
+title:New Web Standards Bring New Security Worries
+subtitle:HTML5, which enables Web pages to mimic conventional software, also introduces new security problems.
+author:null
+title:New Metal Deposits Found at Rare Earth Mine
+subtitle:The find could ease U.S. dependence on Chinese supply, but critics consider the announcement premature.
+author:null
+title:How Vehicle Automation Will Cut Fuel Consumption
+subtitle:Cars that park themselves and automatically convoy with other cars could reduce congestion and emissions.
+author:null
+title:Carmakers Unveil New Types of Hybrids
+subtitle:Alternative approaches replace the battery with compressed air or a flywheel.
+author:null
+title:Automakers Criticize Fuel Cells
+subtitle:GM and Toyota leaders admit that hydrogen fuel cells have serious problems.
+author:null
+title:Electric Buses Get a Jump Start
+subtitle:A GM-funded bus could reduce transit agencies’ fuel bills by 80 percent.
+author:null
+title:What New Emissions Standards Will Mean to Automakers
+subtitle:Increasing mileage standards to 54.5 mpg won’t require major new technologies, say experts.
+author:null
+title:Hybrid Power Could Help Drone Delivery Take Off
+subtitle:A prototype hybrid quadcopter can fly several times farther than conventional battery-powered ones.
+author:Kevin Bullis
+title:Carmakers Find Ways to Make Cheaper Hybrids
+subtitle:The fuel-sipping cars have been unprofitable, but technological advances are changing that.
+author:null
+title:Liquefied Air Could Power Cars and Store Energy from Sun and Wind
+subtitle:A 19th-century idea might lead to cleaner cars, larger-scale renewable energy.
+author:null
+title:Making Solar Cheaper with Natural Gas
+subtitle:Florida Power and Light has built a solar power plant linked to a natural gas plant.
+author:null
+title:Ultracaps Could Boost Hybrid Efficiency
+subtitle:Recent studies point to the potential of ultracapacitors to augment conventional batteries.
+author:null
+title:Obama Announces Battery Grants Recipients
+subtitle:Money has been allocated to jump-start an advanced battery industry in the United States.
+author:null
+title:Building Batteries for Electric Cars
+subtitle:A123’s new factory exploits automation and advances in nanotechnology.
+author:null
+title:A Cheap Route to Robust LEDs
+subtitle:Chemical bonds put a new spin on quantum-dot hybrid light-emitting devices.
+author:null
+title:GM Opens a Battery Research Lab for the Volt
+subtitle:The large facility is meant to reflect a change of direction for the bankrupt company.
+author:null
+title:First Stretchable Holographic Display Unveiled
+subtitle:Embedding gold nanorods in contact lens material makes an entirely new kind of holographic display possible.
+author:null
+title:Virtual Creatures in a Box, Controlled by You
+subtitle:A startup uses an old parlor trick and smartphone sensing to let you control virtual objects in a see-through box.
+author:null
+title:Microsoft Making Fast Progress with HoloLens
+subtitle:In just a few months, the Microsoft wearable device that blends virtual reality with the real world seems to have gotten closer to becoming a commercial product.
+author:null
+title:New Kind of LED Could Mean Better Google-Glass-Like Displays
+subtitle:Micro-display LED tech could light up the next generation of face-wearable gadgets.
+author:null
+title:A Longer Lasting Phone? Google's Larry Page Says It's Coming
+subtitle:Improved battery life and durability could be big selling points for new phones from Motorola.
+author:null
+title:Low-Power Color Displays
+subtitle:Oxford University researchers demonstrate that materials used in DVDs could make color displays that don’t sap power.
+author:null
+title:A Simple Way to Turn Any LCD into a Touch Screen
+subtitle:Electromagnetic interference can turn a plain LCD into a touch screen on the cheap.
+author:null
+title:Quantum Dots Get Commercial Debut in More Colorful Sony TVs
+subtitle:Technology from QD Vision replaces the conventional backlight in LCDs, allowing for purer colors.
+author:null
+title:New Electronics, Cheaper OLED TVs
+subtitle:Stacked components could make OLED screens competitive with LCDs.
+author:null
+title:Startup Aims for Perfect Pixels
+subtitle:A new display offers color video and a reflective e-reader mode.
+author:null
+title:New 3-D Display Could Let Phones and Tablets Produce Holograms
+subtitle:Optical trickery lets a modified LCD produce hologram-like still images and videos.
+author:null
+title:A New Breed of Laser TV
+subtitle:Laser phosphor displays promise efficiency and simple manufacturing.
+author:null
+title:Bringing Color to E-Readers
+subtitle:Several models capable of playing video are just around the corner.
+author:null
+title:Like Your Glasses, Your Virtual-Reality Headset May Need a Prescription
+subtitle:There’s hope for wearers of glasses who want a crisp virtual reality experience.
+author:null
+title:More Colorful Displays with Quantum Dots
+subtitle:Nanocrystals improve the efficiency and color range of LCDs.
+author:null
+title:Eyeglasses That Can Focus Themselves Are on the Way
+subtitle:Deep Optics is working on glasses with liquid-crystal lenses that can constantly refocus; it could be good news for aging eyes and virtual reality, too.
+author:null
+title:Smart-ish Glasses That Don’t Look Dumb
+subtitle:An eyewear and vision-insurance company is building activity-tracking glasses that look a lot like regular specs.
+author:Rachel Metz
+title:Augmented-Reality Glasses Could Help Legally Blind Navigate
+subtitle:Startup VA-ST thinks its depth-sensing glasses can help people with little sight get around more easily.
+author:null
+title:Augmented Reality Study Projects Life-Sized People into Other Rooms
+subtitle:A Microsoft Research study uses augmented reality to project a life-size person into a room with you, perched in an empty seat.
+author:null
+title:When Virtual Reality Collides with Reality, It’s Surreal
+subtitle:A Portland startup called Wild is combining virtual reality with elements of the physical world.
+author:null
+title:inFORM: An Interactive Dynamic Shape Display that Physically Renders 3-D Content
+subtitle:An interactive dynamic display table.
+author:null
+title:A Gestural Interface for Smart Watches
+subtitle:A 3-D gesture-recognition chip could make it a lot easier to use smart watches and head-mounted computers.
+author:null
+title:Leap Motion’s Struggles Reveal Problems with 3-D Interfaces
+subtitle:It may take years for 3-D gesture-control to catch on with consumers and app developers.
+author:null
+title:A Look Back as Microsoft’s CEO Prepares to Depart
+subtitle:Microsoft had some big product successes and a number of flops under Steve Ballmer.
+author:null
+title:An Armband Promises a Simpler Route to Gesture Control
+subtitle:Can an armband that controls gestures by measuring muscle activity make it as a mainstream gadget?
+author:Tom Simonite
+title:Microsoft's Plan to Bring About the Era of Gesture Control
+subtitle:Apple might have made the touch screen ubiquitous, but Microsoft thinks hands-free interfaces will be just as big.
+author:null
+title:Leaping Into the Gesture-Control Era
+subtitle:Technology that accurately tracks finger motions could revolutionize desktop and mobile computing.
+author:null
+title:Intel’s New Interface Idea Is a Mash-up of All the Others
+subtitle:The approach could help keep laptops relevant—if intuitive applications can be found.
+author:Kate Kaye
+title:Digital Advertising Takes a Hit
+subtitle:Big-name advertisers have begun to question whether they’ve placed too much faith—and money—in targeted advertising.
+author:null
+title:Recommended from Around the Web (Week ending January 30, 2016)
+subtitle:A roundup of the most interesting stories from other sites, collected by the staff at .
+author:null
+title:Recommended from Around the Web (Week ending January 9, 2016)
+subtitle:A roundup of the most interesting stories from other sites, collected by the staff at .
+author:null
+title:Recommended from Around the Web (Week ending January 23, 2016)
+subtitle:A roundup of the most interesting stories from other sites, collected by the staff at .
+author:null
+title:Recommended from Around the Web (Week ending January 2, 2016)
+subtitle:A roundup of the most interesting stories from other sites, collected by the staff at .
+author:null
+title:Recommended from Around the Web (Week ending January 16, 2016)
+subtitle:A roundup of the most interesting stories from other sites, collected by the staff at .
+author:null
+title:Recommended from Around the Web (Week ending December 26, 2015)
+subtitle:A roundup of the most interesting stories from other sites, collected by the staff at .
+author:null
+title:Why Electric Cars Could Be Safer than Gasoline-Powered Ones
+subtitle:Sure, lithium-ion batteries have risks, but so do gasoline-powered cars.
+author:null
+title:Recommended from Around the Web (Week ending December 5, 2015)
+subtitle:A roundup of the most interesting stories from other sites, collected by the staff at .
+author:null
+title:Top Safety Official Doesn’t Trust Automakers to Teach Ethics to Self-Driving Cars
+subtitle:Federal rules could lay out how cars decide whom to protect or harm in a crash.
+author:null
+title:GM Announces Retrofit to Address Volt Fires
+subtitle:Coolant sensors and structural improvements are designed to make the electric car safer.
+author:null
+title:Grounded Boeing 787 Dreamliners Use Batteries Prone to Overheating
+subtitle:A fire last week and a forced landing today have brought the possibility of such problems to the forefront.
+author:null
+title:Laws of Physics Persist: In Crashes, Big Cars Win
+subtitle:New tests confirm that in a head-to-head collision, it’s better to be in the big car.
+author:null
+title:New U.S. Regulations Proposed in Response to Fukushima
+subtitle:A task force calls for safety upgrades, but the nuclear industry worries about their cost.
+author:null
+title:Cars Are Fast Becoming Smartphones on Wheels
+subtitle:Wireless connections in cars are becoming faster and more capable, bringing new features, new services—and new problems.
+author:null
+title:App Provides Extra Eyes on the Road
+subtitle:iOnRoad warns drivers of an impending collision—but it can be a distraction itself.
+author:null
+title:Wireless Car Sensors Vulnerable to Hackers
+subtitle:Researchers figure out how to hijack sensor communications.
+author:null
+title:Asking the Crowd How to Make Something
+subtitle:A DARPA project shows how the wisdom of crowds can be tapped for a fresh take on how to manufacture something as complex as a combat vehicle.
+author:null
+title:Porsche with a Plug
+subtitle:The 918 Spyder will be the world’s fastest plug-in hybrid.
+author:null
+title:A Quicker Test for Electric Car Batteries
+subtitle:Promising battery technologies often get bogged down in long experiments–a new test could set them loose.
+author:null
+title:Garbage Trucks Go Green
+subtitle:A hydraulic hybrid technology lets trucks burn a third less fuel than they normally would.
+author:null
+title:Gene Control, Delivered Directly to the Brain
+subtitle:The technique could help patients with currently untreatable diseases such as Huntington’s.
+author:null
+title:Gene Therapy on the Mend as Treatment Gets Western Approval
+subtitle:Regulatory approval of a gene therapy treatment in Europe could spark broader patient access to the technology.
+author:null
+title:U.S. Supreme Court Says “Natural” Human Genes May Not Be Patented
+subtitle:The decision should reduce uncertainty in the field of molecular diagnostics.
+author:null
+title:An RNA Switch for Stem Cells
+subtitle:A new study reveals the influence of large RNA molecules in controlling stem cells.
+author:Susan Young Rojahn
+title:Gene-Silencing Technique Targets Scarring
+subtitle:A biotech company founded by Craig Mello, codiscoverer of RNAi, brings its first self-delivering interfering RNA to clinical trial.
+author:null
+title:The Consumer Genetic Testing Industry Strikes Back
+subtitle:Industry leaders and some geneticists criticize a damning government report.
+author:Emily Mullin
+title:A DNA App Store Is Here, but Proceed with Caution
+subtitle:Helix will sequence your genes for $80 and lure app developers to sell you access to different parts of it.
+author:null
+title:How to Stick to New Year's Resolutions
+subtitle:Social media, Wi-Fi gadgets and a sense of shame keep people motivated.
+author:null
+title:Failed Diet? You Really Can Blame It on the Genes
+subtitle:A fruit fly study shows that genetics have a profound effect on how animals respond to diets.
+author:null
+title:Caloric Restriction Slows Aging in Monkeys
+subtitle:The diet delays or prevents diabetes, cancer, heart disease, and brain atrophy.
+author:null
+title:Obesity's Cellular Traffic Jam
+subtitle:Research in mice reveals why brain cells become deaf to appetite-suppressing signals.
+author:null
+title:Eating According to Your Genome
+subtitle:The emerging field of nutrigenomics is starting to yield some DNA-based diet tips, says nutrition scientist Jose Ordovas.
+author:null
+title:Making Fat Disappear
+subtitle:Engineering mice with a fat-burning strategy from bacteria keeps the animals thin.
+author:null
+title:Part I: The Alchemist
+subtitle:A chef in Chicago wants to blow your mind
+author:null
+title:More Good News about Red Wine
+subtitle:A new study shows that resveratrol, a compound found in wine, boosts energy expenditures.
+author:null
+title:Why Google Is Selling Off Some of the Coolest Robots Ever Built
+subtitle:By putting Boston Dynamics up for sale, the search giant may be acknowledging how hard it is to turn impressive humanoid robots into a viable product.
+author:null
+title:Recommended Reads on the Robot and AI Beat This Week
+subtitle:A roundup of interesting stories on robotics and artificial intelligence from other sites, collected by Will Knight, ’s senior editor for AI.
+author:null
+title:A Robotic Walk in the Woods
+subtitle:A humanoid machine stumbling around the forest does not foreshadow a robot uprising.
+author:null
+title:Part II: The Alchemist
+subtitle:A chef in Chicago wants to blow your mind
+author:null
+title:Meet Atlas, the Robot Designed to Save the Day
+subtitle:New humanoid robots will compete in a contest designed to test the ability of machines to take on extremely dangerous and high-stakes human jobs.
+author:null
+title:Can Social Networks Be Generated Automatically?
+subtitle:Companies face challenges mining social ties.
+author:null
+title:Horace Freeland Judson, 1931-2011
+subtitle:Author of  and a  contributor dies.
+author:null
+title:U.K. Approves Genetic Editing of Healthy Human Embryos
+subtitle:A British government panel has given the green light to a team of researchers who want to use CRISPR to alter human embryos.
+author:null
+title:Herding Swarms of Microrobots
+subtitle:Tiny robots self-assemble with a single command.
+author:Antonio Regalado
+title:A New Way to Reproduce
+subtitle:Scientists are trying to manufacture eggs and sperm in the laboratory. Will it end reproduction as we know it?
+author:null
+title:Chinese Team Reports Gene-Editing Human Embryos
+subtitle:A research team finds that gene editing isn’t yet reliable enough to engineer the human species.
+author:null
+title:A 3D Video of the Embryonic Heartbeat
+subtitle:Researchers are using a new imaging technique to study the development of the mammalian heart.
+author:null
+title:Are Chimeras People Too?
+subtitle:Catholic bishops oppose human-animal hybrids but say that if one is created, it should be considered a full human.
+author:null
+title:Chinese Researchers Experiment with Making HIV-Proof Embryos
+subtitle:The attempt is another controversial test of whether gene-modified people are possible.
+author:null
+title:Research Reveals Structure of Key CRISPR Complex
+subtitle:Work reveals how a genome-editing tool works to correct errors in the genetic code.
+author:null
+title:HIV Vaccines to be Tested at the Disease's Epicenter
+subtitle:Researchers will test four experimental vaccines in a region in South Africa where one in five adults is infected with HIV.
+author:Jon Cohen
+title:The Machine That Will Help End TB
+subtitle:Nearly 1.5 million people die from tuberculosis every year, even though most cases can be cured with routine antibiotic treatments. One country’s fight to get the ancient scourge under control has an unlikely hero: a simple diagnostic test.
+author:null
+title:FDA Approves First Pill to Reduce Chance of HIV Infection
+subtitle:A daily dose of Gilead’s Truvada reduces infection in high-risk, uninfected men.
+author:null
+title:New Material Breaks Surface-Area Record
+subtitle:One gram of a new hydrogen-storing nanomaterial has the surface area of a football field.
+author:null
+title:A Quick, Cheap Diagnostic Test for HIV and Other Infections
+subtitle:A simple microfluidics chip could improve health care in poor countries by making rapid diagnostic testing a reality.
+author:null
+title:Genetic Secret to AIDS Immunity Found
+subtitle:Research offers insights into how some HIV-positive people are able to avoid the full-blown disease.
+author:null
+title:Fluorescent Cats to Help Fight AIDS
+subtitle:New technology to genetically engineer cats could lead to new treatment for feline AIDS.
+author:null
+title:Cheap Electronics on Paper Diagnostic Chips
+subtitle:High-performance disposable electronics could improve the quality of inexpensive tests.
+author:null
+title:Ganging Up on HIV
+subtitle:A diverse group of antibodies may work together to neutralize the virus, suggesting a new approach to vaccination.
+author:null
+title:Monitoring HIV on a Cheap Chip
+subtitle:A microfluidic chip could measure effectiveness of patient treatments in resource-poor countries.
+author:null
+title:IBM Fights HIV
+subtitle:The company is using its supercomputing prowess to augment experiments at the University of Edinburgh investigating the HIV infection process.
+author:null
+title:Smartphone-Controlled Cells Could Pump Insulin for Diabetics
+subtitle:Researchers used optogenetics and a mobile app to stimulate cells that were designed to produce insulin in diabetic mice.
+author:null
+title:Injectable Gel Generates New Blood Vessels
+subtitle:An experimental treatment helps diabetic mice grow new blood vessels. It could offer new hope to people with vascular disease.
+author:Aleszu Bajak
+title:Will Embryonic Stem Cells Ever Cure Anything?
+subtitle:Inside the long, costly effort to cure diabetes with stem cells.
+author:Amanda Schaffer
+title:The Problem Solver
+subtitle:Cancer. Diabetes. Liver disease. If there’s a bioengineering challenge, Robert Langer, ScD ’74, is ready to tackle it.
+author:null
+title:A Chip Offers a Faster and Cheaper Test for Type 1 Diabetes
+subtitle:An inexpensive but precise method of detecting type 1 diabetes could be a life-saver.
+author:Brian Alexander
+title:A Pancreas in a Capsule
+subtitle:Stem-cell advocates pin their hopes on a method of treating diabetes.
+author:Emily Mullin
+title:Edible CRISPR Could Replace Antibiotics
+subtitle:Researchers are developing a probiotic to make disease-causing bacteria self-destruct.
+author:null
+title:DNA-Based Research May Have Unveiled Long-Sought Diabetes Treatment
+subtitle:A synthetic drug that controls blood sugar in obese mice demonstrates the potential of a DNA-dependent method for developing new chemical compounds.
+author:Emily Mullin
+title:Why HPV Vaccination Rates Remain Low in Rural States
+subtitle:The potentially life-saving cancer vaccine has been around for more than a decade, so why isn’t everyone getting it?
+author:null
+title:Stem Cells from a Diabetes Patient
+subtitle:Researchers hope stem cells could one day treat chronic conditions like diabetes and Parkinson’s disease.
+author:Antonio Regalado
+title:The Easiest Place to Use CRISPR Might Be in Your Ear
+subtitle:Scientists are hopeful they can inject the gene-editing technology directly into the ear to stop hereditary deafness.
+author:null
+title:The Glucose-Monitoring Tattoo
+subtitle:A novel nanosensor could be used for skin-based glucose sensing.
+author:null
+title:An Artificial Pancreas
+subtitle:A device that reads glucose levels and delivers insulin may be close at hand.
+author:null
+title:A Flu Vaccine without the Needle
+subtitle:A new technology delivers a vaccine in a painless, biodegradable skin patch.
+author:null
+title:Smart Insulin
+subtitle:An experimental drug for diabetes dispenses insulin in response to glucose levels.
+author:null
+title:Artificial Skin will use Quantum Tunneling
+subtitle:Peratech is to develop a novel pressure sensing material for robots.
+author:null
+title:How Sun and Smoke Trigger Cancer
+subtitle:Sequencing tumor genomes reveals the origins of some cancer-causing mutations.
+author:null
+title:Glucose Meter Can Detect Cocaine, Uranium in Blood
+subtitle:Creative chemistry lets an inexpensive, off-the-shelf meter measure a variety of medically important targets.
+author:null
+title:Fossil Fuel Subsidies Dwarf Support for Renewables
+subtitle:A report from Bloomberg New Energy Finance details international government energy spending on biofuels and renewable energy.
+author:null
+title:A Better Artificial Skin
+subtitle:Skin cells genetically engineered to be resistant to bacteria could reduce infections and improve chances of survival among burn victims.
+author:null
+title:Microgrids Keep Power Flowing Through Sandy Outages
+subtitle:Local power generation with microgrids showed the benefits of reliability during Hurricane Sandy.
+author:null
+title:Reviving a 50 Million Year Old Spider
+subtitle:High-resolution imaging reveals the inner organs of an ancient spider fossil.
+author:null
+title: Smart Wind and Solar Power 
+subtitle:Big data and artificial intelligence are producing ultra-accurate forecasts that will make it feasible to integrate much more renewable energy into the grid.
+author:null
+title:Facebook’s Controversial Free-App Plan Gets Competition
+subtitle:As Facebook offers free data on mobile phones in India, a competing plan makes the same technology available to any Android app in 15 countries.
+author:null
+title:A Fuel Cell That Runs on Fire
+subtitle:Berkeley Labs spin-off Points Source Power develops fuel-cell charger for Kenya powered by cookstove fires.
+author:Kevin Bullis
+title:How Solar-Based Microgrids Could Bring Power to Millions
+subtitle:Millions of the world’s poorest lack power. Microgrids could be a clean-energy solution.
+author:David Talbot
+title:Kenya Has Mobile Health App Fever
+subtitle:Nairobi startup’s health app surges; Safaricom gives subscribers links to experts for two cents a minute.
+author:null
+title:In Africa, Scientists Are Preparing to Use Gene Drives to End Malaria
+subtitle:Mosquitoes that drive themselves out of existence are being bred in labs—but letting them loose in nature is another matter.
+author:Tom Simonite
+title:Insect-Zapping Laser “Fence” Prepares for First Enemy Contact
+subtitle:A device that cooks unwanted flying bugs with a laser beam will be tested against an insect that has decimated Florida’s orange production.
+author:David Talbot
+title:Kenya's Startup Boom
+subtitle:Local programmers and homegrown business models are helping to realize the vast promise of using phones to improve health care and save lives.
+author:null
+title:A Genetically Modified Malaria Vaccine Has Passed an Important Hurdle
+subtitle:Researchers have tested a modified malaria parasite in humans that has been shown to be safe and to trigger an immune response.
+author:null
+title:This Centrifuge Costs 20 Cents to Make and Can Be Used Anywhere
+subtitle:Modeled on a children’s toy, the Paperfuge can spin at up to 125,000 RPMs and doesn’t need electricity.
+author:null
+title:Bill Gates Doubles His Bet on Wiping Out Mosquitoes with Gene Editing
+subtitle:But the technology for extinguishing species is dividing conservationists.
+author:Antonio Regalado
+title:The Extinction Invention
+subtitle:A genetic technology that can kill off mosquito species could eradicate malaria. But is it too risky to ever use?
+author:Amanda Schaffer
+title:A Renaissance Woman for the Nano Age
+subtitle:Sangeeta Bhatia, SM ’93, PhD ’97—an engineer, doctor, entrepreneur, and mother—invented a device that tests whether potential drugs are toxic. Now she’s working on fighting malaria and curing cancer.
+author:null
+title:Artificial Intelligence Offers a Better Way to Diagnose Malaria
+subtitle:An algorithm for spotting malaria under the microscope could bring accurate, rapid diagnosis to understaffed areas.
+author:null
+title:With This Genetic Engineering Technology, There’s No Turning Back
+subtitle:Designers of a “selfish” gene able to spread among mosquitoes say it could wipe out malaria, but the scientific community is at odds over whether or not we should do it.
+author:Elizabeth Woyke
+title:General Electric Builds an AI Workforce
+subtitle:As part of its shift toward high-tech businesses, the 125-year-old company, number 40 on our list of the 50 Smartest Companies, is threading artificial intelligence throughout its operations, starting with its scientists.
+author:null
+title:Airplanes Are Getting Lighter Thanks to 3-D-Printed Parts
+subtitle:A rapid increase in sales of 3-D printers that make metal parts may just be the beginning of a surge in additive manufacturing in the aerospace industry.
+author:Richard Martin
+title:Fixing China’s Coal Problem
+subtitle:China has rapidly cleaned up its coal plants. Now comes the hard part.
+author:null
+title:GE Device Measures the Calories on Your Plate
+subtitle:Low-energy microwaves can tell you the caloric content of food, providing a more accurate estimate of what is on your plate.
+author:null
+title:Startups Embrace a Way to Fail Fast
+subtitle:How Eric Ries’s lean startup method took over Silicon Valley.
+author:null
+title:Designing Brain Implants to Detect More and Last Longer
+subtitle:GE is one of several companies hoping to develop better neural implants for people with brain diseases and paralyzed limbs.
+author:null
+title:How to Get Tiny But Cumulatively Important Innovations to Market
+subtitle:GE hopes to increase power output at existing wind turbines by offering free upgrades–you just pay if the upgrades work.
+author:null
+title:GE’s $1 Billion Software Bet
+subtitle:To protect lucrative business servicing machines, GE turns to the industrial Internet.
+author:null
+title:How Carbon Dioxide Regs Could Actually Hurt Renewables
+subtitle:By forcing changes in how gas power plants operate, greenhouse regulations could actually make it more difficult for utilities to use renewables.
+author:null
+title:A More Efficient Jet Engine Is Made from Lighter Parts, Some 3-D Printed
+subtitle:Composite and 3-D-printed components will mean jet engines that use 15 percent less fuel.
+author:null
+title:How Pebble Is Killing It on Kickstarter
+subtitle:Three of the four biggest sums raised on Kickstarter are for the smart-watch pioneer’s products. Why do people like it so much?
+author:null
+title:A Smart Watch That Isn’t the Smartest, but Fits Small Wrists
+subtitle:The Pebble Time Round isn’t the most powerful smart watch out there, but it’s light, slim, and easy to use.
+author:null
+title:A Smart-Watch Pioneer Has an Answer for Apple
+subtitle:As the Apple Watch casts a shadow across the smart-watch market, Pebble preps a wrist-worn gadget with a color e-paper display.
+author:null
+title:Pebble Sets Sights on Fitness Trackers with New App-Making Tools
+subtitle:Pebble unveils developer tools that allow for motion- and gesture-tracking apps for its smart watch.
+author:null
+title:In Search of the Next Boom, Developers Cram Their Apps into Smart Watches
+subtitle:Clever apps might persuade people that they need a wrist-worn computer.
+author:null
+title:Mobile Summit 2013: In Smart Watch Category, Pebble Still Awaits the Big Competition
+subtitle:Pebble, the smart watch upstart, is charging ahead while computing giants mull their product plans.
+author:null
+title:Your Doctor Doesn’t Want to Hear About Your Fitness-Tracker Data
+subtitle:Some patients are bringing troves of fitness-tracker data to their checkups, but the doctor might not find it all that helpful.
+author:null
+title:Chronicle of the Smart Watch Foretold: A 37-Year History
+subtitle:A human-computer interaction luminary rifles through his massive electronics collection to prove today’s hottest gadget isn’t so new after all.
+author:null
+title:Snap Is Going Public—Offering Ideas, Not Profits
+subtitle:The company hopes that its disappearing messages, first-person video, and AR will make it seem like an exciting visionary—rather than a loss-maker.
+author:null
+title:Why Snap’s Spectacles Are Going to (Finally) Make Life Logging Cool
+subtitle:They’re so simple, even a Gen-Xer can use them.
+author:null
+title:Messaging App Sweeping Asia Could Blunt Snapchat’s Global Ambitions
+subtitle:Korea’s Snow is more popular than Snapchat in China, Japan, and Korea, and wants to be big in the West, too.
+author:null
+title:Peter Thiel Backs Biotech “Unicorn” Fighting Cancer Stem Cells
+subtitle:Are stem cells at the root of common cancers? A startup named Stemcentrx thinks so.
+author:null
+title:How Robots Can Quickly Teach Each Other to Grasp New Objects
+subtitle:It may take hours for a robot to figure out how to grasp a new object. But hundreds of robots could accelerate the process by sharing knowledge.
+author:null
+title:Facebook Tweaks Its News Feed Algorithm, and the Winner Is: Facebook
+subtitle:The company says its News Feed is meant to “inform,” but that can sometimes be at odds with what users find most engaging.
+author:null
+title:Robots Can Now Teach Each Other New Tricks
+subtitle:A robot at Brown University learned how to perform a task from a very different robot at Cornell University.
+author:null
+title:Researchers Employ Baxter Robot to Help the Blind
+subtitle:Robots could help the visually impaired do things like determine which bus pass to use.
+author:null
+title:Making Robots Talk to Each Other
+subtitle:Robots that can work together and communicate are not only more efficient, they’re cheaper—since not every robot has to excel at every task.
+author:Mike Orcutt
+title:Rethinking the Manufacturing Robot
+subtitle:A company that makes robots designed to work closely with humans has a new version that addresses the limitations of its first effort.
+author:null
+title: Genome Editing 
+subtitle:The ability to create primates with intentional mutations could provide powerful new ways to study complex and genetically baffling brain disorders.
+author:null
+title: Agricultural Drones 
+subtitle:Relatively cheap drones with advanced sensors and imaging capabilities are giving farmers new ways to increase yields and reduce crop damage.
+author:null
+title: Brain Mapping 
+subtitle:A new map, a decade in the works, shows structures of the brain in far greater detail than ever before, providing neuroscientists with a guide to its immense complexity.
+author:null
+title:Cheaper Joints and Digits Bring the Robot Revolution Closer
+subtitle:Efforts to build robot hands and humanoids more cheaply could make them affordable enough for businesses and even homes.
+author:null
+title: Microscale 3-D Printing 
+subtitle:Inks made from different types of materials, precisely applied, are greatly expanding the kinds of things that can be printed.
+author:null
+title: Mobile Collaboration 
+subtitle:The smartphone era is finally getting the productivity software it needs.
+author:null
+title: Oculus Rift 
+subtitle:Thirty years after virtual-reality goggles and immersive virtual worlds made their debut, the technology finally seems poised for widespread use.
+author:null
+title: Agile Robots 
+subtitle:Computer scientists have created machines that have the balance and agility to walk and run across rough and uneven terrain, making them far more useful in navigating human environments.
+author:null
+title:Why Tesla Thinks It Can Make Battery Swapping Work
+subtitle:Tesla is set to announce a way to make recharging its electric vehicles faster than filling up a gas tank.
+author:null
+title:ABB Advance Makes Renewable-Energy Supergrids Practical
+subtitle:A high-power circuit breaker makes it possible to create highly efficient DC power grids.
+author:James Temple
+title:Floating Wind Plan Could Finally Crack California’s Offshore Market
+subtitle:Falling prices, improving technology, and smart public policies are changing the calculations.
+author:null
+title:Germany and Canada Are Building Water Splitters to Store Energy
+subtitle:Improving technology is making electrolysis a viable way to store excess energy from renewable sources.
+author:null
+title:Two-Bladed Wind Turbines Make a Comeback
+subtitle:Wind-turbine designers are warming up to an alternative to the three-bladed rotors that have been an industry standard for the past quarter century.
+author:null
+title:A Battery Made of Iron Could Improve the Economics of Solar and Wind Power
+subtitle:A new type of flow battery could allow renewable-energy developers to store power until it’s most valuable.
+author:null
+title:A Sneak Peek of the National Grid on Renewables
+subtitle:A government research facility uses a megawatt-scale simulator and supercomputer to test futuristic grid technologies without disrupting today’s grid.
+author:null
+title:New Battery Material Could Help Wind and Solar Power Go Big
+subtitle:Low-cost materials could make storing hours of power from a wind farm economically feasible.
+author:null
+title:New USB Plugs Might Enable Efficient DC Grids
+subtitle:New USB plugs will be able to handle ten times as much power, potentially changing the way we charge electronics.
+author:null
+title:More AC Power from Solar Panels
+subtitle:Startup Enphase Energy is shrinking DC-to-AC inverters to extract more juice from solar panels.
+author:null
+title:It’s Easy to Slip Toxic Language Past Alphabet’s Toxic-Comment Detector
+subtitle:Machine-learning algorithms are no match for the creativity of human insults.
+author:Elizabeth Woyke
+title:The Startup Behind NYC’s Plan to Replace Phone Booths with 7,500 Connected Kiosks
+subtitle:Intersection, which is funded by Alphabet, hopes they could someday guide autonomous vehicles, too.
+author:James Temple
+title:An Electric Semi Definitely Won’t Work—But Seven in a Row Might
+subtitle:Platooning might make the economics reasonable for short-haul electric trucking.
+author:null
+title:Tesla’s Model 3 Is a Long Way from Elon Musk’s Grand Goal
+subtitle:Many things still need to change before electric vehicles can become a mainstream choice.
+author:null
+title:Tesla Will Build the World’s Biggest Lithium-ion Battery
+subtitle:And, like a pizza delivery, the buyer even gets an “if it’s late, it’s free” guarantee.
+author:null
+title:Tesla’s New AI Guru Could Help Its Cars Teach Themselves
+subtitle:Andrej Karpathy, Tesla’s new director of artificial intelligence, will help the company’s vehicles teach themselves to drive.
+author:Jamie Condliffe
+title:What It’s Like to Be a Worker in Tesla’s Car Factory
+subtitle:To some it’s “auto-worker heaven,” while others say they’re operating in “working conditions of the past.”
+author:null
+title:Lazy Humans Shaped Google’s New Autonomous Car
+subtitle:Google came up with a new approach to its self-driving car project because humans trusted its previous prototypes too much.
+author:null
+title:Genetically Engineered Moths Coming to a Cabbage Patch Near You
+subtitle:Open-air tests of self-destructing moths mark a new frontier for GMOs.
+author:null
+title:Spray-On RNA Protects Plants from Viruses for Weeks
+subtitle:The technique could be faster and more versatile than developing genetically modified crops from scratch.
+author:null
+title:Nissan, GM Give EV Batteries a Second Life
+subtitle:Automakers have begun harvesting batteries for use in stationary energy storage applications.
+author:null
+title:How Shining a Laser on Your Face Might Help Siri Understand You
+subtitle:Startup VocalZoom is building a sensor that measures the vibrations of your face to make it easier for you to control technology with your voice.
+author:null
+title:Gadgets Are Getting Better at Fooling Your Sense of Touch
+subtitle:Touch feedback that’s more nuanced than a simple buzz could make virtual reality more real and cars safer.
+author:null
+title:Jaguar Demos a Car That Keeps an Eye on Its Driver
+subtitle:A company called Seeing Machines wants to use cameras and software to make sure you’re focused on driving.
+author:null
+title:Nissan ProPilot Joins a Bumpy Road for Autonomous Driving Aids
+subtitle:The new system bears many similarities to Tesla’s Autopilot, which is under investigation by U.S. regulators for three recent accidents.
+author:null
+title:Big Auto Searches for Meaning Beyond Selling Cars
+subtitle:Car companies from Ford to BMW take a page from Silicon Valley’s playbook to offer transportation services, in some cases without a real business model in mind.
+author:null
+title:Hope for Electric Vehicle Battery Manufacturers
+subtitle:Those who can switch to making lithium ion hybrid batteries could tap a fast-growing market.
+author:null
+title:Here’s Why You Might Be an Electric-Car Owner a Decade from Now
+subtitle:Low gas prices won’t stop the electric-car market from its march toward the mainstream.
+author:null
+title:Don't Drive Your Nissan Leaf Too Much
+subtitle:The automaker blames rapid battery capacity loss on high mileage.
+author:null
+title:Siphoning Electricity
+subtitle:null
+author:null
+title:Automakers Outline Plans for Plug-in Future
+subtitle:Several new electric cars and plug-in hybrids were unveiled at Detroit autoshow and CES.
+author:null
+title:Why Self-Driving Cars Must Be Programmed to Kill
+subtitle:Self-driving cars are already cruising the streets. But before they can become widespread, carmakers must solve an impossible ethical dilemma of algorithmic morality.
+author:null
+title:BMW Built a Power Plant from Old Electric-Car Batteries
+subtitle:The carmaker is exploring ways to find new life for its spent batteries.
+author:null
+title:Where’s the Affordable Carbon Fiber Automobile?
+subtitle:A test drive of the Alfa Romeo 4C reveals what a difference carbon fiber can make in a car.
+author:null
+title:How Human-Robot Teamwork Will Upend Manufacturing
+subtitle:Robots are starting to collaborate with human workers in factories, offering greater efficiency and flexibility.
+author:null
+title:What Noise Does the Electric Car Make?
+subtitle:Electric vehicles can be so quiet that they pose a new risk on the road. But what kind of artificial sound should be added?
+author:David Rotman
+title:2013: The Best Long Reads of the Year
+subtitle:Advanced technologies are affecting everything from our sense of privacy and free speech to the types of jobs that are available to the foods that we eat. In our best features this year, we got into these highly controversial topics.
+author:Sally Atwood Hamilton
+title:Destined to Drive
+subtitle:The head of Hyundai Motor America, John Krafcik, SM ’88, helped turn a once-derided brand into a powerhouse.
+author:Will Knight
+title:Driverless Cars 
+subtitle:Don’t expect self-driving cars to take over the roads anytime soon. Here’s what carmakers are really working on.
+author:null
+title:A Key Piece of Self-Driving Cars Is About to Get a Lot Cheaper
+subtitle:Velodyne, which leads the world in making lidar sensors for autonomous cars, just announced a brand-new design.
+author:null
+title:Startup Lets Offices Know Who Just Walked In
+subtitle:A Boston-based startup is helping companies track their employees around the office using wireless sensor beacons, to improve collaboration.
+author:null
+title:The Best Thing I Saw at CES Was a Thermometer
+subtitle:This year’s gadget show isn’t all that different from last year’s, but there’s still some cool stuff out there.
+author:null
+title:Foxconn Wants to Become a Global Force in Clean Energy
+subtitle:By acquiring Sharp, the iPhone manufacturer has bolstered its ambitious renewable energy plans, which include big solar deals in China and India.
+author:null
+title:Apple’s Recycling Robot May Help Build iPhones, Too
+subtitle:Few people noticed, but Apple did announce a remarkable and transformative new technology at its event on Monday: its first robot.
+author:null
+title:A Way to Get Much-Higher-Resolution Selfies
+subtitle:A startup called Light uses a cluster of small camera modules to create top-notch photos. First stop: Your smartphone.
+author:null
+title:Why Microsoft May Be Making a Smartphone for China
+subtitle:Even if it alienates existing hardware partners, the Chinese market is too big, and fast-growing, to ignore.
+author:Christina Larson
+title:Migrant Workers in China Face Competition from Robots
+subtitle:China’s giant electronics supplier Foxconn eyes replacing workers with industrial robots.
+author:Erin Winick
+title:Is 3-D Printing Finally Becoming the Manufacturing Tool It Was Hyped Up to Be?
+subtitle:Join us on Thursday, November 30, at 2 p.m. EST for an interactive online discussion with Greg Mark.
+author:null
+title:An Apple Manufacturing Plant in India? Don’t Tell Trump
+subtitle:The president-elect might want to bring manufacturing home to America, but Apple seems to have other ideas.
+author:null
+title:State-of-the-Art Chinese Manufacturing
+subtitle:MIT Technology Review business editor Nanette Byrnes talks with Harvard Business School professor Willy Shih, an expert in manufacturing and technology. Listen in as they discuss his extensive tour of top factories in China, the future of advanced manufacturing, and what it means for the U.S.
+author:null
+title:What You Need to Know About Manufacturing in China
+subtitle:Open hardware pioneer Bunnie Huang offers advice to startups gleaned from a decade of working with Chinese factories.
+author:null
+title:Bill Gates’s $1 Billion Fund Will Back Radical Clean Energy Ideas
+subtitle:It hopes to find audacious startups that can provide electricity, food, transportation, and more—without contributing to climate change.
+author:null
+title:Factories 2.0
+subtitle:Manufacturing fell behind the information revolution. That’s about to change.
+author:Russ Juskalian
+title:Bosch’s Survival Plan
+subtitle:An old-school manufacturer is building smart factories to remain globally competitive.
+author:null
+title:Doing the Dirty Work
+subtitle:Young people in China don’t want factory jobs. So robots do the work instead.
+author:null
+title:As GM Volt Sales Increase, That Doesn’t Mean It’s Successful
+subtitle:Sales of the car have improved, but not enough to turn the tide for advanced battery factories in the United States.
+author:Will Knight
+title:Andrew Ng Has a Chatbot That Can Help with Depression
+subtitle:Woebot combines cognitive behavior therapy with advances in natural language to create a virtual counselor.
+author:Emily Parker
+title:Can China and the Internet Save American Small Business?
+subtitle:The giant e-commerce platform Alibaba and its charismatic founder, Jack Ma, have a plan to add a million U.S. jobs by enticing American companies to sell to China.
+author:null
+title:Consumer Insurance Can Save Shoppers from Floods of Fake Gadgets
+subtitle:To boost sales and assuage fears about shoddy goods, Chinese e-tailers let consumers insure their online purchases.
+author:Jill Hecht Maxwell
+title:Avi Lele ’87, SM ’90
+subtitle:Entrepreneur makes it easy to buy gifts on the stock market.
+author:null
+title:AI Winter Isn’t Coming
+subtitle:Despite plenty of hype and frantic investment, a leading artificial intelligence expert says hardware advances will keep AI breakthroughs coming.
+author:null
+title:Alexa Gives Amazon a Powerful Data Advantage
+subtitle:Millions of people talking with Alexa could help Amazon fight off Google in the home voice assistant market.
+author:null
+title:Poker Is the Latest Game to Fold Against Artificial Intelligence
+subtitle:Two research groups have developed poker-playing AI programs that show how computers can out-hustle the best humans.
+author:null
+title:Household Robots Are Here, but Where Are They Going?
+subtitle:Social robots like Amazon’s Echo can play music and tell you the weather today, but their real promise is potentially decades away.
+author:null
+title:Gesturing at Your TV Isn't Ready for Prime Time
+subtitle:The Microsoft Kinect is fun, but it shows that so-called natural user interfaces still have a long way to go.
+author:null
+title:Baidu’s Duer Joins the Virtual Assistant Party
+subtitle:Baidu, Amazon, and others are now pushing to make computers more capable of holding a decent conversation.
+author:null
+title:Can Google Get Web Users Talking?
+subtitle:Voice-driven search is a futuristic idea, and may take some getting used to.
+author:null
+title:Rethinking Voice as an App
+subtitle:VoIP does for voice what cloud computing did for the Web, experts say.
+author:null
+title:A Tongue-Tracking Artificial Larynx
+subtitle:Patients could get their voice back using a device that analyzes contact between the tongue and palate.
+author:null
+title:An App That Wants You to Actually Talk on Your Phone
+subtitle:Talko, a new app from productivity-software pioneer Ray Ozzie, aims to improve phone calls at work and, perhaps, at play.
+author:null
+title:Google Just Got Hit with a $2.7 Billion Antitrust Fine from the EU
+subtitle:Regulators say the search giant skewed its comparison-shopping results to stamp out competition.
+author:null
+title:Baidu Uses Map Searches to Predict When Crowds Will Get Out of Control
+subtitle:China’s leading search engine, Baidu, says user data can help it predict when real-world gatherings become so large they’re dangerous.
+author:null
+title:Google to Developers: Here’s How to Stop Making Dumb Chatbots
+subtitle:The search company is releasing the secret sauce it uses to make sense of ambiguous language. It could help developers build apps that actually understand us.
+author:null
+title:A Simple Way to Search Your Share of the Cloud
+subtitle:A company called ClipCard will let you search all your cloud-based stuff at once, even if it’s stored in several places.
+author:null
+title:What Google and Facebook Can Do to Fight ISIS
+subtitle:Facebook intervenes to prevent suicide. How about to prevent radicalization? And let’s face it: Google and others make it easy to find videos of people being murdered.
+author:null
+title:Ray Kurzweil Says He’s Breathing Intelligence into Google Search
+subtitle:Inventor and futurist Ray Kurzweil says work is under way at Google to apply his theory of intelligence to understanding online information.
+author:null
+title:Google Makes Its Search Engine a Remote Control for Some Mobile Apps
+subtitle:Google wants you to talk to its search box instead of spending time hunting through the jumble of apps on your smartphone.

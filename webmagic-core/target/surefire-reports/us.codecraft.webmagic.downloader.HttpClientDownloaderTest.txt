@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: us.codecraft.webmagic.downloader.HttpClientDownloaderTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 10.986 sec <<< FAILURE! - in us.codecraft.webmagic.downloader.HttpClientDownloaderTest
+testGetHtmlCharset(us.codecraft.webmagic.downloader.HttpClientDownloaderTest)  Time elapsed: 4.895 sec  <<< ERROR!
+com.jayway.awaitility.core.ConditionTimeoutException: Condition returned by method "serverIsClosed" in class com.github.dreamhead.moco.internal.MocoServer was not fulfilled within 3 seconds.
+	at com.jayway.awaitility.core.ConditionAwaiter.await(ConditionAwaiter.java:84)
+	at com.jayway.awaitility.core.CallableCondition.await(CallableCondition.java:54)
+	at com.jayway.awaitility.core.CallableCondition.await(CallableCondition.java:23)
+	at com.jayway.awaitility.core.ConditionFactory.until(ConditionFactory.java:518)
+	at com.jayway.awaitility.core.ConditionFactory.until(ConditionFactory.java:510)
+	at com.github.dreamhead.moco.internal.MocoServer.stop(MocoServer.java:50)
+	at com.github.dreamhead.moco.internal.MocoHttpServer.stop(MocoHttpServer.java:34)
+	at com.github.dreamhead.moco.Runner.running(Runner.java:13)
+	at us.codecraft.webmagic.downloader.HttpClientDownloaderTest.testGetHtmlCharset(HttpClientDownloaderTest.java:72)
+

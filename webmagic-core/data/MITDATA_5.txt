@@ -1,0 +1,894 @@
+author:null
+title:OK, Glass, Find a Killer App
+subtitle:Developers hope apps that improve upon their smartphone versions will help Google’s head-worn computer catch on.
+author:null
+title:3-D Printing Breaks the Glass Barrier
+subtitle:Researchers have cracked the challenge of printing glass through a nozzle.
+author:null
+title:How Window Glass Is Getting Smarter
+subtitle:A material that selectively blocks heat and light could finally make it practical to add smart windows to buildings.
+author:null
+title:New Wearable Sensors Know What’s in Your Sweat
+subtitle:Researchers came up with a flexible band of sensors that can track chemicals in perspiration while you work out.
+author:null
+title:Manufacturing Advances Mean Truly Flexible Devices Are on the Way
+subtitle:The technology needed to make flexible displays, electronics, and batteries is being tested.
+author:null
+title:How Flexible Solar Panels Could Make Solar Power Competitive
+subtitle:A Caltech professor is commercializing efficient solar cells that are cheap to transport and install.
+author:Jennifer Chu
+title:Are We Headed Toward a Sixth Extinction?
+subtitle:MIT researcher predicts carbon levels will cross a “threshold of catastrophe” in 2100.
+author:James Temple
+title:Global Warming’s Worst-Case Projections Look Increasingly Likely
+subtitle:A new study based on satellite observations finds that temperatures could rise nearly 5 °C by the end of the century.
+author:James Temple
+title:Tax Overhaul Hammers Clean Energy and Electric Cars
+subtitle:Wind industry fears as much as $50 billion in investments could be at risk.
+author:James Temple
+title:Surge of Carbon Pricing Proposals Coming in the New Year
+subtitle:The state measures could save hundreds of millions of tons in carbon emissions over the next decade.
+author:James Temple
+title:Global Warming May Harm Children for Life
+subtitle:A new study links extreme heat during early childhood to lower earnings as an adult.
+author:James Temple
+title:How High-Tech Mirrors Can Send Heat into Space
+subtitle:SkyCool’s advanced materials could reinvent air-conditioning and refrigeration—cutting costs and greenhouse gases in the process.
+author:James Temple
+title:Did Climate Change Fuel California’s Devastating Fires? Probably.
+subtitle:A long drought and a record hot summer set the conditions for a brutal wildfire season.
+author:null
+title:Wilting Shrubs? Diagnose Plant Diseases with an App
+subtitle:A neural network trained on pictures of sick plants is now openly available to all.
+author:null
+title:Fighting Stomach Flu with Tobacco
+subtitle:Scientists look to tobacco plants for a norovirus vaccine.
+author:null
+title:Carbon Nanotubes Are Super Fertilizer
+subtitle:Tomato plants exposed to nanotubes grow bigger and faster, but safety concerns remain.
+author:null
+title:Why Environmentalists Aren’t Winning the War with Natural Gas
+subtitle:Despite a recent victory, environmental groups have had little luck slowing the boom in new natural-gas power plants.
+author:null
+title:In Vino Veritas
+subtitle:Winemakers disappointed by organic methods have turned to biodynamics as the purest route to wine that’s true to soil, grape, and climate.
+author:null
+title:More-Precise Genetic Engineering for Plants
+subtitle:New technology makes it possible to alter plant genes precisely and efficiently.
+author:James Temple
+title:Our Hurricane Risk Models Are Dangerously Out of Date
+subtitle:We’ve built our cities and flood protections with assumptions based on the climate of the past.
+author:null
+title:Nimble-Fingered Robot Outperforms the Best Human Surgeons
+subtitle:A surgical robot was able to repair pigs’ bowels more accurately than human doctors.
+author:null
+title:The Tax Overhaul Could Cripple the U.S. as a Leader in Science
+subtitle:Prominent climate researcher Ken Caldeira says the House tax bill would prevent many graduate students from pursuing advanced degrees and carrying out critical research.
+author:null
+title:A Roomba for Your Garden
+subtitle:The inventor of the bestselling vacuum cleaner robot has created a bot that cuts weeds.
+author:null
+title:Why This Might Be the Model T of Workplace Robots
+subtitle:A mobile, one-armed robot that costs $35,000 is headed for research labs and maybe even some workplaces.
+author:null
+title:A Treasure-Hunting Ocean Robot
+subtitle:A submersible robot used to explore a 17th-century shipwreck shows how humans and machines might collaborate in other settings.
+author:null
+title:Robotic Confucius Disturbs, Provokes
+subtitle:Artist Zhang Huan unleashes an uncanny rendering of China’s rediscovered spiritual ancestor
+author:null
+title:Amoeboid Robot Navigates Without a Brain
+subtitle:A Japanese researcher draws inspiration from slime mold cognition
+author:null
+title:Cubelets Are Modular Programming in Meatspace
+subtitle:An unusual marketing scheme for the Lego of robotics.
+author:null
+title:Down on the Farm, Will Robots Replace Immigrant Labor?
+subtitle:You’d think that the most challenging, lowest-paid labor in the U.S. was safe from automation, but as robots become increasingly sophisticated, that could change.
+author:null
+title:'Lovotics': The New Science of Engineering Human, Robot Love
+subtitle:“After industrial, service and social robots, Lovotics introduces a new generation of robots, with the ability to love and be loved by humans”
+author:Peter Fairley
+title:Edison's Revenge: The Rise of DC Power
+subtitle:In a world of more electronics and solar energy, there’s less and less need for AC power.
+author:null
+title:President Trump Takes Immediate Aim at Obama’s Climate Action Plan
+subtitle:Shortly after Donald Trump took office, climate change and clean energy disappeared from the White House website.
+author:null
+title:Britain Is Getting Rid of the Internal-Combustion Engine
+subtitle:U.K. drivers won’t be able to buy new cars and vans that run on gas or diesel starting in 2040.
+author:null
+title:How Much Damage Could Scott Pruitt Really Do at EPA?
+subtitle:Donald Trump’s choice for EPA director would put at risk the nation’s ability to meet its Paris climate commitments.
+author:null
+title:Will ARPA-E Survive Trump’s Looming Budget Cuts?
+subtitle:At what may be the agency’s final summit, speakers and attendees argue that federal support for energy research is critical for job creation.
+author:null
+title:Cancer Drug Zeroes In on a Genetic Mistake
+subtitle:An experimental compound shrank lung-cancer tumors in half of the patients in a recent study.
+author:null
+title:Leakier Tumor Vessels Enhance Drug Delivery
+subtitle:Molecules that make blood vessels more permeable might boost chemotherapeutics.
+author:null
+title:Stealthy Nanoparticles Attack Cancer Cells
+subtitle:Drugs embedded in special polymers can more effectively shrink tumors.
+author:null
+title:A Beacon to Guide Cancer Surgery
+subtitle:A modified virus makes cancer cells fluoresce to better identify tumors.
+author:null
+title:Cancer, Carefully Illuminated
+subtitle:A new imaging probe brings live cancer cells into sharp relief.
+author:null
+title:Voyage of the Bacteria Bots
+subtitle:Self-propelled microbots navigate through blood vessels.
+author:null
+title:Tiny Drug Transporters
+subtitle:Carbon nanotubes could reduce side effects from cancer treatment.
+author:null
+title:A Clearer Picture of Cancer
+subtitle:A new, high-resolution imaging system captures “early” photons.
+author:null
+title:Matching Tumors to Drugs
+subtitle:A clinical trial offers a first step toward personalizing cancer treatments.
+author:Elizabeth Woyke
+title:Colleges Are Marketing Drone Pilot Courses, but the Career Opportunities Are Murky
+subtitle:At least 15 community colleges offer them, but it’s not clear how many students parlay their new skills into jobs.
+author:null
+title:Zipline Expands Drone Delivery of Medical Supplies
+subtitle:After its initial testing and launch in Rwanda, a Silicon Valley drone delivery company launches a greater variety of products in a much larger market, Tanzania.
+author:null
+title:Watch the World’s Fastest Drone Drag-Race into the Record Books
+subtitle:Technically, it lays claim to the “fastest ground speed by a battery-powered remote-controlled quadcopter.”
+author:Jamie Condliffe
+title:Alphabet’s New Air Traffic Control System Steers Drones Away From Peril
+subtitle:A small trial has been able re-route drones to avoid collisions in real-time—now it needs to work on a much bigger scale.
+author:Simon Parkin
+title:Teaching Drones How To Crash Safely
+subtitle:Drone delivery won’t happen until the unmanned vehicle can master the emergency landing.
+author:null
+title:Burrito-Delivering Drones—Seriously?
+subtitle:Automated package drops might improve the efficiency of shipping one day, but for now experiments are gimmicks that pander to stereotypes.
+author:null
+title:Amazon Lays Out Its Vision for a Sky Thronging with Delivery Drones
+subtitle:To get its drone delivery service off the ground, Amazon must convince regulators to adopt its ideas for drone traffic control.
+author:Andrew Rosenblum
+title:GM Apples That Don’t Brown to Reach U.S. Shelves This Fall
+subtitle:Can genetic modification appeal to consumers? A new apple will test the market.
+author:null
+title:Super-Fast-Growing GM Plants Could Yield the Next Green Revolution
+subtitle:Scientists have used genetic engineering to make plants that grow 20 percent larger.
+author:null
+title:Get Ready for GMO Labels on Foods
+subtitle:Congress wants you to know if biotech corn is in that box of cereal.
+author:null
+title:Bayer Buys In to Monsanto’s Vision of High-Tech Agriculture
+subtitle:Will the proposed deal help feed the world, or will it just cut investment in farm R&D?
+author:null
+title:Monsanto Cultivates a Rose That Doesn’t Wilt
+subtitle:New advances in biotechnology could keep your flowers in bloom longer.
+author:null
+title:Washington Grapples with a Thorny Question: What Is a GMO Anyway?
+subtitle:New approaches to generating crop varieties are making it hard for policymakers to know what to regulate.
+author:null
+title:The True Magic of Magic Leap, and Other Comments from Readers
+subtitle:Top comments on our stories from the past week, collected from our website and social media platforms.
+author:Jonathan W. Rosen
+title:Africa Finds Power Off the Grid
+subtitle:Pay-as-you-go solar systems have begun to light up homes in underserved parts of the continent, but will need to pack more punch to leapfrog the grid.
+author:null
+title:Solving the Lack of Diversity in Genomic Research
+subtitle:An overwhelming majority of the data collected is from people of European ancestry. But researchers are trying to change that.
+author:null
+title:Tanzania’s First Trial of Genetically Modified Crops Has Begun
+subtitle:Many African countries have been reluctant to permit GM foods to be grown or imported, but opposition has softened amid a punishing drought.
+author:null
+title:Morocco’s Massive Desert Solar Project Starts Up
+subtitle:Africa is becoming a test bed for solar power, on scales both large and small.
+author:null
+title:How 3-D Printing Allows the World to Investigate New Human Fossils
+subtitle:Intrigued by fossils of a new humanlike species dubbed Homo naledi, researchers and students use 3-D printing to handle the bones and search for clues.
+author:null
+title:Dreams of an Automotive Industry in Uganda
+subtitle:The East African country of Uganda hopes to establish an automotive industry to boost its economy and provide employment for its young, fast-growing population.
+author:null
+title:Is This Africa’s First Smartphone Factory?
+subtitle:A South African startup says it will soon start building smartphones, but claims of the first “made in Africa” phones have been around for years.
+author:null
+title:A Village Storage System for Developing-World Facebook Friends
+subtitle:In Macha, Zambia, where uploads fail 75 percent of the time, a smart file sharing system can store data locally when necessary.
+author:Amanda Schaffer
+title:Tech’s Enduring Great-Man Myth
+subtitle:The idea that particular individuals drive history has long been discredited. Yet it persists in the tech industry, obscuring some of the fundamental factors in innovation.
+author:null
+title:A Versatile Touch Sensor
+subtitle:A new system adapted from a technology used for underwater cables could lead to touch sensors in clothes and coffee tables.
+author:null
+title:Smart Pill Reports Back
+subtitle:A new smart pill could let doctors know when patients have taken their medicine.
+author:null
+title:A New Way to Fight Aging in the Brain
+subtitle:For the first time, scientists can take skin cells from people of various ages and transform them into brain cells reflecting the ages of their donors.
+author:null
+title:To Treat Alzheimer’s, Drugmakers Embrace Early Intervention, Imaging Tests
+subtitle:New antibody drugs show promise in slowing the advance of Alzheimer’s disease.
+author:null
+title:Will Football Players Someday Take a Concussion Pill?
+subtitle:New research provides a potential pathway to a drug to save people from the progressive damage of severe or repeated concussions.
+author:null
+title:Alzheimer’s Ahead
+subtitle:An epidemic of age-related dementia looms
+author:null
+title:On Living with Dementia
+subtitle:
+author:null
+title:A New Setback for Alzheimer's Drugs
+subtitle:A compound that attacks amyloid plaques fails to help patients, raising questions about similar therapeutics.
+author:null
+title:Study Suggests Alzheimer's Disease Can Be Stabilized
+subtitle:In a small trial, patients given an existing drug showed no cognitive decline over three years.
+author:Stephen S. Hall
+title:Neuroscience’s New Toolbox
+subtitle:With the invention of optogenetics and other technologies, researchers can investigate the source of emotions, memory, and consciousness for the first time.
+author:Sam Wotipka
+title:The Cross-Section of Memory
+subtitle:Neuroscientists at MIT’s Picower Institute have demonstrated that optogenetics can be used to place false memories in the brains of lab rodents.
+author:null
+title:Scientists Make Mice “Remember” Things That Didn’t Happen
+subtitle:Researchers manipulate mouse neurons to create a false memory; the work could lead to a better understanding of how memories form.
+author:null
+title:Memory Is Inherently Fallible, And That's a Good Thing
+subtitle:Neuroscientists Daniela Schiller says every time you recall a memory, it changes, and that can be a useful thing.
+author:Stephen S. Hall
+title:Repairing Bad Memories
+subtitle:A scientist who has anguished over terrors in her family’s history explores how people might erase the trauma from memories.
+author:Courtney Humphries, SM ’04
+title:Tracing a Memory
+subtitle:Susumu Tonegawa is finding out how the brain stores and retrieves individual memories.
+author:null
+title:How to Make an Implant that Improves the Brain
+subtitle:Enhancing the flow of information through the brain could be crucial to making neuroprosthetics practical.
+author:null
+title:VR Is Cool and All, But Will People Buy It?
+subtitle:2016 was billed as a banner year for virtual reality, but even some of its biggest boosters admit that it’s been a tough sell.
+author:null
+title:Oculus Rift Gets a Price Tag: $599
+subtitle:Oculus’s price for its first consumer virtual-reality headset may influence how others price theirs.
+author:null
+title:Bring Your Feet into Virtual Reality
+subtitle:Tactonic is making pressure-sensing mats that can tell how you move your toes, which could make for more immersive VR exploration.
+author:Rachel Metz
+title:The 6 Most Important Things That Happened in Virtual Reality in 2015
+subtitle:A lot happened in virtual reality this year; here are the key things to remember.
+author:null
+title:Paralyzed Rats Take 1,000 Steps, Orchestrated by Computer
+subtitle:Controlled by software, paralyzed rats walk and climb stairs.
+author:null
+title:A Brain-Computer Interface That Works Wirelessly
+subtitle:A wireless transmitter could give paralyzed people a practical way to control TVs, computers, or wheelchairs with their thoughts.
+author:Rachel Metz
+title:The Step Needed to Make Virtual Reality More Real
+subtitle:If virtual reality is going to be truly immersive, holding a game controller could be distracting. Companies will instead try to let you control the action with your eyes, head, or fingers.
+author:Christina Larson
+title:A Chinese Rival Beats Uber at Its Own Game
+subtitle:Jean Liu explains how her ride-hailing company Didi Chuxing is besting Uber in China and why data is its biggest asset.
+author:null
+title:Uber and Lyft Are Still Trying to Avoid Acting Like Regular Employers
+subtitle:Two of the most prominent names in the gig economy continue to struggle with their labor practices.
+author:null
+title:When Your Boss Is an Uber Algorithm
+subtitle:Researchers examine how Uber steers its drivers’ behavior with its automated management system, despite its promise of letting you be “your own boss.”
+author:null
+title:It’s Time for Uber to Grow Up
+subtitle:Sexual discrimination, explosive lawsuits, and an aggressive CEO all need to be tamed if the company wants to maintain its success.
+author:null
+title:Why Uber Wants Here
+subtitle:Nokia’s ambitious mapping project, Here, could be useful to self-driving vehicles.
+author:null
+title:Ride-Hailing Apps Have a Racism Problem
+subtitle:Travelers with African-American-sounding names suffer longer waits and more cancellations than their white-sounding counterparts.
+author:null
+title:This Box Could Make Your Car Autonomous for Just $1,000
+subtitle:Comma.ai’s system will add Autopilot-like abilities to many standard vehicles.
+author:null
+title:10-4, Good Computer: Automated System Lets Trucks Convoy as One
+subtitle:A recent demonstration involving two trucks tethered by computer control shows how automation and vehicle-to-vehicle communication are creeping onto the roads.
+author:null
+title:Google Could Reinvent Commuting
+subtitle:Google’s Waze navigation app could slash commuting traffic if a carpooling service it is testing catches on.
+author:null
+title:Increasingly, Robots of All Sizes Are Human Workmates
+subtitle:Even conventional industrial robots are becoming safer to work around, making them more likely to collaborate with humans.
+author:null
+title:The 2020s Could Be the Decade When Electric Cars Take Over
+subtitle:A new analysis of battery costs predicts that EVs will start making significant gains in market share in the next few years.
+author:Laurie Burkitt
+title:The World’s Largest Electric Vehicle Maker Hits a Speed Bump
+subtitle:China’s BYD has huge market share and the backing of Warren Buffett, but a recent drop in government subsidies is hurting sales of its electric cars.
+author:null
+title:Health-Tracking Startup Fails to Deliver on Its Ambitions
+subtitle:Quanttus spent several years trying to track blood pressure at the wrist, but doing so appears to be even more difficult than the company thought.
+author:James Temple
+title:Why Bad Things Happen to Clean-Energy Startups
+subtitle:New technologies for storing power from wind and solar farms will be key to a clean-energy future. But Aquion Energy’s recent bankruptcy shows the market challenge of making that happen.
+author:null
+title:Harvard Scientists Moving Ahead on Plans for Atmospheric Geoengineering Experiments
+subtitle:The climate researchers intend to launch a high-altitude balloon that would spray a small quantity of reflective particles into the stratosphere.
+author:James Temple
+title:Scientists Consider Brighter Clouds to Preserve the Great Barrier Reef
+subtitle:As bleaching devastates the critical ecosystem for a second year in a row, marine scientists are getting desperate.
+author:null
+title:Bill Gates Spreads his Battery Bets on Aquion
+subtitle:Aquion Energy lands $35 million to commercialize its novel grid-storage battery, bringing in Bill Gates as investor.
+author:null
+title:A Battery to Prop Up Renewable Power Hits the Market
+subtitle:A startup has started selling a battery that helps solar and wind power operate in remote locations.
+author:null
+title:Battery to Take On Diesel and Natural Gas
+subtitle:Aquion Energy says its batteries could make the power grid unnecessary in some countries.
+author:null
+title:Grid Batteries for Wind, Solar Find First Customers
+subtitle:Niche applications will help advanced power-grid-battery technology.
+author:Martin LaMonica
+title:A123's China Deal Is the Latest Energy Controversy
+subtitle:Some observers are alarmed that the federally backed battery maker A123 Systems could soon be owned by the Chinese. But did the company have a choice?
+author:null
+title:The Insanely Popular Chinese News App That You’ve Never Heard Of
+subtitle:Toutiao uses artificial intelligence to curate headline recommendations.
+author:null
+title:Who Is Winning the AI Race?
+subtitle:China and the United States dominate the world of artificial-intelligence research. Microsoft, IBM, and Google are the leading companies.
+author:null
+title:U.S. Wants Makers of Driverless Cars to Prove They Are Safe
+subtitle:The auto industry is beginning to get some clarity on the rules of the road for autonomous cars.
+author:null
+title:Regulators Question Plug-and-Play Car Autonomy
+subtitle:Pressure from the government has forced Comma.ai to cancel its $999 self-driving kit.
+author:null
+title:Meet the Chinese Finance Giant That’s Secretly an AI Company
+subtitle:The smartphone payments business Ant Financial is using computer vision, natural language processing, and mountains of data to reimagine banking, insurance, and more.
+author:Michael Reilly
+title:Uber’s Ad-Toting Drones Are Heckling Drivers Stuck in Traffic
+subtitle:Forget billboards—motorists now have ads buzzing a few feet above their windshields.
+author:null
+title:Uber Gets $3.5 Billion from a Country Where Women Can’t Drive
+subtitle:Already accused of a litany of questionable practices, the ride-hailing giant is now closely tied to a government that oppresses women.
+author:null
+title:Tesla Investigations Could Question Viability of Semi-Autonomous Driving
+subtitle:Evidence says that relying on people to oversee a partially autonomous car is a bad idea.
+author:null
+title:Self-Driving Trucks May Hit the Road Before Google’s Cars
+subtitle:Retrofitting long-haul rigs could speed up the adoption of self-driving technology—provided regulators let them roll.
+author:null
+title:The Paris Motor Show Confirms It: The Future Is Electric
+subtitle:Any automaker worth its salt is showing off a battery-powered car.
+author:null
+title:The Inevitable EV
+subtitle:Four decades ago, the electric car looked set to be an acceptable commuting vehicle within a few years.
+author:Jamie Condliffe
+title:Tesla Plans a Chinese Factory
+subtitle:By setting up manufacturing facilities there, the firm will be able to dodge a weighty 25 percent import levy.
+author:null
+title:Tesla’s First Affordable Car Is Finally Entering Production
+subtitle:Question is, will the company be able to build the Model 3 at the rate it claims?
+author:null
+title:Atom-Thick Silicon Makes Crazy-Fast Transistors
+subtitle:An exotic form of silicon, called silicene, could enable a new generation of faster computers.
+author:null
+title:Startup Gets $30 Million to Bring High-Energy Silicon Batteries to Market
+subtitle:Amprius’s silicon-based batteries are starting to appear in electronics.
+author:null
+title:A Brain-Inspired Chip Takes to the Sky
+subtitle:An experiment involving a chip on a small drone shows how hardware modeled on the brain could provide useful intelligence.
+author:null
+title:Promising New Solar Material Boosts Performance of Silicon
+subtitle:Researchers say they’ve overcome an obstacle to making highly efficient solar devices by combining silicon with a new material.
+author:null
+title:A Solar Survivor Has High Hopes
+subtitle:By making silicon wafers cheaper, 1366 hopes to ride the next boom in solar power.
+author:null
+title:First Solar Shines as the Solar Industry Falters
+subtitle:First Solar’s strong finances are helping fund innovation and drive down the cost of solar power.
+author:null
+title:Why IBM Made a Liquid Transistor
+subtitle:IBM materials advance shows another promising path to replace the foundation of today’s computing technologies.
+author:null
+title:The Wikileaks CIA Stash May Prove Interesting, But Not Necessarily for the Hacks
+subtitle:The software tools revealed by the leak are sinister, unsurprising—and potentially politically explosive.
+author:null
+title:Major Opponent of Phone Encryption Still Expects Congress to Roll the Technology Back
+subtitle:The top prosecutor in Manhattan thinks Washington will finally heed his call to make Apple resume opening devices to investigators.
+author:Mike Orcutt
+title:Sizing Up Trump’s Cyberwar Strategy
+subtitle:The United States is taking damage in the global cyberwar, and Trump won’t be able to fix that without help.
+author:null
+title:IBM Inches Ahead of Google in Race for Quantum Computing Power
+subtitle:IBM believes it can demonstrate an experimental chip that will prove the power of quantum computers in just a few years.
+author:null
+title:NSA Says It “Must Act Now” Against the Quantum Computing Threat
+subtitle:The National Security Agency is worried that quantum computers will neutralize our best encryption – but doesn’t yet know what to do about that problem.
+author:null
+title:Securing Today’s Data Against Tomorrow’s Quantum Computers
+subtitle:Quantum computers are still a distant prospect, but Microsoft researchers say we should strengthen online encryption against them now.
+author:null
+title:How Cops Could Wiretap Encrypted iMessage and WhatsApp Chats
+subtitle:WhatsApp could be the next target in the Department of Justice’s war on encryption, and the service has a weakness that makes wiretapping easy.
+author:null
+title:Why the Policy Fight over Encryption Is at an Impasse
+subtitle:The next U.S. government looks set to inherit the ongoing fight over whether the government should rein in encryption.
+author:null
+title:Three Big Questions Hanging Over Net Neutrality
+subtitle:Here’s what the FCC under Hillary Clinton or Donald Trump will have to sort out.
+author:null
+title:President Trump Might Mess with Your Streaming TV
+subtitle:The new president’s FCC is likely to ignore or overturn Obama’s net neutrality rules.
+author:null
+title:Google Says It Has Proved Its Controversial Quantum Computer Really Works
+subtitle:Researchers from Google’s AI Lab say a controversial quantum machine that it and NASA have been testing since 2013 resoundingly beat a conventional computer in a series of tests.
+author:null
+title:Programmable Material Algorithm Solves Universal Coating Problem
+subtitle:If you want to measure the temperature at any point on an object’s surface, a thin coating of programmable material can do the job, say computer scientists.
+author:null
+title:Materials Scientists Make Martian Concrete
+subtitle:If we’re going to colonize Mars, we’ll need buildings to live and work in. So researchers have made cheap, strong concrete out of “Martian” soil.
+author:Elizabeth Woyke
+title:24M’s Batteries Could Better Harness Wind and Solar Power
+subtitle:The startup’s cheaper way to make lithium-ion batteries could make it cost-effective to store energy from renewable sources.
+author:David Rotman
+title:Chasing the Sun
+subtitle:The federal government is about to spend billions of dollars on renewable energy. In Part II of our series on the federal stimulus bill, we look at the impact the spending will have on the future of solar power.
+author:Elizabeth Woyke
+title:Developing a Tough, Time-Consuming Technology? This Investor Is Interested
+subtitle:The president of a new MIT-backed venture fund explains why it incubates capital- and time-intensive tech and how it picked its first crop of startups.
+author:James Temple
+title:Making Sense of Trump’s Surprising Investment in Solar
+subtitle:The DOE’s $62 million into concentrated solar projects could push forward a technology that addresses a critical shortcoming of photovoltaics.
+author:null
+title:A Car Battery at Half the Price
+subtitle:A startup hopes to commercialize a novel design that features fluid electrodes.
+author:null
+title:Scientists Capture the Energy of Evaporation to Drive Tiny Engines
+subtitle:Devices produce electricity from spores resting on water’s surface, but practical applications remain distant.
+author:null
+title:Obama Says the World’s Move Toward Renewables Is “Irreversible”
+subtitle:Changing economic realities mean that America is already reducing its emissions, but the president says more action is needed to accelerate the process.
+author:Jamie Condliffe
+title:India and China Are Emerging as Climate Icons
+subtitle:Six months ago, America led the world’s push to solve climate change. Now it looks on as two reformed nations take its place.
+author:Jamie Condliffe
+title:Trump’s Rollback Paves the Way for a New Climate Leader
+subtitle:The world’s next global leader on climate is probably not the country you’d expect.
+author:null
+title:Why Tesla Wants to Sell a Battery for Your Home
+subtitle:Tesla launches a stationary battery aimed at companies with variable electricity rates and homes with solar panels.
+author:Jamie Condliffe
+title:Why India and Pakistan Are Renewing Their Love Affair with Coal
+subtitle:One nation is shirking emissions targets and the other is investing in more coal plants—but with America as a role model, that’s hardly surprising.
+author:null
+title:Real Electricity Flows from Virtual Power Plants
+subtitle:To reach a goal of getting 80 percent of its power from renewable sources by 2050, Germany plows subsidies into the smart grid.
+author:Richard Martin
+title:The One and Only Texas Wind Boom
+subtitle:Wind power has transformed the heart of fossil-fuel country. Can the rest of the United States follow suit?
+author:null
+title:Why ARPA-E Needs to Grow Up
+subtitle:The U.S. government is playing a necessary role in developing brand-new energy technologies, but it may not be sufficient.
+author:null
+title:Virtual Power Plants Get Around Solar Power’s Intermittency Problem
+subtitle:Using software to unify solar panels and battery storage creates a single, flexible resource that utilities can use to supply the grid.
+author:null
+title:On Energy, Trump Heads in the Opposite Direction from Public Opinion
+subtitle:A new report suggests Americans overwhelmingly believe that renewable energy should be prioritized over fossil fuels.
+author:null
+title:Is ARPA-E Making Any Progress?
+subtitle:The U.S. government is investing in new energy ideas, so how much progress has it made?
+author:null
+title:The U.S. Could Run on 80-Percent Renewable Electricity by 2050
+subtitle:And it wouldn’t need super-advanced technology to do it.
+author:null
+title:Texas and California Have Too Much Renewable Energy
+subtitle:The rapid growth of wind and solar power in the states is wreaking havoc with energy prices.
+author:Richard Martin
+title:Can We Help the Losers in Climate Change?
+subtitle:The demise of the coal industry should start a discussion of how we will respond to the economic upheaval caused by global warming.
+author:null
+title:In Texas Oil Country, Wind Is Straining the Grid
+subtitle:A new $8 billion electricity transmission system is now complete, but it’s already nearing maximum capacity.
+author:null
+title:Exiting Paris, Trump Cedes Global Leadership on Climate Change
+subtitle:Surprising no one, the president announced that the U.S. will withdraw from the Paris Accord.
+author:null
+title:After Setbacks, a Pioneering Stem-Cell Technology Is Back in Human Trials
+subtitle:Can cell therapy help spinal-cord injury? A long-running study hopes the answer is yes.
+author:James Temple
+title:Amid Trump Cuts, California Proposes Its Own Energy Moonshot
+subtitle:A pending cap-and-trade bill would earmark hundreds of millions of dollars for clean energy research, as the White House takes aim at federal funding.
+author:Jamie Condliffe
+title:The World’s Largest Wind Turbines Have Started Generating Power in England
+subtitle:A single revolution of a turbine’s blades can power a home for 29 hours.
+author:null
+title:Wind Fuels the North Sea’s Next Energy Boom
+subtitle:As oil declines, huge wind farms are providing electricity to Northern Europe.
+author:James Temple
+title:Trump’s Empty Promise to Coal Country
+subtitle:As long as natural gas remains cheap and plentiful, none of the president-elect’s regulatory changes can bring coal roaring back.
+author:null
+title:What We’re Doing Wrong in the Search for Better Batteries
+subtitle:The world needs cheap, scalable batteries to support a clean energy grid—but there’s a big obstacle standing in the way.
+author:null
+title:Coal Power Has Taken a Tumble, But Is It the Beginning of the End?
+subtitle:Fewer coal-powered plants are going into construction—but without harsh taxes in place, people will continue to burn the stuff.
+author:null
+title:A Trick for Making Batteries Safer Could Also Make EVs Affordable
+subtitle:SolidEnergy says its new battery materials store more energy and won’t catch fire.
+author:null
+title:Fifty-States Plan Charts a Path Away from Fossil Fuels
+subtitle:Is there a realistic roadmap to 100% renewables?
+author:null
+title:The Biggest Technology Failures of 2016
+subtitle:From algorithms that spread fake news to glowing plants that don’t glow, here are our picks for the worst technologies of the year.
+author:null
+title:What the VW Scandal Means for Clean Diesel
+subtitle:The revelations about Volkswagen’s diesel emissions hurt not only the German carmaker, but the diesel industry overall.
+author:null
+title:What 5G Will Be: Crazy-Fast Wireless Tested in New York City
+subtitle:Samsung’s technology for ultrafast data speeds currently requires a truckload of equipment.
+author:null
+title:Intel Touts New Ultra-High-Speed Wireless Data Technology
+subtitle:Small base stations could achieve huge data capacity increases using Intel’s modular antenna arrays.
+author:null
+title:Aereo CEO: Customers Beating Down Doors for Disruptive Internet TV Service in New Cities
+subtitle:Aereo CEO says he’s boosted by winning a round in court—and that “lines are very, very long” for his Internet TV offering, despite ABC’s new competing streaming service.
+author:null
+title:Facebook Is Testing a Super-Speed Public Wi-Fi System
+subtitle:New wireless technology could let mobile devices access data at speeds matching the fastest fiber-optic broadband.
+author:null
+title:Facebook’s Sci-Fi Plan for Typing with Your Mind and Hearing with Your Skin
+subtitle:Inside the mysterious Building 8, the social network is working on far-out communication technologies.
+author:null
+title:Siri May Get Smarter by Learning from Its Mistakes
+subtitle:Conversational assistants can learn a lot through positive or negative feedback from humans.
+author:null
+title:How Assistant Could End Up Eating Google’s Lunch
+subtitle:Google’s chatty virtual helper could make search more useful but disrupt the company’s business model.
+author:null
+title:Facebook and Google Are Racing to Supply India with Internet Access
+subtitle:The U.S. tech giants are keen to provide Web connections—but can a new scheme help Facebook recover from its Free Basics blunder?
+author:null
+title:Google Puts Its Virtual Brain Technology to Work
+subtitle:A powerful new approach to artificial intelligence is ready to improve many Google products.
+author:null
+title:India’s Blow Against Facebook Sets Up a Grand Experiment in Net Neutrality
+subtitle:Regulators in India have struck down Facebook’s scheme that makes it free to access only some parts of the Internet .
+author:null
+title:What Will It Take to Build a Virtuous AI?
+subtitle:A billion-dollar nonprofit backed by Silicon Valley heavyweights aims to make machines more moral. How it will do so isn’t yet clear.
+author:null
+title:Google’s Intelligence Designer
+subtitle:The man behind a startup acquired by Google for $628 million plans to build a revolutionary new artificial intelligence.
+author:null
+title:This AI Algorithm Learns Simple Tasks as Fast as We Do
+subtitle:Software that learns to recognize written characters from just one example may point the way towards more powerful, more humanlike artificial intelligence.
+author:null
+title:Five Lessons from AlphaGo’s Historic Victory
+subtitle:As Google’s computer crushed one of humanity’s best Go players, we learned a lot about the software’s inner workings, and what it means for AI.
+author:null
+title:The Best AI Program Still Flunks an Eighth-Grade Science Test
+subtitle:A contest designed to push the limits of artificial intelligence suggests that truly intelligent machines are a long way off.
+author:null
+title:The Internet of Things Goes Rogue
+subtitle:A huge online attack enabled by Internet-connected devices illuminates a problem keeping security experts awake at night.
+author:null
+title:IoT Botnets Are Growing—and Up for Hire
+subtitle:When anyone can make use of a burgeoning army of rogue connected devices for a fee, the threat of a crippled Internet is more real than ever.
+author:null
+title:Self-Driving Cars Can Learn a Lot by Playing Grand Theft Auto
+subtitle:Hyper-realistic computer games may offer an efficient way to teach AI algorithms about the real world.
+author:null
+title:StarCraft Will Become the Next Big Playground for AI
+subtitle:Artificial intelligence will require key advances in order to play a video game filled with planning, guesswork, and bluffing.
+author:null
+title:Google’s AI Is Battering One of the World’s Top Go Players in Style
+subtitle:A Go-playing AI is thrashing the world’s best player, but what’s most interesting is how creatively and eccentrically it plays.
+author:null
+title:Tesla’s Dubious Claims About Autopilot’s Safety Record
+subtitle:Figures from Elon Musk and Tesla Motors probably overstate the safety record of the company’s self-driving Autopilot feature compared to humans.
+author:null
+title:Venture Capitalists Chase Rising Cybersecurity Spending
+subtitle:Investors have been pouring money into companies selling “next-generation” security products.
+author:null
+title:How PayPal Boosts Security with Artificial Intelligence
+subtitle:The payments giant keeps fraud losses below industry averages by teaching computers to play detective.
+author:null
+title:Why We’re So Vulnerable
+subtitle:An expert in U.S. national cybersecurity research and policy says the next generation of technology must have security built in from the very start.
+author:David O’Brien
+title:Half-Measures on Encryption Since Snowden
+subtitle:Amid a wave of corporate privacy and security pronouncements, 2014 was supposed to be the “year of encryption.” It didn’t pan out that way.
+author:null
+title:An AI Poker Bot Has Whipped the Pros
+subtitle:It’s another seminal moment for machine learning, and a painful schooling for humans.
+author:null
+title:Google DeepMind Teaches Artificial Intelligence Machines to Read
+subtitle:The best way for AI machines to learn is by feeding them huge data sets of annotated examples, and the Daily Mail has unwittingly created one.
+author:null
+title:Go Master Salvages a Victory, Showing Ingenuity in the Face of a Formidable AI
+subtitle:Google’s AlphaGo AI beat one of the world’s best players, but was finally outfoxed when its opponent exploited weaknesses in the way it works.
+author:Will Knight
+title:Why Poker Is a Big Deal for Artificial Intelligence
+subtitle:Playing poker involves dealing with imperfect information, which makes the game very complex, and more like many real-world situations.
+author:null
+title:Why Google’s CEO Is Excited About Automating Artificial Intelligence
+subtitle:AI software that can help make AI software could accelerate progress on making computers smarter.
+author:null
+title:Next Big Test for AI: Making Sense of the World
+subtitle:A new database will gauge progress in artificial intelligence, as computers try to grasp what’s going on in scenes shown in photographs.
+author:Will Knight
+title:Can This Man Make AI More Human?
+subtitle:One cognitive scientist thinks the leading approach to machine learning can be improved by ideas gleaned from studying children.
+author:null
+title:Is Your Car Safe From Hackers?
+subtitle:Interconnected computer systems provide openings for attackers.
+author:null
+title:Chrysler’s Recall of Hackable Cars Won't Be the Last
+subtitle:As carmakers rush to make vehicles more connected, their products are likely to become more vulnerable to attacks.
+author:null
+title:A Bug-Hunting Hacker Says He Makes $250,000 a Year in Bounty
+subtitle:He probably does, but you shouldn’t quit your day job.
+author:null
+title:A Way to Attack Nuclear Plants
+subtitle:Industrial computer systems are typically far less secure than they should be, experts say.
+author:null
+title:Obama Demands the Facts on Election Hacks
+subtitle:A report will investigate who was behind the myriad security breaches in this year’s presidential race.
+author:John Pollock
+title:People Power 2.0
+subtitle:How civilians helped win the Libyan information war.
+author:John Pollock
+title:Streetbook
+subtitle:How Egyptian and Tunisian youth hacked the Arab Spring.
+author:null
+title:Innovators Under 35: Dmitri Alperovitch, CTO, CrowdStrike
+subtitle:The cofounder of the security company CrowdStrike wants to help cyberattack victims strike back.
+author:null
+title:The Next Step in Finance: Exponential Banking
+subtitle:The current technological revolution is accelerating the transformation, not only of industry and business, but also of human lifestyles, culture, and, therefore, society as a whole.
+author:null
+title:Will the Real Satoshi Nakamoto Help Fix Bitcoin?
+subtitle:The identity of Bitcoin’s mysterious creator won’t matter much if the cryptocurrency remains permanently fractured.
+author:null
+title:Fidelity’s Oculus App Lets You Fly Through Your Investments
+subtitle:Brokerage giant Fidelity gives a glimpse of how virtual reality might be used beyond gaming.
+author:null
+title:Bitcoin Transactions Get Stranded as Cryptocurrency Maxes Out
+subtitle:Bitcoin hit a capacity limit that could hamper dreams of it becoming widely used.
+author:null
+title:Social Media Is Killing Discourse Because It’s Too Much Like TV
+subtitle:We need more text and fewer videos and memes in the age of Trump.
+author:null
+title:Election Monitors to Use Social Media as a Way to Find Voting Problems
+subtitle:A team of hundreds will scour the Web for signs of voter intimidation and poorly functioning polling places.
+author:null
+title:How Hackers Could Send Your Polling Station into Chaos
+subtitle:Election security experts say officials should prepare for cyberattacks that target data about voters.
+author:null
+title:Despite Fears, This Election Could Be More Secure Than Ever
+subtitle:Evidence that foreign hackers might try to disrupt November’s election have led to much-needed reflection on how to prevent such problems.
+author:null
+title:A Close Election Could Expose Risky Electronic Voting Machines
+subtitle:Voters in 15 states, including several battlegrounds, will use systems that lack an important safeguard against software errors and tampering.
+author:null
+title:U.S. Panel Endorses Designer Babies to Avoid Serious Disease
+subtitle:Genetically modified children could be acceptable in narrow circumstances, according to National Academy of Sciences.
+author:null
+title:Technical Roadblock Might Shatter Bitcoin Dreams
+subtitle:A study of the system that powers Bitcoin concludes that it cannot become widely used without a major redesign.
+author:null
+title:Getting Ahead in the Clouds
+subtitle:Atmospheric scientist Dan Cziczo takes his lab to the upper troposphere to solve a pressing climate puzzle.
+author:Kevin Bullis
+title:The Geoengineering Gambit
+subtitle:For years, radical thinkers have proposed risky technologies that they say could rapidly cool the earth and offset global warming. Now a growing number of mainstream climate scientists say we may have to consider extreme action despite the dangers.
+author:null
+title:A Cheap and Easy Plan to Stop Global Warming
+subtitle:Intentionally engineering Earth’s atmosphere to offset rising temperatures could be far more doable than you imagine, says David Keith. But is it a good idea?
+author:Will Knight
+title:AI Programs Are Learning to Exclude Some African-American Voices
+subtitle:Voice interfaces, chatbots, and other systems are discriminating against certain minority dialects.
+author:George Anders
+title:“Alexa, Understand Me”
+subtitle:Voice-based AI devices aren’t just jukeboxes with attitude. They could become the primary way we interact with our machines.
+author:Brian Bergstein
+title:Bono Sings the Praises of Technology
+subtitle:The musician and activist explains how technology provides the means to help us eradicate disease and extreme poverty.
+author:Mike Orcutt
+title:Why This Geoengineering Pioneer’s Worst Nightmare Is a Trump Tweet
+subtitle:Harvard professor David Keith worries that politicians opposed to emissions cuts will “recklessly” promote altering the atmosphere instead.
+author:James Temple
+title:This Scientist Is Taking the Next Step in Geoengineering
+subtitle:Harvard’s David Keith explains why it’s time to move forward with outdoor experiments and broader research programs.
+author:null
+title:Rules for Geoengineering the Planet
+subtitle:We have to at least consider geoengineering. And that’s where the problems start.
+author:Jamie Condliffe
+title:Geoengineering Gets Green Light from Federal Scientists
+subtitle:For the first time, funding from the U.S. government may be spent on man-made approaches to ease climate change.
+author:null
+title:Don’t Count on Geoengineering the Oceans
+subtitle:The effects of our greenhouse-gas emissions on the oceans are likely to last for centuries, even if we manage to remove huge amounts of carbon dioxide from the air.
+author:null
+title:The Unintended Consequence of Congress’s Ban on Designer Babies
+subtitle:The testing of new therapies to prevent a debilitating mitochondrial genetic disease in babies has hit a dead end.
+author:null
+title:The Quest for a Functional New Interface for the Smartphone
+subtitle:Fingertips Lab’s iPhone-controlling gadget is a good idea that needs a lot of work.
+author:Elizabeth Woyke
+title:The Octogenarians Who Love Amazon’s Alexa
+subtitle:A community of San Diego retirees is using the personal-assistant gadget to listen to audiobooks, keep current with family news, and control home appliances.
+author:null
+title:Amazon’s Touch-Screen Smart Speaker Solves a Big Problem with AI Assistants
+subtitle:And it also reasserts the company’s dominant position in that sector.
+author:null
+title:Scientists Are Turning Alexa into an Automated Lab Helper
+subtitle:Amazon’s voice-activated assistant follows a rich tradition of researchers using consumer tech in unintended ways to further their work.
+author:null
+title:Amazon’s Echo Look Rates Your Outfits and Slurps Up Revealing Data
+subtitle:The company’s latest smart assistant features a camera to help you choose what to wear—and photograph the inside of your house while it’s at it.
+author:Rachel Metz
+title:An Open-Source (and Cute) Alternative to Amazon Echo
+subtitle:Mycroft’s voice-enabled assistant is embodied in the startup’s friendly looking Mark 1 gadget, but you can build it into all kinds of devices.
+author:null
+title:Facebook Enters the Race to Build 5G Networks
+subtitle:In announcing its Telecom Infra Project, Facebook is positioning itself to disrupt the global telecommunications industry—and get us all wearing VR goggles.
+author:null
+title:Seven Must-Read Stories (Week Ending May 24, 2013)
+subtitle:Another chance to catch the most interesting, and important, articles from the previous week on .
+author:null
+title:Samsung Says New Superfast “5G” Works with Handsets in Motion
+subtitle:Samsung has made some bold claims about its “5G” technology, but experts await published confirmation.
+author:null
+title:Will Snapchat Be as Fleeting as Its Photos?
+subtitle:As the disappearing-message maker prepares to go public, I’ve given it up for Instagram Stories.
+author:null
+title:Biofuels Company Plans to Go Public
+subtitle:Amyris, which uses genetically engineered yeast to turn sugarcane to diesel, has filed for an IPO.
+author:null
+title:Hacking a Desktop Printer to Make Batteries and Circuits
+subtitle:Want to make a smart coffee mug that signals “hot”? A customized printer can make the flexible circuits and supercapacitors you’ll need.
+author:null
+title:Not Only the NSA Knows How to Make Unerasable Malware
+subtitle:Hacking tools that burrow inside hard disk drives could also be made by nongovernment hackers.
+author:null
+title:Wikileaks E-Mails Are an Election Influence to Really Worry About
+subtitle:Hacked e-mails published to Wikileaks were a “conscious effort by a nation-state” to interfere with the election, according to the NSA’s chief.
+author:null
+title:The Spies Who Loved iPhones
+subtitle:U.S. intelligence agencies know better than anyone how vulnerable today’s technologies are to being infiltrated—but some spies are getting smartphones and Wi-Fi anyway.
+author:null
+title:Head of British Intelligence Agency on Apple, Snowden, and Regrets
+subtitle:The Snowden revelations and other missteps have harmed government relations with technology companies. Now the director of Britain’s GCHQ intelligence agency hopes to patch things up.
+author:Tom Simonite
+title:Microsoft’s Top Lawyer Becomes a Civil Rights Crusader
+subtitle:The No. 2 executive at Microsoft is fighting the U.S. government in a series of cases that will shape online privacy—and the cloud business.
+author:null
+title:The NSA Spied on Cell Phones on Airplanes in Mid-Flight
+subtitle:Even at 30,000 feet, intelligence agencies can keep tabs on you.
+author:null
+title:How “Fansmitter” Malware Steals Data from Air-Gapped Computers
+subtitle:Changing a computer’s fan speed produces an audio signal that can be hijacked to steal data, say computer security experts who have tested the technique.
+author:null
+title:Are Ad Blockers Needed to Stay Safe Online?
+subtitle:The New York Times, BBC, and AOL recently served up malware with their ads, causing some experts to say blocking ads is a good way to stay secure.
+author:null
+title:China Hit by Rise of Attacks
+subtitle:China sees a major increase in infections on file-sharing sites and more targeted, localized malware threats.
+author:Joseph Cox
+title:The Growth Industry Helping Governments Hack Terrorists, Criminals—and Political Opponents
+subtitle:Government agencies and oppressive regimes are snapping up software that makes it easy to hack your phone or computer. These new powers could make us all less safe.
+author:null
+title:How Hackable Is Your Wireless Keyboard and Mouse?
+subtitle:An Internet-of-things security startup says a flaw with some non-Bluetooth wireless keyboards and mouses makes it simple to hack into your computer.
+author:null
+title:How Apple’s Secretive Gym Is Shaping Its Activity-Tracking Algorithms
+subtitle:The fitness lab for the Apple Watch includes dozens of metabolic carts, a fleet of full-time nurses, and an endless pool.
+author:null
+title:New York City Has a Bold Plan to Fight Homelessness with Data
+subtitle:Sharing information across city departments and nonprofits will help provide a roof for as many people as possible.
+author:null
+title:The Digital Economy’s Disruptive Quartet
+subtitle:null
+author:Mike Orcutt
+title:Hand Over the Data
+subtitle:Governments get more user data from Internet companies every year. Here are the figures that prove it.
+author:null
+title:IBM’s Automated Radiologist Can Read Images and Medical Records
+subtitle:Software that can read medical images and written health records could help radiologists work faster and more accurately.
+author:null
+title:Lytro Is Building a Camera to Capture Live-Action Virtual Reality
+subtitle:Lytro, maker of a shifting-focus camera, claims its upcoming virtual-reality camera will let you move around in live-action videos.
+author:null
+title:Innovating for the Digital Economy
+subtitle:null
+author:null
+title:Playing Games Might Help AI Advance
+subtitle:A new company wants to build artificial intelligence through game play.
+author:null
+title:Smarter Smartphone Alerts Come In When You Want Them
+subtitle:A startup says its algorithm can tell when a smartphone notification would just annoy you.
+author:null
+title:Robot Journalist Finds New Work on Wall Street
+subtitle:Software that turns data into written text could help us make sense of a coming tsunami of data.
+author:null
+title:Three Questions with Slack’s CEO
+subtitle:Slack wants to be an open, searchable home for all your work communication.
+author:null
+title:2015 Could Be the Year of the Hospital Hack
+subtitle:Health-care organizations often store medical records and other information insecurely.
+author:David Talbot
+title:Computer Viruses Are "Rampant" on Medical Devices in Hospitals
+subtitle:A meeting of government officials reveals that medical equipment is becoming riddled with malware.
+author:null
+title:Out-of-Work Chinese Government Hackers May Be Behind Sophisticated Ransomware Attacks
+subtitle:The downside of Obama’s effort to rein in Chinese industrial espionage could be advanced ransomware attacks on U.S. companies.
+author:null
+title:Health IT Saves a Life in Memphis
+subtitle:A medical data-sharing program saved at least $2 million and gave doctors crucial insight about a pregnant woman’s complications.
+author:null
+title:The Hackers’ New Weapons: Routers and Printers
+subtitle:Criminals are hijacking home and office routers and printers to help them overwhelm websites with traffic.
+author:null
+title:Hospitals' Electronic Wasteland
+subtitle:Stimulus funds aim to change a system largely devoid of in-depth electronic record keeping.
+author:David Talbot
+title:Prescription: Networking
+subtitle:A new urban network suggests how technology could remake health care.
+author:null
+title:DIY Censorship
+subtitle:DD0S attacks have been getting easier, and the Wikileaks situation shows what that can mean.
+author:null
+title:Forensic Analysis Reveals Details of Twitter Attack
+subtitle:New evidence shows the assault resembled a conventional denial-of-service attack.
+author:null
+title:Twitter Dusts Off After Crippling Attack
+subtitle:A major denial-of-service attack silenced the Twitterverse.
+author:null
+title:Wikileaks Switches to Amazon After Distributed Hacker Attack
+subtitle:Whoever is trying to take down Wikileaks with a denial of service attack is now attacking Amazon.com.
+author:null
+title:Web Attacks Highlight a Bigger Problem
+subtitle:DDoS attacks are a symptom of a common illness, albeit with an elusive cure.
+author:null
+title:Windows XP Is Still a Favorite Among Hackers
+subtitle:Microsoft no longer supports Windows XP, but it remains popular, and is a juicy target for cybercriminals.
+author:Mike Orcutt
+title:China’s Unprecedented Cyber Law Signals Its Intent to Protect a Precious Commodity: Data
+subtitle:Many aspects of the country’s sweeping new regulation seem to have been left unclear on purpose.
+author:null
+title:Net Neutrality Rules May Slow Innovation, but Uncertainty Will Be Worse
+subtitle:FCC chairman Ajit Pai argues that rules governing Internet providers discourage investment, but killing them could create more problems for content providers.
+author:null
+title:How Politics Could Put the Reliability of Future Elections at Risk
+subtitle:Eliminating the Election Assistance Commission would likely delay the process of replacing the nation’s aging and insecure elections infrastructure.
+author:null
+title:Why Congress Can’t Seem to Fix This 30-Year-Old Law Governing Your Electronic Data
+subtitle:New questions about the FBI’s power to access data have shifted the years-long political debate over reform of the Electronic Communications Privacy Act.
+author:null
+title:The Surprising Light Side of the Dark Web
+subtitle:Indexing the dark Web offers a way to track crime—and shows that the hidden realm is a refuge for people who fear persecution.
+author:null
+title:Internet Voting Leaves Out a Cornerstone of Democracy: The Secret Ballot
+subtitle:Maintaining the secrecy of ballots returned via the Internet is “technologically impossible,” according to a new report.
+author:null
+title:IBM and Linux Advancing the Open Source Revolution
+subtitle:
+author:null
+title:Pragmatic Enterprise Application Rationalization
+subtitle:Communicating the Cost of the Application Portfolio
+author:null
+title:Dropbox Offers a Way to Free Data from Mobile Apps
+subtitle:A new feature makes it easy for mobile apps to sync data—and poses direct competition to Apple’s iCloud.
+author:null
+title:Dropbox Announces 'Team' Service and Mobile Deal
+subtitle:The cloud-storage startup is offering a terabyte of storage for heavy users, and its software will appear on almost all HTC devices in 2012.
+author:null
+title:Companies Promise a Cloud that Won't Crash
+subtitle:Some say that recent high-profile cloud outages are just a matter of bad design.

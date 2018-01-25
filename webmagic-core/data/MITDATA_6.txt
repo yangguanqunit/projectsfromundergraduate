@@ -1,0 +1,966 @@
+author:null
+title:Amazon's Fire: A Cloud-Powered Contender
+subtitle:The retail giant is combining several parts of its business with its vast cloud infrastructure to deliver an impressive tablet.
+author:null
+title:The Internet Is Sick
+subtitle:The nonprofit behind the Firefox browser starts a project to monitor signs that the Internet isn’t free or open enough.
+author:null
+title:Can You Improve Your E-Mails by Analyzing Recipients’ Personalities?
+subtitle:Startup Crystal claims it can help you write better e-mails by mining recipients’ online data for clues to their personality.
+author:null
+title:TED Has Competition -- From An Advertising Firm
+subtitle:Journalism, “amateur” content and web-only television are increasingly being created by brands themselves.
+author:null
+title:Plan Would Put a Bank in Every Browser
+subtitle:An open payments system built into Web standards could transform online life, if the proposal takes off.
+author:null
+title:FCC Chief Proposes Broader Net Neutrality Rules
+subtitle:Planned regulations would govern the openness of the Internet, no matter if you’re surfing the Web on a laptop or a smartphone.
+author:null
+title:How the Internet Became Boring
+subtitle:The Internet is both a utility and a medium. Only one of these things is exciting.
+author:null
+title:What's Wrong With Almost Every Old Media-Inspired New Media Startup
+subtitle:Tired theories about what it takes to succeed on the web neglect the fact that the web is no longer where media innovation happens.
+author:null
+title:All Web Developers Should Stop Doing This Immediately
+subtitle:Why do websites insist on treating tablets like second class citizens?
+author:null
+title:New Rapid Response Systems Blunt Cyberattacks
+subtitle:Limiting damage from attacks requires far faster reactions, quick notification of victims, and adherence to regulations. Managing all that can be tricky.
+author:null
+title:The Genius of Pinterest's Copyright Dodge
+subtitle:Sometimes skirting the law is just good design.
+author:Mike Orcutt
+title:Wait, Why Does Trump Want to Change America’s Air Traffic Control System?
+subtitle:The president is right when he says that the nation’s air traffic control system is old and is taking a long time to modernize.
+author:null
+title:Trump’s Impact on Clean-Energy Businesses
+subtitle:Wind and solar power will probably continue to grow during the next few years, though longer-terms prospects are cloudy.
+author:null
+title:Booming Lagos, Smart City
+subtitle:An African mega-city bets on technology and its native entrepreneurs to meet the many challenges of its population boom. 
+author:null
+title:Sensing Santander
+subtitle:In Santander, Spain, thousands of sensors measure traffic, parking, lighting and irrigation.
+author:null
+title:Self-Healing Concrete Uses Sunlight to Fix Its Own Cracks
+subtitle:Researchers have demonstrated a way to give concrete surfaces the ability to heal when small cracks appear, an advance that could allow bridges and other structures to last longer.
+author:null
+title:GPS Data on Beijing Cabs Reveals the Cause of Traffic Jams
+subtitle:The data could lead to novel urban planning solutions that would work in sprawling cities everywhere.
+author:null
+title:iRobot Founder's Startup to Develop UAVs for Bridge Inspection
+subtitle:CyPhy Works receives a $2.4 million grant.
+author:null
+title:Apple to FBI: Weakening iPhone Security Could Make the Power Grid More Hackable
+subtitle:Apple’s claims that cooperating with the FBI would reduce iPhone security are a reminder of weaknesses that already exist.
+author:null
+title:What the DNC Hack Says about Cyber-Based Threats to Democracy
+subtitle:Securing the nation’s election system against hackers is not straightforward, but it starts with keeping voting off the Internet.
+author:null
+title:Robot Spiders Weave Products from Plastic in a New Spin on 3-D Printing
+subtitle:Siemens is testing teams of creepy-crawly 3-D-printing robots. Their descendants might make manufacturing lines far more efficient.
+author:null
+title:Citizen Technologists
+subtitle:Amsterdam wants its next data projects to be driven by citizens.
+author:null
+title:Once a Joke, Battery-Powered Airplanes Are Nearing Reality
+subtitle:Aerospace companies are working on hybrid electric airplanes, and the earliest versions will likely arrive before the end of the decade.
+author:null
+title:The Quest for the Monster Wind Turbine Blade
+subtitle:Companies are racing to develop ways to make the 100-meter blades needed to make offshore wind compete with fossil fuels.
+author:null
+title:Building Solar in Spain Instead of Germany Could Save Billions
+subtitle:Building solar and wind projects in the wrong place is wasting billions of dollars in Europe.
+author:null
+title:A Giant of Wind Power
+subtitle:null
+author:null
+title:Siemens Boosts Its Stake in Tidal Power
+subtitle:The engineering giant likes the predictability of marine power—which can be “calculated for centuries in advance.”
+author:null
+title:Building Bigger, Better Wind Turbines
+subtitle:Department of Energy funds companies developing superconducting, “gearless” turbines.
+author:David L. Chandler
+title:Using Bricks to Store Electricity
+subtitle:Ancient tech could spur carbon-free energy.
+author:null
+title:Carbon Dioxide Emissions Keep Falling in the U.S.
+subtitle:Despite continued economic growth, emissions in the U.S. are on a steady decline thanks in large part to cheap natural gas.
+author:null
+title:China Details Next-Gen Nuclear Reactor Program
+subtitle:China, in partnership with the U.S. Department of Energy, says it will deploy advanced nuclear reactors commercially by 2030.
+author:null
+title:Progress on a Powerful New Way to Generate Electricity
+subtitle:A powerful new way to generate electricity could eventually make electric cars and electronic gadgets run longer.
+author:null
+title:Blame the Weather for Last Year’s Rise in U.S. Carbon Dioxide Emissions
+subtitle:Carbon emissions have been trending downward, but not quickly enough to offset fluctuations in weather patterns.
+author:null
+title:Reactor Retirements Will Hurt U.S. Emissions Cuts
+subtitle:Subtracting nuclear reactors in the U.S. could make it tougher to meet climate goals.
+author:null
+title:How and Why U.S. Greenhouse Gas Emissions Are Falling
+subtitle:Recent data clarify the trends causing emissions to shrink to their lowest level since 1995.
+author:null
+title:Avoiding the Power Grid
+subtitle:A cheaper fuel cell could provide affordable power for microgrids.
+author:Mike Orcutt
+title:The Enduring Technology of Coal
+subtitle:Despite the need to reduce carbon dioxide emissions, the burning of coal has only been accelerating.
+author:null
+title:Ethanol-Powered Car Wins the Automotive X-Prize
+subtitle:A vehicle powered by an internal combustion engine beats electric cars to the $10 million competition.
+author:null
+title:GM Rides a Rickshaw to China
+subtitle:The strange, but surprisingly fun, two-wheeled electric pod could be successful there.
+author:null
+title:Old-Fashioned Control Systems Make U.S. Power Grids, Water Plants a Hacking Target
+subtitle:Critical infrastructure is at risk of a cyberattack because of systems that haven’t kept pace with Internet threats.
+author:null
+title:Uber Project May Improve Autonomous Cars’ Vision
+subtitle:Uber’s collaboration with the University of Arizona could make laser mapping systems for cars cheaper and more practical.
+author:null
+title:Here’s What Developers Are Doing with Google’s AI Brain
+subtitle:Researchers outside Google are testing the software that the company uses to add artificial intelligence to many of its products.
+author:null
+title:GM Partners to Produce Plug-in Hybrid Van
+subtitle:It’s taken a stake in start-up Bright Automotive
+author:null
+title:How’s the Weather There? Crowdsourcing App Promises Better Forecasts
+subtitle:An app called Sunshine taps into users’ smartphone sensors to provide localized weather predictions.
+author:Will Knight
+title:Andrew Ng’s Next Trick: Training a Million AI Experts
+subtitle:Millions of people should master deep learning, says a leading AI researcher and educator.
+author:null
+title:AI Software Learns to Make AI Software
+subtitle:Google and others think software that learns to learn could take over some work done by AI experts.
+author:null
+title:New Gene Therapy Company Launches
+subtitle:Spark Therapeutics hopes to commercialize multiple gene-based treatments developed at the Children’s Hospital of Philadelphia.
+author:null
+title:The World’s Most Expensive Medicine Is a Bust
+subtitle:The first gene therapy approved in the Western world costs $1 million and has been used just once. The doctor who tried it says the price is “absolutely too high.”
+author:null
+title:Water Is the Next Oil
+subtitle:VC hopes to capitalize on an increasingly scarce resource.
+author:null
+title:Research as a Community-Building Activity
+subtitle:The potential impact of participatory science, personal and global.
+author:null
+title:An App Keeps Spies Away from Your iPhone
+subtitle:A cryptography pioneer offers a simple way to fight electronic surveillance.
+author:null
+title:A Lucky Monkey Gives Thanks
+subtitle:Rhesus macaques on a low-calorie diet are healthy. That’s no reason to feel guilty for your Thanksgiving feast.
+author:null
+title:Recommended Energy Reads This Week
+subtitle:A weekly roundup of the best and most important energy reads on the Web, compiled by  energy editor Richard Martin.
+author:null
+title:The Chemistry of Thanksgiving
+subtitle:A chemistry video explains how those turkey pop-up timers work.
+author:Jason Pontin
+title:Why Tech Companies Should Work with Government Rather than Against It
+subtitle:The former chief digital officer of New York, Rachel Haot, explains why government and entrepreneurs need to work together.
+author:null
+title:Self-Taught Software
+subtitle:Google’s image recognition software improves search
+author:null
+title:An Appetite Suppressant in Time for Turkey Day
+subtitle:Researchers have found a molecule that could help fight obesity.
+author:null
+title:After an Apocalypse, What's Left of Digital Stores of Knowledge?
+subtitle:Our existing information technology infrastructure is surprisingly robust, at least for now. But what’s left if something really big happens?
+author:null
+title:Q&A: The Experimenter
+subtitle:Gary Loveman, an economist who became CEO of Caesars Entertainment, demands that his employees operate the business by analyzing data rather than leaning on hunches.
+author:null
+title:Are Girls Getting More Tech Savvy?
+subtitle:A new report says that young women use more technology at home than their male counterparts.
+author:null
+title:Singapore Seeks a Breakthrough to Call Its Own
+subtitle:The Asian nation has spent billions on R&D and lured technology superstars. So why does it lag in innovation?
+author:null
+title:Fixing the Growing Oil Crisis in Asia
+subtitle:How countries can work together to make oil cheaper and more readily available.
+author:null
+title:Antivirus Companies Should Be More Open About Their Government Malware Discoveries
+subtitle:Antivirus companies had tracked the sophisticated—and likely U.S.-backed—Regin malware for years. But they kept what they learned to themselves.
+author:Mike Orcutt
+title:How Blockchain Is Kickstarting the Financial Lives of Refugees
+subtitle:Finland’s digital money system for asylum seekers shows what blockchain technology can offer the unbanked.
+author:null
+title:Educating the Displaced
+subtitle:When I was a refugee, education gave me hope. As a professor, I want to return the favor.
+author:null
+title:Weathering the Storm
+subtitle:Coupled computer models will help officials know what to do as intense storms approach.
+author:null
+title:Tracking Hurricanes
+subtitle:New technologies are helping to amp up bad-weather tracking.
+author:null
+title:Five Days of Tornado-Generating Storms as Seen from Space
+subtitle:Satellites help give scientists a big-picture look at severe weather.
+author:null
+title:Record Tornado Season Caused by Climate Change?
+subtitle:Unfortunately, no one knows.
+author:null
+title:A Hurricane on Wheels
+subtitle:Engineers have built a portable device that can simulate the effects of a hurricane.
+author:null
+title:Advanced Hurricane Forecasting
+subtitle:With the 2007 hurricane season under way, scientists believe their new forecasting model will make more-accurate predictions, thereby saving lives.
+author:null
+title:Game On, Rain or Shine
+subtitle:Electronic Arts’s new sports game will have a novel level of realism: live weather that affects play.
+author:null
+title:Online Education Pioneer Boots Up a Jobs Program for the Tech Industry
+subtitle:Sebastian Thrun helped stoke the hype around massive online open college courses—but has pivoted his own startup to focus on vocational training instead.
+author:null
+title:What Football Does to the Brain
+subtitle:The brains that come through Ann McKee’s lab don’t lie. But they are only the beginning of the story about head trauma and its role in neurodegenerative disease.
+author:null
+title:EmTech: Qualcomm Working to Build Artificial Intelligence Into Smartphones
+subtitle:Future smartphones could have specialized hardware that uses simulated neurons to do things like recognize objects or faces.
+author:null
+title:EmTech: 3-D Printing Complex Kidney Components
+subtitle:A breakthrough in printing blood vessels is enabling a new approach to printing organs.
+author:null
+title:EmTech: Risks of Gene-Editing Drugs Need Study, Pioneer Warns
+subtitle:One of the inventors of gene editing says scientists should proceed cautiously before testing it in people.
+author:null
+title:EmTech: Illumina Says 228,000 Human Genomes Will Be Sequenced This Year
+subtitle:Record number of genomes being decoded, but cost of DNA sequencing might not fall much further, says Illumina president.
+author:null
+title:EmTech: Box CEO Offers Advice for Microsoft
+subtitle:Microsoft must understand that companies want to buy software from more than one provider, the upstart competitor argues.
+author:null
+title:EmTech: Nest Technologist on the Problem of Remaking “Unloved Devices”
+subtitle:Nest technology vice president Yoky Matsuoka says the smart-thermostat maker has learned the importance of making a device people want to touch.
+author:null
+title:EmTech: Three Questions with the Man Who Grows Meat
+subtitle:Modern Meadow’s CEO explains how he’ll culture leather and make steak from giant vats brewing muscle and skin cells.
+author:null
+title:EmTech: Google’s Internet “Loon” Balloons Will Ring the Globe within a Year
+subtitle:Google X research lab boss Astro Teller says experimental wireless balloons will test delivering Internet access throughout the Southern Hemisphere by next year.
+author:Bonnie Rochman
+title:A Change of Mind
+subtitle:Diana Bianchi championed tests that find Down syndrome early in pregnancy. Now can she find a way to treat it?
+author:null
+title:CRISPR Dispute to Be Decided by Patent Office
+subtitle:A “patent interference” proceeding will determine who controls foundational patents on gene editing.
+author:null
+title:EmTech: IBM Tries to Make Watson Smarter
+subtitle:IBM executive says Watson could find success with commercial apps in wealth management, call centers, and medicine.
+author:null
+title:Now You Can Genetically Engineer Living Cells with a Home Kit. Should You?
+subtitle:A new kit called Amino promises home-brew bioengineering for less than the price of a MacBook.
+author:null
+title:Genome Study Predicts DNA of the Whole of Iceland
+subtitle:Large genome databases are starting to reveal critical health information—even about people who have not contributed their DNA.
+author:null
+title:Ancestry Moves Further into Consumer Genetics
+subtitle:The company that began as a source of genealogical data now hopes to marry that information with DNA data—and sell it for research.
+author:null
+title:23andMe’s New Formula: Patient Consent = $
+subtitle:How a consumer genetics company amassed a database of willing research participants.
+author:null
+title:News Flash: Women Like to Tinker, Too
+subtitle:So why don’t we see more women doing it?
+author:Amanda Schaffer
+title:Slowing the Biological Clock
+subtitle:A new treatment for infertility eventually could improve women’s prospects for having babies later in life.
+author:null
+title:Scientists Call for a Summit on Gene-Edited Babies
+subtitle:Nobel Prize winners raise alarm over genetic engineering of humans.
+author:null
+title:Your Urban Vehicle of the Future Might Be an Electric Tricycle
+subtitle:The latest solution for congested cities is an electric, autonomous tricycle for adults.
+author:null
+title:#EmTechMIT Coverage
+subtitle:News and Views from EmTech at MIT, where technologists are showing off breakthroughs in computing, energy, materials, and biomedicine—and discussing their implications.
+author:null
+title:Humans and Computers Are Getting Even More Connected
+subtitle:The implications of pervasive or ubiquitous computing are still only beginning to be apparent.
+author:null
+title:You Can Now 3-D Print a Toupee
+subtitle:Researchers have figured out how to use a 3-D printer to make plastic hair of varying thicknesses for things like toys and brushes.
+author:null
+title:Aquion Founder Jay Whitacre on the “Miracle Technology” in Batteries
+subtitle:The award-winning battery pioneer talks about the future of energy storage and the path to scaling low-cost, nontoxic batteries.
+author:null
+title:A Drone with a Sense of Direction
+subtitle:A small drone capable of building its own maps of an indoor space shows how the craft could become easier to use.
+author:null
+title:Get to Grips with Virtual Objects Using This Stripped-Down Glove
+subtitle:A new controller puts sensors on your fingers so you can type without a keyboard and manipulate digital objects.
+author:null
+title:Recommended Energy Reads This Week
+subtitle:A roundup of the best stories on energy from other sites this week, collected by Richard Martin, ’s energy editor.
+author:null
+title:How Do Genome Sequencing Centers Store Such Huge Amounts of Data?
+subtitle:If genetic analysis is going to get as cheap as we expect, sequencing centers could become some of the world’s largest users of data storage.
+author:null
+title:Now You Can Use Emojis to Search for Cute Cat Videos
+subtitle:Researchers have built an emoji video search demo that lets you use tiny pictures to sort through thousands of YouTube clips.
+author:Christina Larson
+title:Inside China’s Genome Factory
+subtitle:Sequencing a complete human genome may soon cost less than an iPhone. Will BGI-Shenzhen decode yours?
+author:null
+title:Radical New DNA Sequencer Finally Gets into Researchers’ Hands
+subtitle:A DNA sequencer the size of a cell phone could change where, and how, gene research occurs.
+author:null
+title:Why Beneficial Epidemics Spread More Quickly than Harmful Ones
+subtitle:Complexity theorists and biologists reveal how benefits spread super-exponentially through populations.
+author:null
+title:This Is How to Stop the Zika Virus
+subtitle:Halting the explosive spread of Zika means waging war with mosquitoes. There are several ways, old and new, to win that war.
+author:null
+title:Climate Change: Why the Tropical Poor Will Suffer Most
+subtitle:As the Pope calls for action on climate change, a growing body of evidence shows that low-latitude countries will feel the heaviest effects of global warming.
+author:null
+title:Eradicating Aging Cells Could Prevent Disease
+subtitle:Mice lacking these cells were stronger and had no cataracts.
+author:null
+title:23andMe Offers Free Genetic Tests to African Americans
+subtitle:Studies show that the genetic risk of disease varies between different ethnic groups, and data on some groups is lacking.
+author:null
+title:Gene Therapy’s First Out-and-Out Cure Is Here
+subtitle:A gene therapy for an inherited immune disease completes a 27-year journey.
+author:null
+title:Challenges Remain for Technologies to Fight Ebola
+subtitle:Efforts to contain Ebola in West Africa suffer from a lack of effective tools to treat and prevent the disease, although several are in development.
+author:null
+title:Massive Project to Study the Link between Genetics and Health
+subtitle:Kaiser Permanente has compiled the genetic and medical data of 100,000 of its members.
+author:null
+title:Keeping Neurons Alive in Parkinson's Patients
+subtitle:An upcoming clinical trial will attempt to solve problems that have plagued one potentially promising treatment.
+author:null
+title:Gene Therapy in U.S. Is On Track for Approval as Early as Next Year
+subtitle:Spark Therapeutics is within striking distance of a landmark green light from the FDA for its treatment for certain forms of blindness.
+author:null
+title:A Vaccine to Attack Cancer Early
+subtitle:A startup is developing the first vaccine to target patients before they develop cancer.
+author:null
+title:Texas Woman Is the First Person to Undergo Optogenetic Therapy
+subtitle:Doctors don’t yet know if it worked, but the implications of an optogenetics trial could be significant for patients suffering from blindness, Parkinson’s, or schizophrenia.
+author:null
+title:In First Human Test of Optogenetics, Doctors Aim to Restore Sight to the Blind
+subtitle:A breakthrough technology from neuroscience might allow blind people to see a monochromatic world.
+author:null
+title:17 and Going Blind: The High Stakes of Getting into a Gene Therapy Trial
+subtitle:For patients with some inherited diseases, a chance to test an experimental treatment can offer the only hope.
+author:null
+title:Gene Therapy Offers Hope for “Worst Disease You’ve Never Heard Of”
+subtitle:Stanford researchers are using patients’ own skin cells to correct a rare, debilitating skin disorder.
+author:null
+title:Gene Therapy Trial Wrenches Families as One Child’s Death Saves Another
+subtitle:New DNA fix stops brain-destroying terminal illness, but only if it’s given early enough.
+author:null
+title:High Stakes for Gene Therapy
+subtitle:After a decade of disappointment and a teenager’s death, this experimental treatment faces a crucial test. Can it cure hemophilia?
+author:null
+title:Biomedical News: Genome Editing, Lab Grown Blood Vessels, and TB Vaccine for Diabetes
+subtitle:Editing the genome to correct a genetic defect in live animals, blood vessels grown from cultured skin cells, and TB vaccine improves diabetes.
+author:null
+title:A Possible Setback for Reprogrammed Stem Cells
+subtitle:In mice, stem cells derived from adult tissue can trigger immune rejection, even when matched to the tissue donor.
+author:David L. Chandler
+title:Pocketable Photovoltaics
+subtitle:New method could produce lightweight, flexible solar panels at low cost
+author:null
+title:A Potato Made with Gene Editing
+subtitle:Plant scientists can swiftly modify crops in ways that would take years with conventional breeding.
+author:null
+title:A Cure for the Common Cold
+subtitle:New drug designed to target any viral infection
+author:Peter Dizikes
+title:The Office Next Door
+subtitle:Casual conversations among colleagues can prove surprisingly fruitful. At MIT, some of those conversations have lasted for 60 years.
+author:null
+title:Nanoparticle Networks Promise Cheaper Batteries for Storing Renewable Energy
+subtitle:A new battery design could lead to a cheap way to address the intermittency of solar and wind power.
+author:null
+title:Tiny Glue Guns to Patch Surgical Holes
+subtitle:Glue made of nanoparticles, delivered by a needle, can be a better replacement for sutures and surgical staples.
+author:null
+title:Inside the Lab with Daniel Anderson
+subtitle:MIT professor shares an update about his work in cancer research at the Koch Institute.
+author:null
+title:Lighting Sheets Would Use Half as Much Power as Lightbulbs
+subtitle:OLEDs are highly efficient but expensive. Better materials and manufacturing methods are changing that.
+author:Susan Young Rojahn
+title:Fine-tuning Nanotech to Target Cancer
+subtitle:Programmable nanoparticles have shown promise in early cancer trials, and may finally fulfill the promise of nanomedicine.
+author:null
+title:Tiny Particles May Pose Big Risk
+subtitle:Some nanoparticles commonly added to consumer products can significantly damage DNA.
+author:null
+title:Nanoparticles Make Steam without Bringing Water to a Boil
+subtitle:A new trick could reduce the energy needed for many industrial processes and make solar thermal energy much cheaper.
+author:null
+title:RNA-Based Cholesterol Drug Is Readied for Human Tests
+subtitle:New methods for delivering the therapies to the target tissue could boost a wavering field.
+author:null
+title:My Zero-Waste Life
+subtitle:Why—and how—I stopped contributing to Mt. Methane.
+author:null
+title:Nanoparticles in Disguise Are a More Potent Antibiotic Treatment
+subtitle:Researchers have developed a new antibiotic treatment by disguising nanoparticles with coverings of platelets.
+author:Kevin Bullis
+title:2014 in Materials: Rhubarb Batteries, the Gigafactory, and Printing Body Parts
+subtitle:In 2014, advanced materials let humans scale glass walls and helped clear the way for cheap, clean energy.
+author:null
+title:Weighing Particles at the Attogram Scale
+subtitle:New device from MIT can measure masses as small as one millionth of a trillionth of a gram, in solution.
+author:null
+title:Nanoparticle Detects the Deadliest Cancer Cells in Blood
+subtitle:A novel kind of nanoparticle could lead to more effective cancer treatments.
+author:null
+title:Reality Check for Google’s Nanoparticle Health Tests
+subtitle:Google will face big challenges developing a nanotechnology-based test for cancer and other diseases.
+author:null
+title:Molecule Helps Nanoparticles Sneak Past the Immune System
+subtitle:Researchers have given nanoparticles the ability to tell immune cells not to eat them, a development that could have broad implications for medicine.
+author:null
+title:What Happens When You Breathe In Nanoparticles
+subtitle:Researchers watch fluorescent nanoparticles move through the respiratory system, an advance that could lead to better drugs.
+author:null
+title:Potential Treatment for Down Syndrome
+subtitle:Enhancing specific chemical signaling in the brain could help treat the disorder.
+author:null
+title:Treating Genetic Disorders Before Birth
+subtitle:Researchers are working on transplanting stem cells in utero.
+author:null
+title:Healthy Embryos Show Chromosome Flaws
+subtitle:A study involving higher-resolution genetic screening suggests that healthy embryos may be wasted during IVF.
+author:null
+title:A Computational Model of an Anticancer Nanoparticle
+subtitle:IBM’s Blue Gene supercomputer uncovers a novel drug interaction site.
+author:null
+title:The Memory Trick Making Computers Seem Smarter
+subtitle:One startup’s approach to teaching computers to learn shows the value of applying new ideas to machine learning.
+author:null
+title:America’s Broadband Improves, Cementing a “Persistent Digital Divide”
+subtitle:New figures show that U.S. broadband access is improving, but only for some.
+author:null
+title:Pope Francis Said to Bless Human-Animal Chimeras
+subtitle:A scientist sought the Vatican’s approval for mixing human cells in animal embryos. And the pope said yes.
+author:null
+title:How Chesapeake CEO Aubrey McClendon Helped Push Coal to the Brink
+subtitle:The indicted, and now deceased, natural gas pioneer was a primary funder of the Sierra Club’s anti-coal campaign.
+author:null
+title:Spotify Taps Hannibal Burress to Create Playlists
+subtitle:Spotify relies heavily on algorithms to offer its listeners interesting music. Today the company decided to see what happens when a human comedian gives it a try.
+author:null
+title:The Problem with Biofuels
+subtitle:The U.S. Navy is touting its “Great Green Fleet,” but why haven’t biofuels made a bigger splash despite a decade of hype and investment?
+author:null
+title:Theranos Is Closing Its Labs and Hemorrhaging Jobs
+subtitle:CEO Elizabeth Holmes finally admits what was obvious all along.
+author:null
+title:When Its Employee Blew the Whistle, Theranos Was Out for Blood
+subtitle:Mind-boggling VC funding and influential board members appear to have created a company prepared to do anything but admit defeat.
+author:null
+title:Theranos Makes Another Unforced Error
+subtitle:The blood-testing startup adds a flubbed test for the Zika virus to its rap sheet.
+author:null
+title:Theranos Unveils “MiniLab” Invention to a Skeptical Audience
+subtitle:Has Elizabeth Holmes’s testing company developed a miniaturized super lab?
+author:null
+title:Theranos Promised a Revolution, but Delivered Dangerous Errors
+subtitle:A government investigation of Theranos’s lab has documented a host of troubles at the blood-testing startup.
+author:Antonio Regalado
+title:The 6 Biggest Technology Failures of 2015
+subtitle:They caught on fire, threatened the planet, or were simply less impressive than they seemed. Meet the year’s worst technologies.
+author:Elizabeth Woyke
+title:The Science Behind Your Volumizing Shampoo
+subtitle:Hair-care company Living Proof explains how it uses biotech to develop its products.
+author:null
+title:Gene Drives That Tinker with Evolution Are an Unknown Risk, Researchers Say
+subtitle:Too little is known about the risks of gene drives to responsibly release them in natural environments, say the authors of a new National Academies report.
+author:null
+title:Cell on a Chip
+subtitle:The first artificial cell organelle may help researchers find a way to make bioengineered heparin and other synthetic drugs.
+author:null
+title:Women Asked to Avoid Pregnancy as Zika Epidemic Worsens
+subtitle:As the outbreak spreads, affected countries may look toward a technological solution.
+author:null
+title:The Quest to Engineer the Perfect Potato
+subtitle:Researchers in the U.K. aim for a new commercial potato that resists many of the worst vulnerabilities of potato crops around the world.
+author:null
+title:Musical Neurons
+subtitle:Researchers zero in on a neural population that responds to music.
+author:null
+title:Loneliness Neurons
+subtitle:Researchers pinpoint a brain area associated with feelings of isolation.
+author:null
+title:Brewing Up Sustainability
+subtitle:Novel system devised by MIT spinout Cambrian Innovation uses microbes to treat, extract power from wastewater.
+author:null
+title:How Brain Scientists Outsmart Their Lab Mice
+subtitle:To watch the brain work during navigation, scientists build computer-generated worlds for mice.
+author:null
+title:Fatter Cows and Chickens from GM Crops
+subtitle:Biotech turns to DNA editing technology to engineer easier-to-digest plants for farm animals.
+author:null
+title:Researchers Control Animals’ Movements with Light
+subtitle:The team screened 10,000 compounds before finding one that did the job.
+author:null
+title:Cell-Free Biomanufacturing for Cheaper, Cleaner Chemicals
+subtitle:Biotech startup Greenlight Biosciences has a cell-free approach to microbial chemical production.
+author:null
+title:Fluorescent Protein Lights Up the Inner Workings of the Brain
+subtitle:The advance offers a nontoxic way to study how the organ works, and how disease impairs it.
+author:null
+title:How Machine Learning May Help Tackle Depression
+subtitle:By detecting trends that humans are unable to spot, researchers hope to treat the disorder more effectively.
+author:null
+title:An Up-Close View of Schizophrenia
+subtitle:Reprogrammed stem cells from schizophrenia patients could help researchers study the disease more closely, and test drugs to fight it.
+author:null
+title:Why America’s Top Mental Health Researcher Joined Alphabet
+subtitle:Tom Insel explains why he’s ready to give Silicon Valley a try.
+author:null
+title:This Phone App Knows If You’re Depressed
+subtitle:Motion, audio, and location data harvested from a smartphone can be analyzed to accurately predict stress or depression.
+author:null
+title:Gene Therapy for Treating Depression
+subtitle:Researchers find they can alleviate depression in mice by boosting a protein in one part of the brain.
+author:null
+title:Growth Hormone: Fountain of Youth or Early Killer?
+subtitle:A small population of dwarves in rural Ecuador could hold the answer.
+author:Karen Weintraub
+title:Critics Blast Star-Studded Advisory Board of Anti-Aging Company
+subtitle:Nobel Prize winners lend their faces, credibility, to supplement maker Elysium’s advertising campaign.
+author:null
+title:Why Nematode Worms Could Hold the Key to Aging
+subtitle:Human physiology changes with age in the same way as the behavior of nematode worms. Understanding why could be a crucial clue for the science of aging.
+author:null
+title:A Tale of Do-It-Yourself Gene Therapy
+subtitle:An American biotech CEO claims she is the first to undergo gene therapy to reverse aging. Judge for yourself.
+author:Karen Weintraub
+title:Rejuvenating the Chance of Motherhood?
+subtitle:An audacious startup thinks it can give 40-ish women a better shot at having children. Should desperate would-be parents believe it?
+author:Stephen S. Hall
+title:The Dementia Plague
+subtitle:As the world’s population of older people rapidly grows in the coming years, Alzheimer’s and other forms of dementia will become a health-care disaster.
+author:null
+title:Plastic Antibodies Fight Toxins
+subtitle:Polymers that mimic the body’s natural defenses could be a new class of inexpensive therapeutics.
+author:null
+title:Fingertip Bacteria: A Promising Forensic Tool
+subtitle:The genetic makeup of microbes on a person’s skin could provide crime scene evidence.
+author:null
+title:Banks Aim to Secure Customers' PCs
+subtitle:The user is the weakest link for financial security.
+author:null
+title:Touchless 3-D Fingerprinting
+subtitle:A new system offers better speed and accuracy.
+author:null
+title:Identifying Manipulated Images
+subtitle:New tools that analyze the lighting in images help spot tampering.
+author:null
+title:A Portable DNA Detector
+subtitle:The latest forensic weapon is a device that identifies crime scene DNA in a few hours.
+author:null
+title:A Way to Find Hidden Fingerprints
+subtitle:Scientists have developed a better way to identify fingerprints on bullets and fragments of explosives.
+author:null
+title:A New Tool for Crime Fighters
+subtitle:Analyzing a person’s hair can help reveal where she’s been.
+author:null
+title:How Do You Fight the Largest Cocaine Boom in History? With Drones.
+subtitle:With record amounts of cocaine being shipped out of South America, the Coast Guard believes it needs more eyes in the sky.
+author:Adam Piore
+title:The Painkillers That Could End the Opioid Crisis
+subtitle:Researchers may soon vanquish our pain without causing addiction and other devastating side effects.
+author:null
+title:Venture Capitalists Love Biotech Right Now
+subtitle:Scientific advances and new business models are spurring investor confidence in biomedical-related ventures.
+author:Kevin Bullis
+title:Gene-Silencing Drugs Finally Show Promise
+subtitle:After more than a decade of disappointment, powerful new drugs based on a Nobel-winning idea are getting closer to the market.
+author:null
+title:Test Could Show Which Cancers Will Respond to Chemotherapy
+subtitle:Tumors closer to committing “cellular suicide” are more sensitive to conventional anticancer drugs.
+author:Barry Werth
+title:A Tale of Two Drugs
+subtitle:Today’s medicines can cost hundreds of thousands of dollars a year. The story of how two companies set prices for their costly new drugs suggests that the way we determine the value of such treatments will help decide the future of our health-care system.
+author:null
+title:A Quick Post-Surgical Wake-Up Call
+subtitle:Researchers find that giving rats the common stimulant Ritalin can revive them during general anesthesia.
+author:null
+title:Researchers Announce a Breakthrough on HIV/AIDS Treatment
+subtitle:A technique that alters T cells has been shown to reduce the amount of virus in infected people.
+author:null
+title:The Tiny Robots Revolutionizing Eye Surgery
+subtitle:Machines that are capable of making precise operations inside the human eye will make it possible to perform entirely new procedures.
+author:null
+title:AR Is Making Its Way into the OR
+subtitle:Doctors may soon be able to augment their view of your body, but it will be some time before it’s commonplace.
+author:null
+title:The Recipe for the Perfect Robot Surgeon
+subtitle:Alphabet and Johnson & Johnson say dexterous robots equipped with artificial intelligence will make surgeons more productive.
+author:null
+title:Researchers Identify States of Unconsciousness with EEG Data
+subtitle:Brain wave patterns show a clear transition to a coma-like state in patients under general anesthesia.
+author:null
+title:Injecting Stem Cells into the Heart Could Stop Chronic Chest Pain
+subtitle:Early research suggests that the treatment works by promoting blood vessel growth.
+author:null
+title:Nerves Light Up to Warn Surgeons Away
+subtitle:Tagging nerves with fluorescent markers could help surgeons avoid harming them.
+author:null
+title:New Endoscope Sees What Lies Beneath
+subtitle:An infrared-based endoscope scans tissue below the surface.
+author:null
+title:Microspheres Could Save Patients Whose Lungs Have Stopped Working
+subtitle:Doctors could eventually use the method to quickly reverse oxygen deprivation.
+author:null
+title:Genetic Adaptations to High Altitude
+subtitle:Tibetans possess genetic variations that may protect against altitude sickness.
+author:null
+title:Drug Discovery with Computational Chemistry
+subtitle:A startup is banking on new software that incorporates the energy of water molecules into chemical models.
+author:null
+title:Drugging the Undruggable
+subtitle:A chemical “staple” creates mobile biological molecules with staying power.
+author:null
+title:Making Cells on an Assembly Line
+subtitle:A chip-based method to churn out cell membranes could aid the development of novel proteins and synthetic cells.
+author:null
+title:A New Approach to Treating Rheumatoid Arthritis
+subtitle:An engineered protein reduces arthritis symptoms in mice.
+author:null
+title:Growing Organs and Helping Wounds Heal
+subtitle:A strong, stretchy material could provide a scaffold for growing organs or making wounds heal faster.
+author:null
+title:Gold Nanosensors to Track Disease
+subtitle:Tiny chemical probes implanted into patients could identify proteins in trace quantities.
+author:null
+title:Drug Targets Lupus by Tricking Immune System
+subtitle:A new approach shows early promise in fighting the devastating disease.
+author:null
+title:Helping Joints Regrow Themselves
+subtitle:A chemical-infused scaffold generates new tissue by attracting stem cells.
+author:null
+title:The Long-Term Impact of Fukushima
+subtitle:Experts look ahead in a series of articles published today by the journal .
+author:null
+title:Volunteers See Fukushima Radiation on the Move
+subtitle:Crowd-sourced data provides a high-res view of radiation levels in Japan.
+author:null
+title:The Case for Moving U.S. Nuclear Fuel to Dry Storage
+subtitle:Nuclear waste pools are packed more densely in the U.S. than those at Fukushima, with no removal plan in sight.
+author:null
+title:New Dangers Emerge at Fukushima
+subtitle:A confidential document includes new information about the damage at the plant, and new threats.
+author:null
+title:A Call for the Safer Handling of Nuclear Waste
+subtitle:Japan’s ongoing crisis points to the need for better storage.
+author:null
+title:The Big Dangers Still Faced at Fukushima
+subtitle:The issues that will determine the long-term impact of the nuclear crisis.
+author:null
+title:Japan Takes Extraordinary Measures to Cool Nuclear Plant
+subtitle:U.S. officials also warn that the situation may be worse than official reports suggest.
+author:null
+title:A Misleading Map of Radiation Spread
+subtitle:What looks like an ominous cloud actually poses little serious health risks for the US.
+author:null
+title:The Likely Radiation Distribution in Japan
+subtitle:The long term impact of the Fukushima crisis is unclear, but here are some early indicators.
+author:null
+title:Prostate Cancer Results While You Wait
+subtitle:A new microfluidics device gives results in 15 minutes.
+author:null
+title:23andMe to Share DNA Data with Researchers Using Apple iPhone
+subtitle:Consumers with iPhones can click to contribute their genetic information to medical studies.
+author:Antonio Regalado
+title:23andMe Launches Giant Weight-Loss Study
+subtitle:The consumer DNA testing company seeks 100,000 volunteers to help it link genes to diet success.
+author:null
+title:Seeking New Markets, Companies Offer DNA Testing at a Loss
+subtitle:How much would you pay to know your genetic code? Some companies are willing to lose money to find out.
+author:Courtney Humphries
+title:An Objective Way to Measure Pain
+subtitle:Researchers use brain imaging to detect patterns of brain activity associated with pain—a potential boon for doctors and drug developers.
+author:null
+title:New Pain Treatment Is the Best Yet
+subtitle:A new approach alleviates osteoarthritis pain better than any drug available.
+author:null
+title:A Big Step Forward in the Quest for a Better Painkiller
+subtitle:Scientists have developed a new drug that promises the pain-numbing effects of opioids without the addiction.
+author:null
+title:Spraying on Skin Cells to Heal Burns
+subtitle:A new technique in burn treatment provides an alternative to skin grafts in the operating room.
+author:null
+title:Biomedical News in Brief
+subtitle:GM cows that produce human milk, meditating away pain, and the genes behind your love affair with caffeine.
+author:null
+title:Tiny Implants for Treating Chronic Pain
+subtitle:RFID technology allows neural stimulators to get really small.
+author:null
+title:How does the brain learn about money?
+subtitle:According to new research, brains interpret losing money the same way they interpret pain.
+author:null
+title:Creating a Better Apple
+subtitle:When the world’s first biotech apple won approval from U.S. and Canadian regulators this year, it demonstrated that with plenty of patience, even a farmer can develop a GM plant.
+author:null
+title:A Cancer Gene Therapy Activated by a Pill
+subtitle:Patients can turn off an experimental treatment if side effects get too bad.
+author:Flavio Devienne Ferreira
+title:Inside the Mosquito Factory That Could Stop Dengue and Zika
+subtitle:Genetically modified mosquitoes seem to stop the spread of disease—but will Brazil, or anyone else, pay for them?
+author:Emily Mullin
+title:The 5 Smartest Companies Analyzing Your DNA
+subtitle:These companies are leading the charge in consumer and medical genetics.
+author:null
+title:Slow Progress to Better Medicine
+subtitle:Thirteen years after the human genome was sequenced, some remarkable treatments are being developed.
+author:null
+title:Mark Zuckerberg Is Funding a Facebook for Human Cells
+subtitle:The billionaire is the first major donor to back the idea of creating an atlas of all human cells.
+author:Antonio Regalado
+title:The Next Great GMO Debate
+subtitle:Deep inside its labs, Monsanto is learning how to modify crops by spraying them with RNA rather than tinkering with their genes.
+author:Antonio Regalado
+title:Eugenics 2.0: We’re at the Dawn of Choosing Embryos by Health, Height, and More
+subtitle:Will you be among the first to pick your kids’ IQ? As machine learning unlocks predictions from DNA databases, scientists say parents could have choices never before possible.
+author:null
+title:As Patents Expire, Farmers Plant Generic GMOs
+subtitle:Monsanto no longer controls one of the biggest innovations in the history of agriculture.
+author:null
+title:Harvesting Data Helps Farms Grow Yields
+subtitle:640Labs, acquired by Monsanto, provides analytics that can help farmers increase production.
+author:null
+title:Monsanto’s Plan to Help the Honeybee
+subtitle:Monsanto and others look to RNA interference to fight widespread bee-killing mites.
+author:null
+title:RNA Drugs Target Genes That Were Once Off-Limits
+subtitle:A unique class of RNA drugs could bring new treatments to cancer and other diseases.
+author:Antonio Regalado
+title:Baby Genome Sequencing for Sale in China
+subtitle:Chinese parents can now decode the genomes of their healthy newborns, revealing disease risks as well as the likelihood of physical traits like male-pattern baldness.
+author:Amanda Schaffer
+title:Reinterpreting the Human Genome
+subtitle:Manolis Kellis helped lead a major effort to map the chemical tags that cells use to get their instructions from DNA.
+author:null
+title:Rebooting the Human Genome
+subtitle:The official map of the human genome can’t tell you everything about your genes. Does graph theory offer a better way?
+author:Antonio Regalado
+title:Does Your Genome Predict Your Face? Not Quite Yet
+subtitle:Genomics pioneer J. Craig Venter says if he had your genome he could pick you out of a crowd.
+author:null
+title:Marketing to the Big Data Inside Us
+subtitle:In your DNA are clues to your health, your ancestry, and maybe even your purchasing preferences.
+author:null
+title:By Simply Sharing, Doctors Could Unlock the Genome's Potential
+subtitle:Software that enables collaboration between labs could make it easier for doctors to translate genome information.
+author:Courtney Humphries
+title:Using Parents' Blood to Decode the Genome of a Fetus
+subtitle:The advance could lead to noninvasive ways to test for diseases in the womb.
+author:null
+title:A Map of the Whole Genome Tracks Outbreaks
+subtitle:A big-picture view of microbial DNA should help public health officials, genome scientists, and possibly medical researchers.
+author:null
+title:Device Brings $1,000 Genome Within Reach
+subtitle:Ion Torrent introduced its new tabletop sequencer at CES this week.
+author:null
+title:EmTech: Get Ready for a New Human Species
+subtitle:Now that we can rewrite the code of life, Darwinian evolution can’t stop us, says investor Juan Enriquez.
+author:null
+title:Bacteria-Laden Mosquitoes May Be the Cheapest Way to Stop Dengue and Zika
+subtitle:Some Latin American cities could soon begin releasing millions of mosquitoes developed with funding from Bill Gates.
+author:null
+title:FDA Approves First "Pharm" Animals
+subtitle:The first drug on the market made by animals carrying a human gene is being produced in goats’ milk.
+author:Antonio Regalado
+title:Gulp. These Volunteers Are Swallowing E. Coli Pills to Help Medicine
+subtitle:Biologists are genetically modifying the DNA of stomach bacteria so they act like living drugs.
+author:James Temple
+title:Reinventing Rice for a World Transformed by Climate Change
+subtitle:UC Davis plant geneticist Pamela Ronald wants to create rice varieties that can survive in harsher conditions, including more frequent droughts.
+author:null
+title:New GMO Rice for Higher Yield, Less Global Warming
+subtitle:Rice plants try this one weird trick to cut greenhouse-gas emissions and increase yield.
+author:null
+title:Healing with Laser Heat
+subtitle:Surgical lasers could soon heal cuts as well as make incisions.
+author:null
+title:Why the International Postal Network Holds the Key to Global Well-Being
+subtitle:Measuring well-being in the developing world is a difficult task. Now network theorists have discovered a number of proxies for health and wealth that are much easier to measure instead.
+author:Christina Farr
+title:Your Doctor App Could Amplify Your Health Anxieties
+subtitle:So-called super users might not be a good thing when it comes to on-demand consultations with doctors.
+author:null
+title:A Health-Tracking App You Might Actually Stick With
+subtitle:Researchers built a mobile health app that tracks your activity and eating habits so it can nudge you with goals that fit your routine.
+author:null
+title:A Cheap, Portable Wound-Healing Device
+subtitle:After the Haiti earthquake, physicians tested a vacuum pump meant to speed healing.
+author:null
+title:Health Persuasion Gets Better
+subtitle:To motivate healthy behavior, device companies and employers embrace social tools and insights from behavioral science.
+author:null
+title:This Fitness Wristband Wants to Play Doctor
+subtitle:Startup Quanttus is developing a device that monitors heart rate, respiration, and blood pressure from your wrist.
+author:null
+title:Health Insurer’s App Helps Users Track Themselves
+subtitle:Aetna sees cost savings in helping people track their health and fitness.
+author:null
+title:Why Apple Wants to Help You Track Your Health
+subtitle:Apple is betting that self-tracking will become more common, and more clinically important.
+author:null
+title:Cyberspying Targets Energy Secrets
+subtitle:Intruders seek data on oil deposits, cutting-edge technology.
+author:Antonio Regalado
+title:Spying Is Bad for Business
+subtitle:Can we trust an Internet that’s become a weapon of governments?
+author:null
+title:Spinoffs from Spyland
+subtitle:How America’s eavesdropping agency commercializes technology.
+author:null
+title:For Swiss Data Industry, NSA Leaks Are Good as Gold
+subtitle:Here’s how the Swiss promise to keep your data safe.
+author:null
+title:Forget Passwords and Let the Browser Remember
+subtitle:An experimental tool removes the need to hand your credentials over to lots of different websites.
+author:null
+title:SXSW: Taming the Internet's Unruly Masses
+subtitle:Can the founder of 4chan build a mainstream startup?
+author:null
+title:The Most Popular Game of All
+subtitle:Fashion trends in online games tap into a common obsession with identity.
+author:null
+title:Biometrics in ID Cards?
+subtitle:Americans say they want it. They’re wrong.
+author:null
+title:Is an Editable Blockchain the Future of Finance?
+subtitle:Designed to make the technology more attractive to large banks, the change doesn’t seem to be welcomed by purists—but they may have to tolerate it.
+author:null
+title:A Bitcoin-Style Currency for Central Banks
+subtitle:The Bank of England asked researchers to invent a digital currency with a more centralized design.
+author:null
+title:The Year of Encryption
+subtitle:Government spying gives a giant push to data scrambling on the Web.
+author:null
+title:Azure on the Horizon
+subtitle:Microsoft gives a first look at its cloud platform.
+author:null
+title:How Google Converted Language Translation Into a Problem of Vector Space Mathematics
+subtitle:To translate one language into another, find the linear transformation that maps one to the other. Simple, say a team of Google engineers
+author:null
+title:Less Cash Is More
+subtitle:Economist Kenneth Rogoff, PhD ’80, makes the case for phasing out big bills.
+author:Mike Orcutt
+title:Governments Are Testing Their Own Cryptocurrencies
+subtitle:Bitcoin-like money may emerge in countries where cash is in decline or financial networks need updating.
+author:null
+title:Bitcoin Entrepreneurs Scramble to Appeal to the Masses
+subtitle:Uncertainty hangs over Bitcoin, but investors are betting hundreds of millions that it will change the world.
+author:Robert D. Hof
+title:Can Apple Pay Do to Your Wallet What iTunes Did for Music?
+subtitle:With added security, better design, and improved convenience, Apple Pay hopes to finally make mobile payments commonplace at the register.
+author:null
+title:Leading Economist Predicts a Bitcoin Backlash
+subtitle:Economist Simon Johnson says governments will feel the urge to suppress the crypto-currency Bitcoin.
+author:null
+title:Bitcoin Isn’t the Only Cryptocurrency in Town
+subtitle:Currencies designed to fix perceived flaws in Bitcoin could lead to competition that makes the idea of digital “cryptocurrency” stick.
+author:null
+title:Five Opportunities for Mobile Computing
+subtitle:Thousands of startup companies see mobile computing as their chance to strike it big. We picked five.
+author:Jamie Condliffe
+title:Say Hello to Finger-Lickin’ Lab-Grown Chicken
+subtitle:The first animal-free chicken strips are here—but they’ll cost you $9,000 per pound.
+author:Brian Bergstein
+title:We Need More Alternatives to Facebook
+subtitle:Chastened by the negative effects of social media, Mark Zuckerberg says he will tweak his service and upgrade society in the process. Should any company be that powerful?
+author:null
+title:Facebook Wants to Take Over TV
+subtitle:Because that way, it can do what all lucrative media companies do: deliver you more ads.
+author:Tom Simonite
+title:One Startup’s Vision to Reinvent the Web for Better Privacy
+subtitle:Blockstack’s system would let you control your own personal data—for example, by revoking a site’s access to it.
+author:null
+title:A Smarter Web
+subtitle:The Web is huge but not very smart. Computer scientists are beginning to build a “Semantic Web” that understands the meanings that underlie the tangle of information.
+author:null
+title:Top U.S. Intelligence Official Calls Gene Editing a WMD Threat
+subtitle:Easy to use. Hard to control. The intelligence community now sees CRISPR as a threat to national safety.
+author:Jackie Snow
+title:This AI Learns Your Fashion Sense and Invents Your Next Outfit
+subtitle:A new kind of AI system could create personalized clothing based on a shopper’s taste.
+author:Rachel Metz
+title:I Tried Shoplifting in a Store without Cashiers and Here’s What Happened
+subtitle:Checkout systems are going autonomous.
+author:null
+title:Amazon May Be the Next Tech Giant Muscling Into Health Care
+subtitle:Because what else is there left for the company to try, really?
+author:Will Knight
+title:Amazon Has Developed an AI Fashion Designer
+subtitle:The retail giant is taking a characteristically algorithmic approach to fashion.
+author:Sara Shay
+title:How to Be Robot-Proof
+subtitle:Universities must adapt so their graduates will succeed in the AI era.
+author:Sara Shay
+title:Now What?
+subtitle:A guide to rethinking business in the digital age.
+author:Nicholas Carr
+title:Amazon’s Next Big Move: Take Over the Mall
+subtitle:Unable to resist any opportunity to sell you something, the e-commerce leader is opening up brick-and-mortar bookstores. But its online prowess doesn’t yet translate into a very good retail experience.
+author:null
+title:Review: Apple, By the Book
+subtitle:The new biography of Steve Jobs offers insights about Apple’s future direction.
+author:null
+title:Augmenting Reality with Poetry
+subtitle:Readers can hold a physical book of images and a web-based application to create 3-dimensional poems.
+author:MIT Technology Review Editors
+title:Best Books of 2016
+subtitle:Our editors’ picks for the best books of 2016, and some they’re eagerly anticipating.
+author:null
+title:Verily Robot Will Raise 20 Million Sterile Mosquitoes for Release in California
+subtitle:The company, an arm of Alphabet, is using mosquitoes infected with a sterilizing bacteria to fight dengue and Zika.
+author:null
+title:With a Little AI, Apple Watch May Be Able to Spot a Heart Problem
+subtitle:The watch’s heart monitor is a long way from a medical-grade device, but smart software may be able to improve its capabilities.
+author:null
+title:Google’s Health Study Seeks 10,000 Volunteers to Give Up Their Medical Secrets
+subtitle:The project will scrutinize spit, tears, stool, heartbeats, and genomes to search for new predictors of disease.
+author:Antonio Regalado
+title:Are Altered Mosquitoes a Public Health Project, or a Business?
+subtitle:Nonprofits and corporations are in a race to fight dengue and Zika.
+author:Antonio Regalado
+title:Alphabet’s Latest Project Is Birth Control for Mosquitoes
+subtitle:How the search giant found itself breeding mosquitoes to try to stop the spread of the Zika virus.
+author:null
+title:I Saw Alphabet’s Health Watch
+subtitle:A first peek at the search giant’s health-tracking wearable gadget.
+author:null
+title:Glaxo and Verily Join Forces to Treat Disease By Hacking Your Nervous System
+subtitle:Small implantable devices would treat people by blocking or altering signals sent from the brain.
+author:null
+title:Software Dreams Up New Molecules in Quest for Wonder Drugs
+subtitle:Ingesting a heap of drug data allows a machine-learning system to suggest alternatives humans hadn’t tried yet.
+author:null
+title:An AI Ophthalmologist Shows How Machine Learning May Transform Medicine
+subtitle:Google researchers trained an algorithm to recognize a common form of eye disease as well as many experts can.
+author:null
+title:Is DeepMind’s Health-Care App a Solution, or a Problem?
+subtitle:Software will alert medics to early signs of illness, but some critics argue that too much data is being shared.
+author:null
+title:Nvidia’s Deep-Learning Chips May Give Medicine a Shot in the Arm
+subtitle:The company sees medicine as the next big market for its machine-learning hardware.
+author:null
+title:It Costs $30 to Make a DIY EpiPen, and Here’s the Proof
+subtitle:The medical maker collective Four Thieves Vinegar made an “EpiPencil” for a tiny fraction of what the EpiPen manufacturer Mylan charges.
+author:null
+title:Tune In to Radio Twitter
+subtitle:A student project sorts tweets by sentiment and puts them on a radio.
+author:null
+title:The End of Analog TV Delayed
+subtitle:After the switch, some people may need additional antennas to receive a clear signal.

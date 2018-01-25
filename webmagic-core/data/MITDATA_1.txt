@@ -1,0 +1,891 @@
+author:Jamie Condliffe
+title:Forget Viruses or Spyware—Your Biggest Cyberthreat Is Greedy Cryptocurrency Miners
+subtitle:Software that hijacks your computer to mine has become the most popular malware on the planet.
+author:Emily Mullin
+title:A Cheap and Easy Blood Test Could Catch Cancer Early
+subtitle:50,000 healthy people will be screened in an effort to detect hidden tumors.
+author:Mike Orcutt
+title:Bitcoin and Ethereum Have a Hidden Power Structure, and It’s Just Been Revealed
+subtitle:Close examination reveals how power is being consolidated across their networks.
+author:null
+title:Gene Therapy Could Make Cancer Care More Unequal, and This Map Shows Why
+subtitle:Revolutionary new cancer treatments won’t be available in many rural areas of the U.S.
+author:Emily Mullin
+title:U.S. Doctors Plan to Treat Cancer Patients Using CRISPR
+subtitle:Gene-edited immune cells could help wipe out deadly tumors.
+author:null
+title:Google’s Self-Training AI Turns Coders into Machine-Learning Masters
+subtitle:Automating the training of machine-learning systems could make AI much more accessible.
+author:Rachel Metz
+title:And the Award for Most Nauseating Self-Driving Car Goes to …
+subtitle:I rode in a bunch of autonomous cars so you don’t have to.
+author:Timothy Maher
+title:Help Us Find the Young Innovators Who’ll Shape the Future
+subtitle:You have until February 1 to nominate someone for the 2018 list of 35 Innovators Under 35.
+author:Mike Orcutt
+title:No, Ripple Isn’t the Next Bitcoin
+subtitle:The company’s cryptocurrency has also seen an incredible run-up in value, but investors may have gotten the wrong idea.
+author:null
+title:Finally, a Robot Smart Enough to Hand You the Wrench You Need
+subtitle:A grocery store in the U.K. has developed a robot to assist its maintenance workers.
+author:null
+title:I Rode in a Car in Las Vegas. Its Driver Was in Silicon Valley.
+subtitle:A startup thinks autonomous cars will need remote humans as backup drivers. For now, it’s kind of nerve-racking.
+author:Martin Giles
+title:Hackers Could Blow Up Factories Using Smartphone Apps
+subtitle:Researchers have found worrying security holes in apps companies use to control industrial processes.
+author:Rachel Metz
+title:Apparently, People Say “Thank You” to Self-Driving Pizza Delivery Vehicles
+subtitle:And other lessons from Ford’s experiment with autonomous cars.
+author:Peter Dizikes
+title:Sizing Up the North Korea Showdown
+subtitle:Are North Korea’s recent missile tests—and President Trump’s outspoken response to Kim Jong Un—moving us closer to war? For insight,  spoke with Vipin Narang, an associate professor of political science, author of , and a leading analyst of the nuclear tactics of smaller states.
+author:Elizabeth Woyke
+title:Slack Hopes Its AI Will Keep You from Hating Slack
+subtitle:The fastest-growing business app is relying on machine-learning tricks to fend off a deluge of messages—as well as competition from Facebook and Microsoft.
+author:Adam Piore
+title:The Surgeon Who Wants to Connect You to the Internet with a Brain Implant
+subtitle:Eric Leuthardt believes that in the near future we will allow doctors to insert electrodes into our brains so we can communicate directly with computers and each other.
+author:MIT Technology Review Insights
+title:Technology Moves to the Head of the 21st Century Classroom
+subtitle:Tomorrow’s jobs will demand collaborative workers with hands-on problem-solving skills. Cloud, virtualization, and software-defined networking will empower this new workforce.
+author:null
+title:Nano/micro 3-D printing is capable of generating complex, minute components.
+subtitle:Manufacturing in a New Dimension: How a Startup Company Reshaped the Precision Manufacturing Landscape.
+author:Wade Roush
+title:This VR Exhibit Lets You Connect with the Human Side of War
+subtitle:A pioneering photojournalist hopes VR can restore war photography’s dramatic power to influence and inform us.
+author:Rachel Metz
+title:Apps That Hint at a Fanciful Fake Future
+subtitle:A new wave of mobile AR and VR apps is here, and these are the ones you need to check out.
+author:Will Knight
+title:The Dark Secret at the Heart of AI
+subtitle:No one really knows how the most advanced algorithms do what they do. That could be a problem.
+author:Rodney Brooks
+title:The Seven Deadly Sins of AI Predictions
+subtitle:Mistaken extrapolations, limited imagination, and other common mistakes that distract us from thinking more productively about the future.
+author:Will Knight
+title:Forget Killer Robots—Bias Is the Real AI Danger
+subtitle:John Giannandrea, who leads AI at Google, is worried about intelligent systems learning human prejudices.
+author:null
+title:Undoing Aging with Molecular and Cellular Damage Repair
+subtitle:Since the dawn of medicine, aging has been doctors’ foremost challenge.
+author:null
+title:Human Legacies When Robots Rule the Earth
+subtitle:Machines have been displacing humans on job tasks for several centuries, and for seventy years many of these machines have been controlled by computers.
+author:null
+title:Our Extended Sensoria. How Humans Will Connect with the Internet of Things
+subtitle:Mark Weiser predicted the Internet of Things in a seminal article in 1991 about how people would interact with networked computation distributed into the environments and artifacts around them.
+author:null
+title:MIT Technology Review Insights Showcase
+subtitle:Working closely with clients, our expert custom-editorial Insights staff develops a range of high-quality, relevant content, delivering it to users when and where they want it—in digital, print, online, and in-person experiences. Everything is customized to fit clients’ content marketing goals and position them as thought leaders aligned with the authority on technology that matters.
+author:Martin Giles
+title:At Least Three Billion Computer Chips Have the Spectre Security Hole
+subtitle:Companies are rushing out software fixes for Chipmageddon.
+author:null
+title:Our Best Photographs of 2017
+subtitle:From bendable glass to war photojournalism in VR, our photographers capture the technology of 2017.
+author:null
+title: Reversing Paralysis 
+subtitle:Scientists are making remarkable progress at using brain implants to restore the freedom of movement that spinal cord injuries take away.
+author:null
+title: Self-Driving Trucks 
+subtitle:Tractor-trailers without a human at the wheel will soon barrel onto highways near you. What will this mean for the nation’s 1.7 million truck drivers?
+author:null
+title: Paying with Your Face 
+subtitle:Face-detecting systems in China now authorize payments, provide access to facilities, and track down criminals. Will other countries follow?
+author:null
+title: Practical Quantum Computers 
+subtitle:Advances at Google, Intel, and several research groups indicate that computers with previously unimaginable power are finally within reach.
+author:null
+title: Hot Solar Cells 
+subtitle:By converting heat to focused beams of light, a new solar device could create cheap and continuous power.
+author:null
+title: The 360-Degree Selfie 
+subtitle:Inexpensive cameras that make spherical images are opening a new era in photography and changing the way people share stories.
+author:null
+title: Gene Therapy 2.0 
+subtitle:Scientists have solved fundamental problems that were holding back cures for rare hereditary disorders. Next we’ll see if the same approach can take on cancer, heart disease, and other common illnesses.
+author:null
+title: The Cell Atlas 
+subtitle:Biology’s next mega-project will find out what we’re really made of.
+author:null
+title: Botnets of Things 
+subtitle:The relentless push to add connectivity to home gadgets is creating dangerous side effects that figure to get even worse.
+author:null
+title: Reinforcement Learning 
+subtitle:By experimenting, computers are figuring out how to do things that no programmer could teach them.
+author:Mike Orcutt
+title:Hijacking Computers to Mine Cryptocurrency Is All the Rage
+subtitle:Hackers are using old tricks and new cryptocurrencies to turn stolen computing power into digital coins.
+author:Jamie Condliffe
+title:Ransomware Is a Real Threat, but Don’t Forget the Botnets
+subtitle:There’s a far more potent security threat to worry about.
+author:null
+title:The Customer Engagement Revolution
+subtitle:Great experiences require a new approach to data management.
+author:null
+title:Network Virtualization: The Bridge to Digital Transformation
+subtitle:A software-based network strategy enables organizations to be secure and nimble, delivering innovative experiences where and when customers need them, regardless of the underlying infrastructure.
+author:Antonio Regalado
+title:Spotting Cancer in a Vial of Blood
+subtitle:He watched his brother die from a cancer no drug could cure. Now one of the world’s most renowned cancer researchers says it’s time for Plan B.
+author:Antonio Regalado
+title:Grail’s $1 Billion Bet on the Perfect Cancer Test
+subtitle:Seventy percent of cancers caught early are curable. Can a blood test find them?
+author:Andrew Rosenblum
+title:Meet the Woman Using CRISPR to Breed All-Male “Terminator Cattle”
+subtitle:Gene editing can change an animal’s sex.
+author:null
+title:What Bitcoin Is, and Why It Matters
+subtitle:Can a booming “crypto-currency” really compete with conventional cash?
+author:Mike Orcutt
+title:A Cryptocurrency Without a Blockchain Has Been Built to Outperform Bitcoin
+subtitle:The controversial currency IOTA rests on a mathematical “tangle” that its creators say will make it much faster and more efficient to run.
+author:Emily Mullin
+title:FDA Approves Groundbreaking Gene Therapy for Cancer
+subtitle:The treatment will be sold by Novartis for $475,000.
+author:null
+title:First Human Test of CRISPR Proposed
+subtitle:Doctors at the University of Pennsylvania seek approval for gene editing to fight cancer.
+author:Emily Mullin
+title:CRISPR in 2018: Coming to a Human Near You
+subtitle:The first clinical trials are slated to begin in the U.S. and Europe while others are stalled.
+author:null
+title: Deep Learning 
+subtitle:With massive amounts of computational power, machines can now recognize objects and translate speech in real time. Artificial intelligence is finally getting smart.
+author:Rachel Metz
+title:Baidu Could Beat Google in Self-Driving Cars with a Totally Google Move
+subtitle:By building the Android of autonomous vehicles, Baidu thinks it will make them smarter and safer.
+author:Jamie Condliffe
+title:Robots Won’t Save the U.K. from a Brexit Labor Shortage
+subtitle:As many foreign workers are forced out of the country, don’t expect smart machines to clean your office or help out on the farm.
+author:Rachel Metz
+title:Baidu Sees Maps for Self-Driving Cars as Bigger Business Than Web Search
+subtitle:It’s China’s biggest search company now, but it could be largely a map maker in the future.
+author:Amanda Schaffer
+title:The Remarkable Career of Shirley Ann Jackson
+subtitle:Shirley Ann Jackson ’68, PhD ’73, worked to help bring about more diversity at MIT, where she was the first African-American woman to earn a doctorate. She then applied her mix of vision and pragmatism in the lab, in Washington, and at the helm of a major research university.
+author:Robin Kazmier, SM ’17
+title:Mapping Air
+subtitle:Romain Lacombe, SM ’08, wants to help people find clean air—and generate data we can use.
+author:Javier Weddington
+title:STEM Boot Camp
+subtitle:How we’re helping inner-city students get ready for college.
+author:null
+title:The Best of the Physics arXiv (week ending January 13, 2018
+subtitle:This week’s most thought-provoking papers from the Physics arXiv.
+author:null
+title:A New Map of the “Darknet” Suggests Your Local Drug Pusher Now Works Online
+subtitle:The first-ever global map of the online drug trade shows it’s not that different from the offline one.
+author:null
+title:A Field Guide to Deception
+subtitle:A crowdsourced psychology experiment reveals that when it comes to dishonesty, there are three kinds of people.
+author:null
+title:Implanting Hope
+subtitle:For the first time, a paralyzed patient has operated a prosthetic arm using just his mind.
+author:Tom Simonite
+title:Teaching Machines to Understand Us
+subtitle:A reincarnation of one of the oldest ideas in artificial intelligence could finally make it possible to truly converse with our computers. And Facebook has a chance to make it happen first.
+author:Will Knight
+title:AI’s Language Problem
+subtitle:Machines that truly understand language would be incredibly useful. But we don’t know how to build them.
+author:null
+title:Biased Algorithms Are Everywhere, and No One Seems to Care
+subtitle:The big companies developing them show no interest in fixing the problem.
+author:Michal Mazur, PwC
+title:Six Ways Drones Are Revolutionizing Agriculture
+subtitle:Drones aren’t new technology by any means. Now, however, thanks to robust investments and a somewhat more relaxed regulatory environment, it appears their time has arrived—especially in agriculture.
+author:null
+title:What Data Analysis Tells Us About the U.S. Presidential Election
+subtitle:A data-based assessment of online sentiments and articles on the U.S. presidential debates reveals deep divisions among voters—and indicates that negative news about the candidates has done little to change many voters’ minds.
+author:null
+title:‘Remember Me:’ The Real-Life Impact of Q&R
+subtitle:Quality and regulatory assurance work helps save lives. Learn whether you have the ‘quality gene’ needed to succeed in this rewarding profession.
+author:null
+title:Need Top Technology Talent? Look Online
+subtitle:
+author:MIT Technology Review Insights
+title:Listening to the Heavens: The Discovery of Gravitational Waves Proved Einstein Right
+subtitle:Using high-precision devices supported by ADI sensors and other technologies, scientists detected gravitational waves—confirming a major prediction of Einstein’s general theory of relativity.
+author:null
+title:Q & A: What is Digital-Performance Management?
+subtitle:John Van Siclen and Jason Pontin discuss an emerging approach that provides business and IT stakeholders with a better big-picture view of their digital customer experiences, ultimately helping their organizations gain competitive advantage in a fast-changing marketplace.
+author:null
+title:Crisis Communication After an Attack
+subtitle:If there’s one area where organizations stumble when responding to breaches, it’s in keeping stakeholders informed. Doing that job well requires having plans in place long before cybercriminals come calling.
+author:MIT Technology Review Insights
+title:Enabling the Digital Revolution: SDN and Beyond
+subtitle:The promise of software-defined networking and solutions for its wider adoption were explored in depth at VMware’s inaugural future:net event.
+author:null
+title:Think Italy. Think Innovation, Impact, and Integration.
+subtitle:The recent i3 Forum showcased Italian leadership in technology, automation, and manufacturing—and emphasized strong U.S. partnerships.
+author:null
+title:Emerging Trend Analysis: What is Digital Performance Management?
+subtitle:Organizations serious about gaining—and maintaining—competitive advantage must optimize their digital customer experience. This introduction to DPM explains how this emerging approach can provide serious business value.
+author:Katherine Bourzac
+title:Inside the Far-out Glass Lab
+subtitle:A key ingredient in flexible and lightweight devices of the future is taking shape at Corning’s research center in rural New York.
+author:Katherine Bourzac
+title:To Feed the World, Improve Photosynthesis
+subtitle:By reworking the basic metabolism of crops, plant scientists hope to forestall devastating food shortages.
+author:Julia Sklar
+title:Meet the World’s First Completely Soft Robot
+subtitle:Researchers use an ingenious design to make a soft robot that moves on its own.
+author:Stephen S. Hall
+title:The Cancer Lottery
+subtitle:Finding telltale mutations in tumors and targeting those cancers with precisely selected drugs is the newest front in the war on cancer. Now researchers just have to figure out why it doesn’t work for everyone.
+author:null
+title:Zipline’s Ambitious Medical Drone Delivery in Africa
+subtitle:In Rwanda, an early commercial test of unmanned aerial vehicles cuts a medical facility’s time to procure blood from four hours to 15 minutes.
+author:Antonio Regalado
+title:These Are Not Your Father’s GMOs
+subtitle:A new wave of gene-edited crops are dodging regulators, and they’re about to reach stores.
+author:Jonathan W. Rosen
+title:Ghana’s Last Mile
+subtitle:Innovative African e-tailers are offering sought-after goods to the continent’s growing ­middle class. But logistical challenges must be worked out delivery by delivery.
+author:David Rotman
+title:The 3-D Printer That Could Finally Change Manufacturing
+subtitle:Desktop Metal thinks its machines will give designers and manufacturers a practical and affordable way to print metal parts.
+author:null
+title: Memory Implants 
+subtitle:A maverick neuroscientist believes he has deciphered the code by which the brain forms long-term memories.
+author:Rachel Metz
+title:Virtual Reality’s Missing Element: Other People
+subtitle:VR can be the basis of a new communications industry if the technology becomes less insular and isolating.
+author:David Rotman
+title:“The Relentless Pace of Automation”
+subtitle:Artificial intelligence could dramatically improve the economy and aspects of everyday life, but we need to invent ways to make sure everyone benefits.
+author:null
+title:Intel Bets It Can Turn Everyday Silicon into Quantum Computing’s Wonder Material
+subtitle:The world’s largest chip company sees a novel path toward computers of immense power.
+author:Tom Simonite
+title:Google’s Quantum Dream Machine
+subtitle:Physicist John Martinis could deliver one of the holy grails of computing to Google—a machine that dramatically speeds up today’s applications and makes new ones possible.
+author:Tom Simonite
+title:Microsoft’s Quantum Mechanics
+subtitle:Can an aging corporation’s adventures in fundamental physics research open a new era of unimaginably powerful computers?
+author:Mike Orcutt
+title:Criminals Thought Bitcoin Was the Perfect Hiding Place, but They Thought Wrong
+subtitle:Companies have popped up to help cops identify suspects who use Bitcoin, and savvy criminals are moving to other currencies.
+author:Mike Orcutt
+title:In the World of Cryptocurrencies, Something’s Gotta Give in 2018
+subtitle:Unless some big problems with blockchain technologies are solved, the hype that defined 2017 could quickly evaporate.
+author:Martin Giles
+title:Six Cyber Threats to Really Worry About in 2018
+subtitle:From AI-powered hacking to tampering with voting systems, here are some of the big risks on our radar screen.
+author:MIT Technology Review Editors
+title:Our Best Stories of 2017
+subtitle:Our staff pick their favorites.
+author:Mike Orcutt
+title:2017 Was the Year of the ICO—Now What?
+subtitle:The past year marked a turning point in the cryptocurrency market thanks to the rise of “initial coin offerings,” but more government crackdowns are probably on the horizon.
+author:Emily Parker
+title:Can China Contain Bitcoin?
+subtitle:It is trying. But the cryptocurrency is bigger than any country, even the one where it has been most popular.
+author:Yoochul Kim
+title:Behind South Korea’s Cryptocurrency Boom
+subtitle:The country is a hub for trading virtual currencies despite a government clampdown and North Korean cyberattacks.
+author:null
+title:Security Experts Agree: The NSA Was Hacked
+subtitle:Analysis of the software tools made available by the Shadow Brokers suggests that they’re the real deal.
+author:null
+title:Holding Data Hostage: The Perfect Internet Crime?
+subtitle:Thousands of people will have their personal files held hostage this year, by software that uses virtually unbreakable encryption.
+author:null
+title:Widespread Ransomware Attack Hits U.K. Hospitals
+subtitle:The National Health Service has found data on many of its computers locked up by hackers and may have little choice but to capitulate to demands for cash.
+author:null
+title:Massive Internet Outage Could Be a Sign of Things to Come
+subtitle:Hackers have shown how they could take down the Internet.
+author:Mike Orcutt
+title:Security Experts Warn Congress That the Internet of Things Could Kill People
+subtitle:Poorly secured webcams and other Internet-connected devices are already being used as tools for cyberattacks. Can the government prevent this from becoming a catastrophic problem?
+author:null
+title:Centralized Web Services Are Wonderful—Until They Go Wrong
+subtitle:When thousands of companies use a single Web services company, even small mistakes can prove catastrophic.
+author:null
+title:Trump’s Call for a Crackdown on Botnets Is a Long Shot
+subtitle:Complicated technical and political challenges stand in the way of the president’s wish for a “dramatic” reduction in botnet attacks.
+author:null
+title:The WannaCry Ransomware Attack Could’ve Been a Lot Worse
+subtitle:An accidental discovery brought the initial attack—as well as a feared second wave—grinding to a halt.
+author:null
+title:Get Hacked and Your Cybersecurity Company May Pay
+subtitle:A small but growing number of cybersecurity companies are introducing warranty programs that can serve as insurance against the cost of a potential data breach.
+author:null
+title:Should the Government Keep Stockpiling Software Bugs?
+subtitle:Last week’s massive WannaCry cyberattack has resurfaced touchy questions about a shadowy government process.
+author:null
+title:WannaCry Has a More Lucrative Cousin That Mines Cryptocurrency for Its Masters
+subtitle:The same exploits that enabled WannaCry to spread globally have been in use in another malware attack since April, making far more money in the process.
+author:null
+title:Ransomware Took San Francisco’s Public Transit for a Ride
+subtitle:Hackers forced the light rail network to let passengers ride free to avoid a massive disruption to service.
+author:null
+title:Two Ways to Stop Ransomware in Its Tracks
+subtitle:The malware that holds files hostage until payment may have met its match.
+author:Rachel Layne
+title:Patching the Electric Grid
+subtitle:Our electric supply is increasingly vulnerable to cyberattack, and new technologies aim to sound the alarm earlier.
+author:Azeem Azhar
+title:18 Exponential Changes We Can Expect in the Year Ahead
+subtitle:Where will the trajectory of the tech world, from cryptocurrencies to Silicon Valley culture, take us in 2018?
+author:Mike Orcutt
+title:Blockchains Are Poised to End the Password Era
+subtitle:Many technologists think blockchains can revolutionize how we keep track of our identities.
+author:Mike Orcutt
+title:A Blockchain for Turkeys Is More Than a Thanksgiving Gimmick
+subtitle:Food companies have big plans for the technology.
+author:MIT Technology Review Insights
+title:Machine Learning: The New Proving Ground for Competitive Advantage
+subtitle:null
+author:MIT Technology Review Insights
+title:A Field Guide to Digital Transformation
+subtitle:Hybrid IT, edge computing and other advanced technologies can help companies accelerate time to value.
+author:MIT Technology Review Insights
+title:How Flexible IT Can Solve Complex Business Problems
+subtitle:From the data center to the cloud and the network edge, emerging technologies are helping companies accelerate time to value
+author:null
+title:Italy Transforms Itself into a High-Tech Hotbed
+subtitle:Today, the country once best known for fine cuisine and romantic vacations has become a world leader in manufacturing, machinery, and related fields. Now Italy’s leaders are staking their future on digitalization, education, and strategic collaboration.
+author:null
+title:Asia’s AI Agenda: Executive Summary
+subtitle:This synopsis offers highlights from a recent survey of senior executives about trends in artificial intelligence and robotics are affecting Asian businesses.
+author:null
+title:Asia’s AI Agenda: Introduction
+subtitle:Asia’s quest for technology innovation and sustained economic growth drives tremendous investment in artificial intelligence.
+author:null
+title:Asia’s AI Agenda: Human Capital and AI
+subtitle:Tremendous change is imminent in the profession of human resources.
+author:null
+title:Asia’s AI Agenda: Positively Inclined
+subtitle:Most executives surveyed feel positively about AI’s ability to add value to their industries.
+author:null
+title:Asia’s AI Agenda: Aware, but Unprepared?
+subtitle:Only a small percentage of companies are currently investing in AI development in Asia.
+author:Mike Orcutt
+title:Why America’s Biggest Bank Digs Anonymous Cryptocurrency
+subtitle:A JPMorgan collaboration with the tiny startup Zcash shows how serious financial institutions are about blockchain technology.
+author:null
+title:Asia’s AI Agenda: Putting the ‘AI’ in ‘Asia’
+subtitle:Conclusion: A holistic view of productivity development across an entire company and its assets is now emerging.
+author:Katherine Igoe
+title:Alumni Profile Zeina Saab, MCP ’09
+subtitle:Scaling up impact in the face of crises.
+author:Katherine Igoe
+title:Ian McKay ’12, SM ’14
+subtitle:Playful experiments produce innovative batteries.
+author:Jay London
+title:Stephen Estes-Smargiassi ’79
+subtitle:Keeping water clean for Massachusetts.
+author:Julie Barr
+title:Eric Jay Dolin, PhD ’95
+subtitle:Writing books that blend history and the natural world.
+author:Julie Barr
+title:Dottie Zicklin ’86
+subtitle:Analytics background led to a career in television.
+author:Peter Dunn
+title:Richard Schwarz ’65
+subtitle:Chemist and cultivator of industrial teamwork.
+author:Christina Couch, SM ’15
+title:Lifting the Fog
+subtitle:A fog dissipator invented by Henry Houghton, SM ’27, helped establish the field of cloud physics.
+author:null
+title:Illumina
+subtitle:After outflanking and outlasting competitors, it is on top of the genome-sequencing business—just as that market is about to soar in importance.
+author:Amanda Schaffer
+title:Too Much Information
+subtitle:Are we prepared to know the genetic flaws of the unborn?
+author:null
+title: Liquid Biopsy 
+subtitle:Fast DNA-sequencing machines are leading to simple blood tests for cancer.
+author:null
+title:The Great Cancer Test Experiment
+subtitle:New diagnostics can find the DNA that drives a tumor, but evidence that they help patients is missing.
+author:Emily Mullin
+title:2017 Was the Year of Gene-Therapy Breakthroughs
+subtitle:Gene-fixing treatments have now cured a number of patients with cancer and rare diseases.
+author:Emily Mullin
+title:Patient Death Won’t Slow Research on “Off-the-Shelf” Immune Cells to Treat Cancer
+subtitle:The approach could treat patients in dire need faster at a lower price, but questions remain about safety.
+author:Emily Mullin
+title:A Cancer “Atlas” to Predict How Patients Will Fare
+subtitle:Researchers use a big-data approach to find links between different genes and patient survival.
+author:Julie Barr
+title:Paula Hammond ’84, PhD ’93
+subtitle:Fighting a giant foe at a tiny scale
+author:Antonio Regalado
+title:Cancer Blood Tests Score Early Success
+subtitle:Hong Kong doctors, led by researcher Dennis Lo, show that liquid biopsy tests can spot cancer early.
+author:null
+title:Personalized Cancer Vaccines Look Promising in Two New Studies
+subtitle:Vaccines tailored to the unique genetic makeup of individuals’ tumors seem to work in a handful of patients.
+author:null
+title:A Potent Tool to Treat Pancreatic Cancer May Already Be in Your Body
+subtitle:Scientists are trying to engineer exosomes, tiny bubbles released by cells, to slow the growth of currently untreatable cancers.
+author:null
+title:When a Fetus’s Test Finds a Mother’s Cancer
+subtitle:Mothers-to-be expecting to learn about chromosomal defects from a noninvasive prenatal test sometimes instead learn they may have cancer.
+author:null
+title:Theranos Gets (Another) Bad Lab Report
+subtitle:U.S. regulators add to the pressure on a struggling blood-testing startup.
+author:null
+title:A More Modern Blood Thinner
+subtitle:Researchers get closer to making the drug heparin without raw animal materials.
+author:null
+title:Old Blood Impairs Young Brains
+subtitle:A study suggests that age-related chemical signals in blood impair the growth of new neurons, but young blood can refresh old brains.
+author:null
+title:A Blood Test for Depression
+subtitle:A commercial test could let doctors easily screen for major depressive disorder.
+author:null
+title:A Spot of Blood Reveals Your Age
+subtitle:A new forensic test can estimate a person’s age, to within nine years, from blood at the scene of a crime.
+author:null
+title:Surgery Dramatically Lowers Blood Pressure
+subtitle:New treatment may be a way to control hypertension when drugs don’t work.
+author:null
+title:The Key Ingredient to Effective Cancer Treatments
+subtitle:A startup is developing oxygen-carrying compounds that it says could make radiation therapy more effective in half of all cancer patients.
+author:null
+title:Detecting Single Cancer Molecules
+subtitle:A new test could predict prostate cancer recurrence much earlier.
+author:null
+title:Young Blood Reverses Signs of Aging in Old Mice
+subtitle:A mysterious substance in blood rejuvenates blood-forming stem cells.
+author:Emily Mullin
+title:23andMe Is Making Its First Foray into At-Home Research, to Study Pain
+subtitle:The genetic testing company wants customers to do an experiment to help uncover genetic links to pain.
+author:Antonio Regalado
+title:Engineering the Perfect Baby
+subtitle:Scientists are developing ways to edit the DNA of tomorrow’s children. Should they stop before it’s too late?
+author:null
+title:On the Horns of the GMO Dilemma
+subtitle:Can genome-editing technology revive the idea of genetically modified livestock?
+author:null
+title:CRISPR Opens Up New Possibilities for Transplants Using Pig Organs
+subtitle:Scientists have bred gene-edited pigs free of viruses that pose a potential health risk for humans.
+author:null
+title:Synthetics Stop the Bleeding
+subtitle:Nanoparticles cut the bleeding time in half for rodents.
+author:Mike Orcutt
+title:Blockchains Use Massive Amounts of Energy—But There’s a Plan to Fix That
+subtitle:Making cryptocurrencies less energy-hungry will mean reengineering how blockchains work.
+author:Mike Orcutt
+title:A Mind-Bending Cryptographic Trick Promises to Take Blockchains Mainstream
+subtitle:Cryptographers have researched zero-knowledge proofs for two decades, but the technique is only just now poised to redefine the concept of online privacy.
+author:Mike Orcutt
+title:Why People Get Religious about Bitcoin
+subtitle:The cryptocurrency’s price is soaring, but the fervor is about more than just an investment opportunity.
+author:null
+title:$80 Million Hack Shows the Dangers of Programmable Money
+subtitle:A huge digital heist is a reminder that when your code has direct control of millions of dollars of assets, it had better be free of errors.
+author:Mike Orcutt
+title:Who Will Build the Health-Care Blockchain?
+subtitle:Decentralized databases promise to revolutionize medical records, but not until the health-care industry buys in to the idea and gets to work.
+author:null
+title:Ripple, a Cryptocurrency Company, Wants to Rewire Bank Authentication
+subtitle:A digital-currency company thinks it can protect the personal information used to perform identity checks in the financial industry.
+author:null
+title:Microsoft Bets That Bitcoin-Style Blockchains Will Be Big Business
+subtitle:Giant banks are experimenting with software inspired by Bitcoin, and Microsoft wants a piece of the action.
+author:null
+title:Big-Name Investors Back Effort to Build a Better Bitcoin
+subtitle:Some of Silicon Valley’s best-known venture funds have backed OpenCoin, a startup with a new digital currency called Ripple.
+author:Mike Orcutt
+title:This Is the Reason Ethereum Exists
+subtitle:The world’s second-most-valuable cryptocurrency is also its most interesting—but in order to understand it, you must first understand its origins.
+author:Emily Mullin
+title:Four Amazing Things Gene Editing Did in 2017
+subtitle:Researchers are getting closer to using gene editing for disease treatments and organ transplants.
+author:MIT Technology Review Editors
+title:Best Tech Books of 2017
+subtitle:Our editors’ picks for the best books of 2017, and some they’re looking forward to.
+author:Will Knight
+title:Google Has Released an AI Tool That Makes Sense of Your Genome
+subtitle:AI tools could help us turn information gleaned from genetic sequencing into life-saving therapies.
+author:Emily Mullin
+title:Biohackers Disregard FDA Warning on DIY Gene Therapy
+subtitle:The agency seeks a crackdown on companies offering kits to produce gene therapies for self-administration.
+author:Antonio Regalado
+title:500,000 Britons’ Genomes Will Be Public by 2020, Transforming Drug Research
+subtitle:Six drug firms are paying to sequence the genes of every volunteer in the UK Biobank.
+author:Antonio Regalado
+title:Semi-Synthetic Life Form Now Fully Armed and Operational
+subtitle:Could life have evolved differently? A germ with “unnatural” DNA letters suggests the answer is yes.
+author:Emily Mullin
+title:Even at $500K, Gene Therapy Could Be a Bargain for Some Diseases
+subtitle:A one-time gene therapy that costs half a million dollars sounds crazy until you add up what it costs to treat some diseases over a lifetime.
+author:Antonio Regalado
+title:Is This the Anti-Aging Pill We’ve All Been Waiting For?
+subtitle:A drug derived from an Easter Island bacterium extends the life of lab animals. People could be next.
+author:null
+title: Immune Engineering 
+subtitle:Genetically engineered immune cells are saving the lives of cancer patients. That may be just the start.
+author:Antonio Regalado
+title:Biotech’s Coming Cancer Cure
+subtitle:Supercharge your immune cells to defeat cancer? Juno Therapeutics believes its treatments can do exactly that.
+author:null
+title:Race for a Smart Contact Lens Gets New Entry from a Thiel Dropout
+subtitle:With fresh funding from the Thiel Foundation, startup Medella is going up against Google and Microsoft to build a smart contact lens.
+author:null
+title:Big Pharma Doubles Down on CRISPR for New Drugs
+subtitle:A joint venture between Bayer and CRISPR Therapeutics is the latest effort to make CRISPR drugs that could target and modify cells inside the body.
+author:null
+title:Biomedical News in Brief
+subtitle:Mimicking autism, new drugs for skin cancer, and a promising treatment for muscular dystrophy.
+author:null
+title:The Genes Behind Down Syndrome
+subtitle:Scientists have pinpointed crucial genes within the duplicated chromosome that trigger the disorder.
+author:null
+title:Tiny Electric Cars Are Coming
+subtitle:If batteries aren’t up to the job, why not make smaller cars?
+author:null
+title:A 3-D Display for Your Car
+subtitle:A startup has built a glasses-free 3-D screen that’s much bigger than its previous prototype, bringing it a step closer to being built into gadgets (including the one in your driveway).
+author:null
+title:Deaths in CAR-T Trials Haunt Promising New Cancer Treatment
+subtitle:Companies are racing to develop a new type of cancer therapy, but scientists are still assessing its safety.
+author:null
+title:What Else Could Smart Contact Lenses Do?
+subtitle:Besides health tracking, contact lens technology under development could enable drug delivery, night vision, and augmented reality.
+author:null
+title:How Do You Know An Autonomous Vehicle Has Seen You?
+subtitle:MIT’s Media Lab demonstrates a system that lets driverless vehicles communicate with pedestrians.
+author:null
+title:Toyota Applies the Brakes
+subtitle:The company hopes a “smart pedal” will help defuse criticism.
+author:Antonio Regalado
+title:UK Biobank Supercharges Medicine with Gene Data on 500,000 Brits
+subtitle:A database of DNA and health measurements is offering new clues into everything from who gets diabetes to who likes a pint of beer.
+author:Emily Mullin
+title:Tracking the Cost of Gene Therapy
+subtitle:Though expensive now, prices could get cheaper for more common diseases.
+author:Emily Mullin
+title:Arming Bodies with CRISPR to Fight Huntington’s Disease and ALS
+subtitle:The editing tool normally targets DNA, but scientists are aiming it at a different molecule.
+author:Susan Young Rojahn
+title:Genome Surgery
+subtitle:Precise and easy ways to rewrite human genes could finally provide the tools that researchers need to understand and cure some of our most deadly genetic diseases.
+author:Antonio Regalado
+title:How to Spend $1,900 on Gene Tests Without Learning a Thing
+subtitle:Science and marketing clash in the “jungle” of direct-to-consumer DNA apps.
+author:null
+title:A Detailed Gene Map of the Human Brain
+subtitle:The Allen Institute for Brain Science has released the most comprehensive catalogue yet of the brain’s biochemistry, providing an important new resource for neuroscientists.
+author:Emily Mullin
+title:Under Trump, Biologists Fear Political Risks of Controversial Research
+subtitle:Scientists fear a crackdown on embryo research if President Trump pays attention to scientific advances.
+author:Emily Mullin
+title:CRISPR 2.0 Is Here, and It’s Way More Precise
+subtitle:It could one day be used to treat a range of inherited diseases.
+author:null
+title:CRISPR Gene Editing to Be Tested on People by 2017, Says Editas
+subtitle:A biotechnology company says it will test advanced gene-engineering methods to treat blindness.
+author:null
+title:Can Gene Therapy Cure HIV?
+subtitle:Engineering a patient’s own immune cells to resist HIV could eliminate the need for lifelong antiretroviral therapies.
+author:Antonio Regalado
+title:Gene-Edited Skin Could Be Its Own Blood-Sugar Sensor
+subtitle:Diabetics might ultimately have glucose sensors built into their bodies.
+author:Emily Mullin
+title:Sickle-Cell Patients See Hope in CRISPR
+subtitle:The disease may be among the first to be treated with the novel gene-editing tool.
+author:null
+title: Ultra-Efficient Solar Power 
+subtitle:Doubling the efficiency of solar devices would completely change the economics of renewable energy. Here is a design that just might make it possible.
+author:null
+title: Prenatal DNA Sequencing 
+subtitle:Reading the DNA of fetuses is the next frontier of the genome revolution. Do you really want to know the genetic destiny of your unborn child?
+author:null
+title: Big Data from Cheap Phones 
+subtitle:Collecting and analyzing information from simple cell phones can provide surprising insights into how people move about and behave—and even help us understand the spread of diseases.
+author:null
+title: Additive Manufacturing 
+subtitle:GE, the world’s largest manufacturer, is on the verge of using 3-D printing to make jet parts.
+author:null
+title: Smart Watches 
+subtitle:The designers of the Pebble watch realized that a mobile phone is more useful if you don’t have to take it out of your pocket.
+author:null
+title: Temporary Social Media 
+subtitle:Messages that quickly self-destruct could enhance the privacy of online communication and make people feel freer to be spontaneous.
+author:null
+title: Baxter: The Blue-Collar Robot 
+subtitle:Rethink Robotics’ new creation is easy to interact with, but the innovations behind the robot show just how hard it is to get along with people.
+author:null
+title: Supergrids 
+subtitle:A high-power circuit breaker could finally make DC power grids practical.
+author:null
+title:Prepare to be Underwhelmed by 2021’s Autonomous Cars
+subtitle:Ford, Uber, and BMW promise fully self-driving cars in five years—but they will probably only work in very limited areas.
+author:null
+title:Tesla’s Strategy Is Risky and Aggressive, but It Has Worked
+subtitle:Elon Musk has made a bold bet that the car industry can move faster than anybody believed possible.
+author:null
+title:How Your Next Car Could Help Make Itself Obsolete
+subtitle:Driving cars on the road might be the best way to create maps for tomorrow’s autonomous ones.
+author:null
+title:Why the Rise of Driverless Cars Has Got Detroit Spooked
+subtitle:In just a few years, robotic cars have gone from prototypes that barely worked to a technology that auto executives think is poised to upend their industry.
+author:null
+title:A Simple Way to Hasten the Arrival of Self-Driving Cars
+subtitle:Data shows that even a short commute can change dramatically over a year. Sharing such information could help self-driving cars hit the roads sooner.
+author:null
+title:2021 May Be the Year of the Fully Autonomous Car
+subtitle:BMW and Ford have each announced an aggressive time line for producing self-driving cars.
+author:null
+title:Ford CEO Explains Why It’s Hard to Build Self-Driving Cars
+subtitle:Mark Fields, the head of Ford, says cars that can drive themselves may need to learn some more human traits.
+author:null
+title:The Self-Driving Project That Could Help China Leapfrog the West
+subtitle:Baidu opens up its software, a stark departure from the normally secretive world of commercial AI development.
+author:Rachel Metz
+title:Andrew Ng Says Factories Are AI’s Next Frontier
+subtitle:The artificial-intelligence expert is on a mission to AI-ify manufacturing, starting with partners like Foxconn.
+author:Yiting Sun
+title:Meet the Chinese Robot Destined to Dance in Millions of Living Rooms
+subtitle:Baidu’s interactive home robot is a sign of China’s growing interest in AI hardware.
+author:Will Knight
+title:China’s AI Awakening中国 人工智能 的崛起
+subtitle:The West shouldn’t fear China’s artificial-intelligence revolution. It should copy it.
+author:Yiting Sun
+title:For Computers, Too, It’s Hard to Learn to Speak Chinese
+subtitle:Challenging written characters make voice-based computing a natural for China, but computers that can hold a conversation in Chinese are some way off.
+author:Tom Simonite
+title:The President of Search Giant Baidu Has Global Plans
+subtitle:Ya-Qin Zhang expects investments in artificial intelligence and other technologies to help turn his company into a global leader.
+author:null
+title:Baidu Will Release a Free Operating System for Self-Driving Cars
+subtitle:China’s leading search engine hopes to speed development of autonomous driving and draw carmakers to its services.
+author:null
+title:Intel’s New Chips Are More Brain-Like Than Ever
+subtitle:The troubled chipmaker is looking to the future of computing.
+author:null
+title:The Latest Driverless Cars Don’t Need a Programmer Either
+subtitle:The technique that helped a computer master the game of Go is about to be tested in real vehicles as a way to cope with complex driving situations.
+author:null
+title:Fitbit CEO on Wearable Gadgets, the Future of Sensors, and Wall Street
+subtitle:Fitbit CEO James Park talks about why he doesn’t think stand-alone activity trackers will die out, and why he doesn’t worry about the company’s stock price.
+author:null
+title:Will Anybody Buy a Drone Large Enough to Carry a Person?
+subtitle:Chinese drone maker Ehang’s new 184 quadcopter is like a tiny, unregulated helicopter that can autonomously fly passengers anywhere—as long as the flight doesn’t take more than 23 minutes.
+author:null
+title:Intel Really, Really Wants You to Wear a Computer
+subtitle:Intel is finally getting ready to ship a tiny computer that could help make wearable gadgets a lot sleeker.
+author:null
+title:HTC’s Plan for You to Avoid Smacking Your Head in VR
+subtitle:HTC’s latest Vive headset for developers includes visual aids for reality that are hardly groundbreaking but address an important issue for VR.
+author:null
+title:Toyota Wants Its Cars to Expect the Unexpected
+subtitle:Japanese carmaker Toyota reveals details of an ambitious $1 billion effort to advance AI and robotics.
+author:Rachel Metz
+title:Four Important Things to Expect in Virtual Reality in 2016
+subtitle:Expect a banner year for virtual reality. Here are some of the biggest things to look forward to in the months ahead.
+author:Jackie Snow
+title:2017: The Year AI Floated into the Cloud
+subtitle:As more AI gets done on remote servers, Google, Amazon, and Microsoft are dueling to see who reigns supreme (and makes the most money).
+author:Martin Giles
+title:Silicon Valley’s 2017 Report Card
+subtitle:It’s been a bad year for America’s biggest tech hub—though not because of a lack of innovation.
+author:Julia Sklar
+title:AOL Instant Messenger Made Social Media What It Is Today
+subtitle:The once popular messaging platform goes dark this week, but its legacy of instant communication is here to stay.
+author:Will Knight
+title:Google’s Return to China Foretells a Global Race to Deliver AI
+subtitle:With a new research center in Beijing, Google hopes to strengthen its global position in offering AI services through the cloud.
+author:null
+title:Toyota’s Home Helper Is a Glimpse of Our Robot-Assisted Future
+subtitle:A machine that can fetch a drink of water and open doors has made one paralyzed man’s life a little easier.
+author:Tom Simonite
+title:Self-Driving Cars’ Spinning-Laser Problem
+subtitle:Progress toward practical autonomous vehicles requires improvements to the sensors that map a vehicle’s environment in 3-D.
+author:null
+title:Toyota Tests Backseat-Driver Software That Could Take Control in Dangerous Moments
+subtitle:Cameras that watch where people are looking allow cars to judge when the driver is likely to miss a dangerous situation.
+author:George Anders
+title:Toyota Makes a U-Turn on Autonomous Cars
+subtitle:The world’s largest automaker is finally getting serious about self-driving technologies.
+author:null
+title:Your Future Toyota May Know Where You’re Going Before You’ve Told It
+subtitle:Toyota’s new subsidiary will manage the troves of data collected from its increasingly connected cars.
+author:null
+title:Toyota’s Billion-Dollar Bet
+subtitle:The world’s largest carmaker has launched a research institute to focus on semiautonomous cars and robots.
+author:null
+title:Toyota Joins the Race for Self-Driving Cars with an Invisible Copilot
+subtitle:The Japanese carmaker is using real and virtual experiments to train cars to drive themselves—and to take the wheel when a driver is in trouble.
+author:null
+title:Google Hasn’t Given Up on Robots
+subtitle:Google is selling off a company working on the most advanced problems in robotics, but that doesn’t mean it doesn’t have robot dreams.
+author:Elizabeth Woyke
+title:The Best Baby Gadgets of 2017 Were All Built by First-Time Parents
+subtitle:Entrepreneurial parents are reinventing the baby bottle, sleep monitor, and breast pump.
+author:Rachel Metz
+title:OK Google, Get Out of My Face
+subtitle:Ubiquitous computing is starting to get (really) real and I’m kind of afraid of it.
+author:Elizabeth Woyke
+title:The Best Gadgets Coming in 2017
+subtitle:Here are the likely standouts among the smartphones, VR headsets, and smart watches hitting the market this year.
+author:null
+title:A Smart-Phone Camera that Offers More than Megapixels
+subtitle:Pelican Imaging’s “array camera” will mean thinner devices and new imaging tricks.
+author:null
+title:SXSW: How Smart Gadgets Let Us Down
+subtitle:As devices get computationally more powerful, they remain social dunces.
+author:null
+title:The Trials of Barack Obama, Gadget Hound
+subtitle:Personal tech and presidential security don’t play well together. So the most powerful man in the world almost certainly carries around a bunch of lame gadgets.
+author:null
+title:Our Own Devices
+subtitle:Why we love the machines we shouldn’t.
+author:null
+title:Sailing into the Flash Doldrums
+subtitle:Despite a gloomy market, Numonyx announces new chips.
+author:Jamie Condliffe
+title:Lidar Just Got Way Better—But It’s Still Too Expensive for Your Car
+subtitle:Velodyne’s latest sensor doubles the company’s previous mark for range and quadruples its resolution. But it’s entering an increasingly competitive field.
+author:null
+title:Waymo Has Invited the Public to Hop Into Its Self-Driving Cars
+subtitle:Folks living in the Phoenix area can now sign up for free on-demand rides, part of a trial meant to see how regular people integrate the autonomous cars into their everyday lives.
+author:null
+title:Why Waymo’s Partnership with Avis Makes Sense
+subtitle:Alphabet’s autonomous-driving division doesn’t care for auto maintenance, while rental firms are keen to find purpose as the model of car ownership changes.
+author:null
+title:Alphabet-Uber Rivalry Intensifies Over Autonomous Car Cribbing
+subtitle:Waymo claims that an engineer took trade secrets with him on his departure and used them to build new hardware at Uber.
+author:null
+title:"I Just Called to Say I Love You"
+subtitle:Cell phones, sentimentality, and the decline of public space.
+author:null
+title:Alphabet’s Nascent Ride-Sharing Service Ups the Ante Against Uber
+subtitle:It’s less flexible and lacks enough drivers—but it’s also far cheaper.
+author:null
+title:New Patents Hint That Amazon and Google Each Have Plans to Compete with Uber
+subtitle:The tech giants both want a slice of the ride-hailer’s automated taxi and trucking vision, and they have their own ideas to prove it.
+author:null
+title:Why Some Autonomous Cars Are Going to Avoid the Internet
+subtitle:Alphabet’s autonomous car company, Waymo, has admitted that it keeps its cars offline to prevent them from being hacked.
+author:Jackie Snow
+title:AI Could Set Us Back 100 Years When It Comes to How We Consume News
+subtitle:Fake videos could become so convincing that we may have to get used to getting our news without them.
+author:null
+title:Celebrating Moonshot Thinking: Solve for X Honors Innovators Under 35
+subtitle:Who do you think should join the Innovators Under 35 this year?
+author:null
+title:Introduce Us to Some Fascinating Young People
+subtitle:Nominations are open for our annual list of 35 innovators under 35. Don’t hold back.
+author:null
+title:Engine Reinvention
+subtitle:Novel engine designs could help meet our growing demand for energy.
+author:null
+title:35 Innovators Under the Age of 35
+subtitle:How the year’s most promising technologists are chosen, and why we insist on their youth.
+author:null
+title:The Most Exciting Energy Innovator of 2009?
+subtitle:Tell us about young researchers and entrepreneurs who deserve our TR35 award.
+author:null
+title:Stem Cells without Side Effects
+subtitle:Researchers have created healthy stem cells from adult cells–no embryo required.
+author:Erin Winick
+title:Five Jobs That Are Set to Grow in 2018
+subtitle:Technology often gets blamed for job losses, but in some areas it’s spurring big-time demand for workers.
+author:null
+title:MacArthur Award for Smart Home Innovator
+subtitle:TR35 winner Shwetak Patel has developed sensors that could change the way we live.
+author:L. Rafael Reif
+title:Getting Automation Right
+subtitle:It’s up to us to make sure our automated future works for everyone.
+author:null
+title:Contributors
+subtitle:
+author:Elizabeth Woyke
+title:Roomba to Rule the Smart Home
+subtitle:iRobot CEO Colin Angle says mapping data generated by the company’s robotic cleaners will finally make our homes intelligent.
+author:null
+title:Banks Embrace Bitcoin’s Heart but Not Its Soul
+subtitle:Major financial institutions like some technical features of Bitcoin but are building their own versions that leave out the digital cash and built-in economics.
+author:Brian Bergstein
+title:The Great AI Paradox
+subtitle:Don’t worry about supersmart AI eliminating all the jobs. That’s just a distraction from the problems even relatively dumb computers are causing.
+author:Will Knight
+title:The Year Robots Backflipped Their Way into Our Hearts
+subtitle:Robots may take over, but they’ll look cool doing it.
+author:Erin Winick
+title:Lawyer-Bots Are Shaking Up Jobs
+subtitle:AI is augmenting and automating the tasks currently performed by hundreds of thousands of people in the U.S. alone.
+author:Will Knight
+title:More Evidence That Humans and Machines Are Better When They Team Up
+subtitle:By worrying about job displacement, we might end up missing a huge opportunity for technological amplification.
+author:Rachel Metz
+title:The Woman Engineering Uber’s Driverless Trucks
+subtitle:Nancy Sun is trying to get driverless trucks on the road and convince truck drivers to trust Uber, too.
+author:null
+title:Robots Aren’t as Smart as You Think
+subtitle:As robots get good at mimicking human behavior, people can be deceived into thinking they have human intelligence. So let’s put them to the test.
+author:Louisa Hall
+title:How We Feel About Robots That Feel
+subtitle:As robots become smart enough to detect our feelings and respond appropriately, they could have something like emotions of their own. But that won’t necessarily make them more like humans.
+author:Gregory Mone
+title:Building Tomorrow’s Robots
+subtitle:MIT computer scientist Daniela Rus is dreaming up our robot-filled future.
+author:Elizabeth Woyke
+title:In These Small Cities, AI Advances Could Be Costly
+subtitle:A new MIT study finds that larger cities are more resilient to technological unemployment.
+author:Will Knight
+title:Progress in AI isn’t as Impressive as You Might Think
+subtitle:A new report gauges how far we’ve come, dampening ideas that machines are approaching human-type intelligence.
+author:Jamie Condliffe
+title:Inside the Increasingly Complex Algorithms That Get Packages to Your Door
+subtitle:Working out the best way to deliver parcels is a near-impossible job, and it’s only getting harder.
+author:Elizabeth Woyke
+title:Making Job-Training Software People Actually Want to Use
+subtitle:Salesforce will start selling its online learning platform, which has helped its own employees change roles and get promotions.
+author:null
+title:Autonomous Grocery Vans Are Making Deliveries in London
+subtitle:The vehicles can find their way along real roads in order to deliver bags of food to Greenwich residents.
+author:null
+title:The Robotic Grocery Store of the Future Is Here
+subtitle:Swarm robotics, autonomous delivery vehicles, and machine-learned preferences will help deliver your food faster.
+author:Jamie Condliffe
+title:Trump’s Energy R&D Policies Ignore the Long-Term Impact of Innovation
+subtitle:President Obama’s former chief science advisor says the Trump administration’s promise to slash funding for energy research is short-sighted.
+author:null
+title:Robotic Grocers Have Learned How to Handle Your Vegetables
+subtitle:The ability to gently grasp soft and unpredictable items will help pave the way toward fully automated grocery stores.
+author:Antonio Regalado
+title:Despite All Our Fancy AI, Solving Intelligence Remains “the Greatest Problem in Science”
+subtitle:Autonomous cars and Go-playing computers are impressive, but we’re no closer to machines that can think like people, says neuroscientist Tomaso Poggio.
+author:null
+title:Best Tweets from EmTech: Day 1
+subtitle:A small sampling of the Twitter conversation around the sessions and programming from the first day of our EmTech conference.
+author:null
+title:AOL Cofounder Frets That the U.S. Could Lose Its Entrepreneurial Edge
+subtitle:AOL cofounder Steve Case makes the case for American entrepreneurs outside of Silicon Valley.
+author:null
+title:Best Tweets from EmTech: Day 2
+subtitle:A small sampling of the Twitter conversation around the sessions and programming from the second day of our EmTech conference.
+author:null
+title:Best Tweets from EmTech: Day 1
+subtitle:A small sampling of the Twitter conversation around the sessions and programming from the first day of our EmTech conference.
+author:null
+title:EmTech: How to Merge the Tea Party with the Occupy Movement
+subtitle:Technology’s challenge in politics is to stitch together grassroots groups in a common fight against corruption.
+author:null
+title:EmTech: Nicira’s Next Goal Is Greening the Internet
+subtitle:The company’s technology has the potential to reconfigure the plumbing of the Internet.
+author:null
+title:EmTech: The Future of Cancer Treatment
+subtitle:Cocktails of targeted cancer therapies could push survival beyond just months of additional life.
+author:null
+title:EmTech: French Minister Says Google Faces Critical Questions Over Copyright
+subtitle:Fleur Pellerin hopes the search giant will volunteer to negotiate payments to news publishers for indexing articles.
+author:Martin Giles
+title:The Man with a Plan to Upgrade the Democrats
+subtitle:Raffi Krikorian, the CTO of the Democratic National Committee, is out to beat hackers—and the Republicans.
+author:Martin Giles
+title:Hacking Back Makes a Comeback—But It’s Still a Really Bad Idea
+subtitle:Some politicians want to make it legal for individuals and companies in America to pursue digital assailants.
+author:Mike Orcutt
+title:How Blockchain Could Give Us a Smarter Energy Grid
+subtitle:Energy experts believe that blockchain technology can solve a maze of red tape and data management problems.

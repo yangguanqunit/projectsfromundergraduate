@@ -1,0 +1,15 @@
+/Users/yangguanqun/PROJECTS/webmagic-master/webmagic-core/src/test/java/us/codecraft/webmagic/example/GithubRepoPageProcessorTest.java
+/Users/yangguanqun/PROJECTS/webmagic-master/webmagic-core/src/test/java/us/codecraft/webmagic/scheduler/PrioritySchedulerTest.java
+/Users/yangguanqun/PROJECTS/webmagic-master/webmagic-core/src/test/java/us/codecraft/webmagic/utils/UrlUtilsTest.java
+/Users/yangguanqun/PROJECTS/webmagic-master/webmagic-core/src/test/java/us/codecraft/webmagic/selector/RegexSelectorTest.java
+/Users/yangguanqun/PROJECTS/webmagic-master/webmagic-core/src/test/java/us/codecraft/webmagic/selector/JsonTest.java
+/Users/yangguanqun/PROJECTS/webmagic-master/webmagic-core/src/test/java/us/codecraft/webmagic/selector/ExtractorsTest.java
+/Users/yangguanqun/PROJECTS/webmagic-master/webmagic-core/src/test/java/us/codecraft/webmagic/ResultItemsTest.java
+/Users/yangguanqun/PROJECTS/webmagic-master/webmagic-core/src/test/java/us/codecraft/webmagic/SpiderTest.java
+/Users/yangguanqun/PROJECTS/webmagic-master/webmagic-core/src/test/java/us/codecraft/webmagic/selector/JsonPathSelectorTest.java
+/Users/yangguanqun/PROJECTS/webmagic-master/webmagic-core/src/test/java/us/codecraft/webmagic/proxy/ProxyTest.java
+/Users/yangguanqun/PROJECTS/webmagic-master/webmagic-core/src/test/java/us/codecraft/webmagic/downloader/MockGithubDownloader.java
+/Users/yangguanqun/PROJECTS/webmagic-master/webmagic-core/src/test/java/us/codecraft/webmagic/HtmlTest.java
+/Users/yangguanqun/PROJECTS/webmagic-master/webmagic-core/src/test/java/us/codecraft/webmagic/selector/SelectorTest.java
+/Users/yangguanqun/PROJECTS/webmagic-master/webmagic-core/src/test/java/us/codecraft/webmagic/downloader/HttpClientDownloaderTest.java
+/Users/yangguanqun/PROJECTS/webmagic-master/webmagic-core/src/test/java/us/codecraft/webmagic/pipeline/FilePipelineTest.java

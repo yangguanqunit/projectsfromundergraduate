@@ -1,0 +1,120 @@
+author:	Emily Mullin
+title:	A Cheap and Easy Blood Test Could Catch Cancer Early
+subtitle:	50,000 healthy people will be screened in an effort to detect hidden tumors.
+author:	Mike Orcutt
+title:	Bitcoin and Ethereum Have a Hidden Power Structure, and It’s Just Been Revealed
+subtitle:	Close examination reveals how power is being consolidated across their networks.
+author:	null
+title:	Google’s Self-Training AI Turns Coders into Machine-Learning Masters
+subtitle:	Automating the training of machine-learning systems could make AI much more accessible.
+author:	Emily Mullin
+title:	U.S. Doctors Plan to Treat Cancer Patients Using CRISPR
+subtitle:	Gene-edited immune cells could help wipe out deadly tumors.
+author:	Elizabeth Woyke
+title:	Slack Hopes Its AI Will Keep You from Hating Slack
+subtitle:	The fastest-growing business app is relying on machine-learning tricks to fend off a deluge of messages—as well as competition from Facebook and Microsoft.
+author:	null
+title:	Nano/micro 3-D printing is capable of generating complex, minute components.
+subtitle:	Manufacturing in a New Dimension: How a Startup Company Reshaped the Precision Manufacturing Landscape.
+author:	null
+title:	Autonomous Vehicles: Are You Ready for the New Ride?
+subtitle:	Automakers are joining with Google, Uber, and high-profile start-ups to harness the technological advances that will power next-generation autonomous vehicles.
+author:	Rachel Metz
+title:	And the Award for Most Nauseating Self-Driving Car Goes to …
+subtitle:	I rode in a bunch of autonomous cars so you don’t have to.
+author:	null
+title:	Gene Therapy Could Make Cancer Care More Unequal, and This Map Shows Why
+subtitle:	Revolutionary new cancer treatments won’t be available in many rural areas of the U.S.
+author:	null
+title:	I Rode in a Car in Las Vegas. Its Driver Was in Silicon Valley.
+subtitle:	A startup thinks autonomous cars will need remote humans as backup drivers. For now, it’s kind of nerve-racking.
+author:	Timothy Maher
+title:	Help Us Find the Young Innovators Who’ll Shape the Future
+subtitle:	You have until February 1 to nominate someone for the 2018 list of 35 Innovators Under 35.
+author:	null
+title:	Finally, a Robot Smart Enough to Hand You the Wrench You Need
+subtitle:	A grocery store in the U.K. has developed a robot to assist its maintenance workers.
+author:	Mike Orcutt
+title:	No, Ripple Isn’t the Next Bitcoin
+subtitle:	The company’s cryptocurrency has also seen an incredible run-up in value, but investors may have gotten the wrong idea.
+author:	Emily Mullin
+title:	A Contraceptive Gel for Men Is About to Go on Trial
+subtitle:	It’s expected to deliver hormones more effectively than injections or pills.
+author:	Rachel Metz
+title:	This Is Magic Leap’s AR Headset, Coming 2018
+subtitle:	The secretive, highly funded startup still isn’t saying exactly when, or how much it will cost.
+author:	Rachel Metz
+title:	Apps That Hint at a Fanciful Fake Future
+subtitle:	A new wave of mobile AR and VR apps is here, and these are the ones you need to check out.
+author:	Wade Roush
+title:	This VR Exhibit Lets You Connect with the Human Side of War
+subtitle:	A pioneering photojournalist hopes VR can restore war photography’s dramatic power to influence and inform us.
+author:	Amanda Schaffer
+title:	The Remarkable Career of Shirley Ann Jackson
+subtitle:	Shirley Ann Jackson ’68, PhD ’73, worked to help bring about more diversity at MIT, where she was the first African-American woman to earn a doctorate. She then applied her mix of vision and pragmatism in the lab, in Washington, and at the helm of a major research university.
+author:	James Temple
+title:	This Startup Developed a Promising New Battery Material—and a Novel Survival Strategy
+subtitle:	Kenan Sahin made $1.5 billion on his first company. Now he’s using his resources and experience to advance lithium-ion cathodes, propel electric vehicles, and help other battery startups succeed.
+author:	Emily Parker
+title:	Can China Contain Bitcoin?
+subtitle:	It is trying. But the cryptocurrency is bigger than any country, even the one where it has been most popular.
+author:	James Temple
+title:	The Year Climate Change Began to Spin Out of Control
+subtitle:	Fires ravaged the West, hurricanes battered the East—and still emissions continued to rise.
+author:	James Temple
+title:	How to Get Wyoming Wind to California, and Cut 80% of U.S. Carbon Emissions
+subtitle:	High-voltage direct-current transmission lines hold the key to slashing greenhouse gases.
+author:	James Temple
+title:	Trump’s Five Biggest Energy Blunders in 2017
+subtitle:	Has it really only been 11 months?
+author:	Erin Winick
+title:	Five Jobs That Are Set to Grow in 2018
+subtitle:	Technology often gets blamed for job losses, but in some areas it’s spurring big-time demand for workers.
+author:	Erin Winick
+title:	The Five Most Amazing Things That Were 3-D-Printed This Year
+subtitle:	Each of these items gives us clues to what the future of manufacturing might look like.
+author:	Rodney Brooks
+title:	The Seven Deadly Sins of AI Predictions
+subtitle:	Mistaken extrapolations, limited imagination, and other common mistakes that distract us from thinking more productively about the future.
+author:	Will Knight
+title:	Forget Killer Robots—Bias Is the Real AI Danger
+subtitle:	John Giannandrea, who leads AI at Google, is worried about intelligent systems learning human prejudices.
+author:	Will Knight
+title:	The Dark Secret at the Heart of AI
+subtitle:	No one really knows how the most advanced algorithms do what they do. That could be a problem.
+author:	null
+title:	Undoing Aging with Molecular and Cellular Damage Repair
+subtitle:	Since the dawn of medicine, aging has been doctors’ foremost challenge.
+author:	null
+title:	Human Legacies When Robots Rule the Earth
+subtitle:	Machines have been displacing humans on job tasks for several centuries, and for seventy years many of these machines have been controlled by computers.
+author:	null
+title:	Our Extended Sensoria. How Humans Will Connect with the Internet of Things
+subtitle:	Mark Weiser predicted the Internet of Things in a seminal article in 1991 about how people would interact with networked computation distributed into the environments and artifacts around them.
+author:	null
+title:	MIT Technology Review Insights Showcase
+subtitle:	Working closely with clients, our expert custom-editorial Insights staff develops a range of high-quality, relevant content, delivering it to users when and where they want it—in digital, print, online, and in-person experiences. Everything is customized to fit clients’ content marketing goals and position them as thought leaders aligned with the authority on technology that matters.
+author:	Martin Giles
+title:	Hackers Could Blow Up Factories Using Smartphone Apps
+subtitle:	Researchers have found worrying security holes in apps companies use to control industrial processes.
+author:	null
+title:	Our Best Photographs of 2017
+subtitle:	From bendable glass to war photojournalism in VR, our photographers capture the technology of 2017.
+author:	null
+title:	 Reversing Paralysis 
+subtitle:	Scientists are making remarkable progress at using brain implants to restore the freedom of movement that spinal cord injuries take away.
+author:	Martin Giles
+title:	At Least Three Billion Computer Chips Have the Spectre Security Hole
+subtitle:	Companies are rushing out software fixes for Chipmageddon.
+author:	null
+title:	 Paying with Your Face 
+subtitle:	Face-detecting systems in China now authorize payments, provide access to facilities, and track down criminals. Will other countries follow?
+author:	null
+title:	 Practical Quantum Computers 
+subtitle:	Advances at Google, Intel, and several research groups indicate that computers with previously unimaginable power are finally within reach.
+author:	null
+title:	 Self-Driving Trucks 
+subtitle:	Tractor-trailers without a human at the wheel will soon barrel onto highways near you. What will this mean for the nation’s 1.7 million truck drivers?
+author:	null
+title:	 The 360-Degree Selfie 
+subtitle:	Inexpensive cameras that make spherical images are opening a new era in photography and chang

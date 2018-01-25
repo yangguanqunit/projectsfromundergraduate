@@ -1,0 +1,975 @@
+author:null
+title:Facebook’s New Graph Search: Not Very Good
+subtitle:It’s going to take time and user buy-in for Graph Search to be truly worthwhile.
+author:null
+title:A $2 Billion Chip to Accelerate Artificial Intelligence
+subtitle:A new chip design from Nvidia will allow machine-learning researchers to marshal larger collections of simulated neurons.
+author:null
+title:How Google Plans to Find the UnGoogleable
+subtitle:The company wants to improve its mobile search services by automatically delivering information you wouldn’t think to search for online.
+author:Tom Simonite
+title:Machine Dreams
+subtitle:To rescue its struggling business, Hewlett-Packard is making a long-shot bid to change the fundamentals of how computers work.
+author:null
+title:Light Chips Could Mean More Energy-Efficient Data Centers
+subtitle:For the first time, researchers have used existing manufacturing technology to make a complex processor that uses energy-efficient optical connections.
+author:null
+title:Microsoft’s Bing Now Can Find Local Businesses That Aren’t Too Crowded
+subtitle:Using smartphone microphones, the crowdsourcing tool could deduce the current atmosphere at bars and eateries.
+author:Will Knight
+title:Intel Chases a More Power-Efficient Future
+subtitle:An improved microprocessor and a deal with Google could lead to more Intel chips in mobile devices.
+author:null
+title:Intel to Make Three-Dimensional Transistors
+subtitle:The company says the new architecture will result in better performance with less power.
+author:null
+title:Ultrathin Material Shows Electronic Promise
+subtitle:Two-dimensional sheets of molybdenite can do things that silicon and graphene can’t.
+author:null
+title:Silicon's Long Good-bye
+subtitle:Researchers make transistors out of a material that’s better than silicon.
+author:null
+title:Dazzling Dual-Core Phones and Tablets
+subtitle:New processors are a big improvement, but it will take time for apps to take advantage.
+author:null
+title:Supercomputer Visuals Without Graphics Chips
+subtitle:Computer scientists are visualizing the world’s most gigantic datasets without graphics clusters.
+author:Rachel Metz
+title:A Smart Watch to Help Blind People Navigate
+subtitle:The sonar-equipped Sunu Band buzzes harder the closer an object is.
+author:null
+title:Your Smartphone Could Soon Listen for Sleep Disorders
+subtitle:Researchers say they’ve come up with an accurate, simple way to monitor breathing while you sleep, no wearables required.
+author:null
+title:A Laptop Cooled with Ionic Wind
+subtitle:The thin and efficient technology could replace bulky cooling fans.
+author:null
+title:Fitness Trackers Still Need to Work Out Kinks
+subtitle:The latest fitness-tracking wristbands need to get in better shape before they’ll earn a spot on my wrist.
+author:null
+title:The Internet of You
+subtitle:As wearable devices get better-looking and more powerful, we’ll trust them to monitor and control more of our lives.
+author:null
+title:If Apple Builds Smart Glasses, They’d Better Be Spectacular
+subtitle:The company could be gearing up to focus on augmented reality.
+author:null
+title:Jawbone’s Vision: Activity Tracking Now, Remote Control Tomorrow
+subtitle:Fitness bands like the Jawbone Up are in an unusual and enviable position in the electronics business: people rarely take them off.
+author:null
+title:Hologram Method Used to Study Neurons
+subtitle:The approach could ultimately be used to rapidly screen new drugs designed to protect brain cells.
+author:null
+title:Here’s Why Google and Levi’s Are Working Together to Make a Jean Jacket
+subtitle:The leaders of Google’s Project Jacquard and Levi’s product innovation discuss why they think a jean jacket will make you covet smart clothes.
+author:null
+title:Nokia’s Move into Connected Gadgets May Prove Prescient
+subtitle:Nokia is paying $191 million for Withings, a company that makes health and fitness gadgets, and it sounds like a smart move.
+author:null
+title:How to Operate Your Smart Watch with the Same Hand That Wears It
+subtitle:Researchers used a smart watch’s existing sensors to add gesture controls like pinching and waving.
+author:null
+title:These Headphones Know Your Ears Better than You Do
+subtitle:A startup called Nura says it’s making headphones that learn how you hear and adjust your tunes to sound best.
+author:null
+title:Future Wearables: Intelligent Leggings Measure Muscle Fatigue in Runners
+subtitle:The next generation of wearable sensors embroidered into clothing are providing new insight into the nature of human activity.
+author:null
+title:Robot Abuses Google’s Smart Textiles to See How Much They Can Take
+subtitle:Google’s Project Jacquard employs a robot to help figure out how well its smart textiles will work over time.
+author:null
+title:Botnets Could Meet Their Match in Robot Hackers
+subtitle:Software called Mayhem that won a $2 million Pentagon hacking prize is being prepared to go to work fixing up the Internet.
+author:Will Knight
+title:An Ostrich-Like Robot Pushes the Limits of Legged Locomotion
+subtitle:Robots are still learning to walk. Here’s one that runs on two legs.
+author:null
+title:These Paper Drones Are Built for One-Way Missions
+subtitle:The autonomous craft would be a cheap, disposable way to deliver medical supplies in remote areas or conflict zones.
+author:null
+title:A Glut of Gadgets Track Your Body’s Vital Signs
+subtitle:Many new fitness-tracking devices are on display at the Consumer Electronics Show in Las Vegas.
+author:null
+title:Pentagon Bot Battle Shows How Computers Can Fix Their Own Flaws
+subtitle:Automating the work of hacking experts could make the world safer.
+author:null
+title:DARPA’s Autonomous Ship Is Patrolling the Seas with a Parasailing Radar
+subtitle:Forget self-driving cars—this is the robotic technology that the military wants to use.
+author:null
+title:DARPA Hopes Automation Can Create the Perfect Hacker
+subtitle:Seven Pentagon supercomputers are getting ready to attack one another.
+author:null
+title:DARPA’s New Neural Implant Has a Sneaky Way of Getting Inside Heads
+subtitle:Researchers implanted a “stentrode” to record activity in the brains of live sheep without having to cut open their skulls.
+author:null
+title:Google’s Skunkworks Loses Its Leader to Facebook—and Has Yet to Produce Any Hits
+subtitle:Google’s “pirate” research group is now leaderless, and none of the projects it has birthed have caught on at scale.
+author:Rachel Metz
+title:Facebook’s Live-Action Camera Systems Let You Take Steps in Virtual Places
+subtitle:New VR cameras will be great for live events and virtual tourism. Oh, and probably porn, too.
+author:null
+title:Why a Chip That’s Bad at Math Can Help Computers Tackle Harder Problems
+subtitle:DARPA funded the development of a new computer chip that’s hardwired to make simple mistakes but can help computers understand the world.
+author:null
+title:Company with Novel Photography Tech Tries to Make It Easier, Cheaper to Make 3-D Movies
+subtitle:Lytro, whose cameras let you change focus after the fact, will offer a professional camera for movies and TV.
+author:null
+title:Oculus’s Hand Controls Are Not Always So Handy in Virtual Reality
+subtitle:Hand controls coming next year from Facebook-owned Oculus are great at making you feel more immersed in virtual reality, but getting comfortable using them will take practice.
+author:null
+title:Oculus Founder Says He’s Focused on Time, Money Spent on VR Content
+subtitle:With its first consumer headset, Oculus’s Palmer Luckey will be watching how much people use it and how much they spend on content for it.
+author:null
+title:Blur-Proof Camera
+subtitle:null
+author:null
+title:An Internet of Treacherous Things
+subtitle:A zombie network of home routers highlights the importance of prioritizing smart appliance security.
+author:null
+title:Three Questions for Facebook CTO Mike Schroepfer
+subtitle:Facebook’s head of technology explains how VR will be social and why Oculus is unlikely to make a version of its headset that works with all kinds of smartphones anytime soon.
+author:null
+title:CES 2015: Unleash the Drones!
+subtitle:Prepare for takeoff. Unmanned aircraft are a rapidly growing category in consumer electronics.
+author:null
+title:CES 2015: Intel Demos a Button-Size Wearable Computer
+subtitle:The world’s largest chip maker, Intel, hopes an itty-bitty computer will mean better wearable gadgets.
+author:null
+title:CES 2015: The Internet of Just About Everything
+subtitle:At CES, where Internet-connected devices abound, Samsung says all its products will be connected by 2020.
+author:null
+title:A Startup’s Plans for a New Social Reality
+subtitle:AltspaceVR is building virtual hangouts that it hopes you’ll use to watch a movie with friends or play a game of life-size chess.
+author:null
+title:CES 2015: Wearables Everywhere
+subtitle:At the annual gadget show, wearable-device makers are moving beyond activity-tracking wristbands.
+author:null
+title:Instead of Google Glass, How About a Tiny Telescope?
+subtitle:As an alternative to the intrusiveness of some wearable computers, researchers present a small tube you hold up to your eye.
+author:null
+title:Sony Joins Virtual Reality Race with New Headset for PlayStation
+subtitle:Inspired by Oculus Rift, Sony is adding virtual reality to the PlayStation 4.
+author:null
+title:“Windroid” Arrives in First Nokia Android Phones
+subtitle:At Mobile World Congress, Nokia marries an Android OS with Microsoft services; while Yotaphone adds full-touch E-Ink displays to dual-screen phone.
+author:null
+title:The Numbers in the Microsoft-Nokia Deal Are Telling
+subtitle:Two deals in two days speak volumes about where the value in wireless technology comes from.
+author:null
+title:The Man Who Drew Up Sony’s Next Game Plan
+subtitle:Mark Cerny’s journey from 17-year-old Atari programmer to lead architect of Sony Computer Entertainment will define the next blockbuster games console.
+author:null
+title:Roundup: Sony's Security Woes
+subtitle:Sony reveals that the week-long outage of its PlayStation Network was due to a massive security breach.
+author:null
+title:How Microsoft Might Benefit from the Nokia Deal
+subtitle:If it can cleverly blend hardware and software in new ways, reach new markets, and take advantage of Nokia’s patent portfolio, Microsoft’s billions could be well spent.
+author:null
+title:PlayStation Phone: Innovator or Imitator?
+subtitle:Sony’s new phone is aimed at avid gamers, but it’s unlikely to challenge the iPhone.
+author:null
+title:Sony Stumbles, Microsoft Pounces in Console Wars
+subtitle:Sony’s PlayStation 3, beset by problems, could make Microsoft’s Xbox 360 the console of the future.
+author:Duncan Graham-Rowe
+title:A Camera Made from Many Produces Gigapixel Images
+subtitle:A research project shows how a revolutionary type of camera could be commercialized.
+author:null
+title:Silicon Chips That See Are Going to Make Your Smartphone Brilliant
+subtitle:Many gadgets will be able to understand images and video thanks to chips designed to run powerful artificial-intelligence algorithms.
+author:null
+title:Fingerprints Go the Distance
+subtitle:Scanning prints at two meters could mean safer security checks.
+author:null
+title:Training Computers to Combat Blindness
+subtitle:Web-connected cameras may help doctors detect a common eye disease.
+author:null
+title:Google Thinks It Has Cracked the VR Adoption Problem
+subtitle:It’s launching a high-end wireless headset and new software improvements that might finally make you want to try virtual reality.
+author:null
+title:Three Questions with Amazon’s Technology Chief, Werner Vogels
+subtitle:Amazon CTO Werner Vogels on how cloud computing is changing.
+author:null
+title:Will Untethered Headsets Like This One Help Reverse the VR Slump?
+subtitle:Startup Pico Interactive is building an affordable wireless headset that it says will go head-to-head with Oculus and HTC.
+author:Tom Simonite
+title:Facebook’s Perfect, Impossible Chatbot
+subtitle:Facebook is quietly trying to develop the most useful virtual assistant ever, in a project that illustrates the current limitations of artificial intelligence.
+author:null
+title:Facebook Lets Developers Build on Its Chat App
+subtitle:Facebook hopes that adding functionality like video sharing and shopping to Messenger will help it grow even as competition rises.
+author:null
+title:Real or Fake? AI Is Making It Very Hard to Know
+subtitle:Thanks to machine learning, it’s becoming easy to generate realistic video, and to impersonate someone.
+author:null
+title:VC Reid Hoffman on VC’s Evolution
+subtitle:Silicon Valley entrepreneur and investor Reid Hoffman wants venture capital to adapt to an era in which startups must grow faster.
+author:Will Knight
+title:An Algorithm Trained on Emoji Knows When You’re Being Sarcastic on Twitter
+subtitle:Understanding sarcasm could help AI fight racism, abuse, and harassment.
+author:null
+title:Twitter Says It’s Trying Three Things to Combat Trolls
+subtitle:For starters, once you’ve been banned for abusive content, you won’t be allowed back.
+author:null
+title:The President’s New Smartphone
+subtitle:Donald Trump has been forced to hand over his old phone for a more secure device—which might make tweeting a little harder.
+author:null
+title:The Pint-Sized Supercomputer That Companies Are Scrambling to Get
+subtitle:Dozens of organizations are shelling out $129,000 for a box that will help them train AI software.
+author:null
+title:Battle to Provide Chips for the AI Boom Heats Up
+subtitle:Chip maker Nvidia leads the race to power the machine-learning gold rush, but competition is coming from tech giants and startups.
+author:null
+title:Amazon and the CIA Want to Teach AI to Watch from Space
+subtitle:A trove of satellite data could teach software to track our trash from orbit.
+author:null
+title:Hailing a Different Ride in Austin
+subtitle:Following a bruising political battle, Uber and Lyft pulled out of Austin, Texas, making room for new forms of ride-sharing.
+author:null
+title:Lyft’s Driverless Pipe Dream
+subtitle:Getting car-service vehicles to drive themselves in the next five years will require huge improvements in a technology that is very far from being finished.
+author:null
+title:This Is How Americans Really Feel About Uber and Lyft
+subtitle:A new report shows that 15 percent of Americans have used ride-hailing services, but more than twice as many have never heard of them.
+author:null
+title:Inside Facebook’s Artificial Intelligence Engine Room
+subtitle:These are the new computers Facebook created to accelerate its machine learning research.
+author:null
+title:Why Intel’s Job Cuts May Be Just the Beginning
+subtitle:The once-dominant chipmaker is cutting 12,000 workers, and several emerging technological trends may cause even more difficulty.
+author:null
+title:A Gadget for Spotting Fake Viagra, and Other Counterfeit Pills
+subtitle:Startup Stratio says its small spectrometer can attach to your smartphone and figure out which pills are the real deal.
+author:null
+title:Why the Father of the Consumer Internet Invests in E-Commerce
+subtitle:Steve Case brought the Internet to Main Street. Now he wants everyone to open an online store.
+author:null
+title:Why All Local News Aggregators Seem Destined to Fail
+subtitle:Most local news is an confusing mess; mashing it all into one place doesn’t solve that problem
+author:null
+title:Money Seeks Idea
+subtitle:Businesses are adapting their R&D spending to the idea that innovation can come from anywhere.
+author:Rachel Metz
+title:You've Got Mail Overload
+subtitle:AOL tries to solve “in-box fatigue” by reimagining e-mail organization.
+author:null
+title:Verizon’s Risky Bet on AOL’s Ad Business
+subtitle:Verizon’s proposed acquisition of AOL looks promising on paper, but the devil is in the details.
+author:null
+title:Jonathan Miller, chief executive officer of AOL, on the future of rich media
+subtitle:null
+author:null
+title:Can Twitter Fix Its Harassment Problem without Losing Its Soul?
+subtitle:Harassment has become a major issue online. Twitter’s efforts to crack down on problem users might suggest a broader solution.
+author:Tom Simonite
+title:The War on the Disturbingly Real Trolls in Virtual Reality
+subtitle:When you feel like you really are inside a virtual body, protecting your personal space is important.
+author:null
+title:Why the World Needs Anonymous
+subtitle:There’s a noble imperative behind not revealing who you are.
+author:Rachel Metz
+title:Confessional in the Palm of Your Hand
+subtitle:Sure, people say some nasty things in anonymous apps, but the good far outweighs the bad.
+author:null
+title:The Dawn of Genome Trolling
+subtitle:Putting genome data into the public domain advances science, but nearly all of it can be linked to someone.
+author:Rachel Metz
+title:Three Weeks with a Chatbot and I’ve Made a New Friend
+subtitle:It’s not quite , but an artificially intelligent chatbot from an app called Hugging Face elicits surprisingly real emotions.
+author:null
+title:Tesla’s Cheaper Model 3 Could Strain Charging Infrastructure
+subtitle:The more-affordable Tesla Model 3, to be unveiled Thursday, is projected to sell in huge numbers. But will there be enough places to charge them?
+author:null
+title:Pay Attention! Tesla’s Autopilot Will Lock Out Lackadaisical Drivers
+subtitle:Several accidents involving Tesla’s driver-assist feature have prompted some changes.
+author:null
+title:Tesla’s Biggest Edge in Chasing Autonomy Is Treating Drivers Like Guinea Pigs
+subtitle:If the Tesla Model 3 offers full autonomy, Elon Musk will be betting on his customers’ appetite for driving around with technology that’s still very much in beta testing.
+author:null
+title:Why Google’s Self-Driving Bubble Cars Might Catch On
+subtitle:The compact, speed-limited vehicles being tested by Google might have a better chance at success than automated versions of conventional cars.
+author:null
+title:Is Now a Good Time to Meet Your New Virtual Assistant?
+subtitle:My virtual helper can be surprisingly lifelike, but she’s obsessed with meetings.
+author:MIT TR Editors
+title:The Tricky Challenge of Making Machines That “See”
+subtitle:A 1968 story from our archives takes a look at the early work in artificial intelligence by Marvin Minsky.
+author:null
+title:Google’s Research Boss on Turning Exploration into Products
+subtitle:Google’s head of research and machine intelligence says that the company turns breakthroughs in artificial intelligence into products faster than ever.
+author:null
+title:Is Google Cornering the Market on Deep Learning?
+subtitle:A cutting-edge corner of science is being wooed by Silicon Valley, to the dismay of some academics.
+author:null
+title:Cycorp: The Cost of Common Sense
+subtitle:How do you survive when it could take decades to build your product?
+author:null
+title:Facebook Creates Software That Matches Faces Almost as Well as You Do
+subtitle:Facebook’s new AI research group reports a major improvement in face-processing software.
+author:Will Knight
+title:A Transformer Wins DARPA’s $2 Million Robotics Challenge
+subtitle:A robot capable of rolling on four wheels or walking on two legs shows the value of adaptability during the DARPA’s robot event.
+author:null
+title:Ditching the Transmission Allowed Honda’s Accord Hybrid to Hit 50 MPG
+subtitle:Honda’s Hybrid Accord uses electric motors in lieu of all but one gear.
+author:null
+title:Care for Home Solar Panels with Your Honda?
+subtitle:Honda signs on installer SolarCity to offer new car buyers an option to have home solar panels financed by Honda.
+author:null
+title:Honda Flies A Fuel-Efficient Jet Prototype
+subtitle:A unique shape made possible by composites helps cut fuel consumption while allowing faster speeds.
+author:null
+title:Road Repair via Crowdsourcing
+subtitle:A contest could help make Boston’s pothole-spotting smart-phone app more accurate.
+author:null
+title:Hybrids versus Electric Cars
+subtitle:GM is on the hybrid bandwagon while other automakers continue to argue against it.
+author:null
+title:Robert Scoble's Opinions on EmTech08
+subtitle:The managing director of FastCompany.tv and a conference speaker gives his thoughts.
+author:null
+title:How Facial Recognition Tech Could Help Trace Terrorism Suspects
+subtitle:The FBI could use software to help identify suspects, and more advanced techniques are around the corner.
+author:Elizabeth Woyke
+title:How a Wireless Sensor System in the Busiest City Intersections Can Save Lives
+subtitle:Verizon has devised a system of cameras, sensors, and algorithms that can track the number of times cars fail to yield to bicyclists and pedestrians at a particular intersection.
+author:null
+title:Reading Baby Brains
+subtitle:New software and hardware opens a window into babies’ developing brains.
+author:null
+title:EmTech Digital: Design Is What Differentiates Tech Companies Today
+subtitle:At leading tech companies, design is now much more than just figuring out how a new product will look, says influential author and designer John Maeda.
+author:Allison Arieff
+title:New Forms That Function Better
+subtitle:Design software helps architects create grand projects with fanciful forms. It’s time to put the technology to better use.
+author:null
+title:Getting to Bono: A Cover History
+subtitle:A portrait of the U2 frontman wasn’t our first pick for the cover of the January/February issue. But as the magazine came together, it seemed the clear choice. Here’s how it happened.
+author:null
+title:DARPA Wants to Remake Manufacturing
+subtitle:The military research agency hopes to design and build an amphibious tank from scratch in three years.
+author:null
+title:Re:Design
+subtitle:A look inside our new graphic identity system.
+author:null
+title:Why Only Designers Can Create New Programming Languages
+subtitle:Attempts to verify the utility of languages stifle innovation.
+author:null
+title:What if ATM Machines Were Built by Interaction Designers? [Video]
+subtitle:A concept ATM machine reminds us that cash dispensers have changed hardly at all since their introduction
+author:null
+title:How Armbands Can Translate Sign Language
+subtitle:A research project looks at how gesture-recognition armbands can help the hearing impaired communicate more easily with those who don’t understand sign language.
+author:null
+title:Review: What It’s Like to Have Super Hearing Abilities
+subtitle:With Here earbuds from Doppler Labs, you’re in control of your aural environment, and it’s pretty sweet.
+author:null
+title:The Coming Wave of Bionic Hearing Gadgets
+subtitle:Startups like Doppler Labs are building earbuds that will let you turn down the volume on crying babies and pump up the bass on live music.
+author:null
+title:Virtual Reality Advertisements Get in Your Face
+subtitle:Some companies see virtual and augmented reality as a way to make money from a new type of ads.
+author:null
+title:An Activity Tracker for Seniors
+subtitle:By tracking an older person’s movements at home, a new wearable device could help predict serious changes in health.
+author:null
+title:An Air-Quality Monitor You Take with You
+subtitle:Startup Chemisense is developing a wearable chemical sensor that could help asthma sufferers avoid attacks.
+author:null
+title:Artificial Pancreas Is First To Raise $1 Million Under New Crowdfunding Rules
+subtitle:When Beta Bionics needed idealistic investors it found them on the Web.
+author:null
+title:Crowd Investing Is the New Way to Finance Technology Development
+subtitle:Now private companies can try to raise funds from the public at large.
+author:null
+title:Mosaic Crowdfunds Solar, Starting at $25 a Pop
+subtitle:Startup Mosaic goes live with a group financing service to provide money for small-scale solar projects.
+author:null
+title:The Innovator Gap
+subtitle:The world’s most potent technologists are stranded in today’s innovation ecosystem.
+author:Elizabeth Woyke
+title:Investors Go Where Trump Won’t: To Immigrant Entrepreneurs
+subtitle:A new crop of venture capitalists is specifically backing companies that have international founders.
+author:Antonio Regalado
+title:What Technologies Will Crowdfunding Create?
+subtitle:Super-users, hobbyists, and gadget fans are investing in innovations they want, and creating a new generation of entrepreneurs along the way.
+author:Katherine Igoe
+title:Atish Babu ’00
+subtitle:Investing in sustainable agriculture.
+author:null
+title:Ed Roberts ’57, SM ’58, SM ’60, PhD ’62
+subtitle:Pioneering entrepreneurship at MIT
+author:Christina Larson
+title:The Best and Worst Internet Experience in the World
+subtitle:Mobile innovation in China is flourishing, bringing new conveniences to daily life. Is that happening despite or because of the country’s strict controls on online expression?
+author:null
+title:Y Combinator’s Cofounder Talks about the Challenges of Being a Female Entrepreneur
+subtitle:Jessica Livingston has worked to encourage more female-led startups to join the incubator’s ranks, but she says it’s still tough for women to get funding.
+author:null
+title:Better Lithium-ion Batteries
+subtitle:A startup says its solid polymer electrolytes will mean cheaper, more-reliable batteries.
+author:null
+title:One Tablet per Child
+subtitle:OLPC may drop “$100 laptop” in an attempt to develop an innovative $75 tablet computer.
+author:null
+title:Like Microsoft, Google Wants to Sell You a Tablet with a Detachable Keyboard
+subtitle:Google plans to sell a tablet computer that uses magnets to connect to a keyboard, in hopes of keeping you from cracking open your laptop.
+author:null
+title:The $20 Laptop that Wasn't
+subtitle:India’s gadget looks more like a modem.
+author:null
+title:Doubts over India's $20 Laptop
+subtitle:The super-cheap laptop project meets with widespread skepticism.
+author:null
+title:HP's Longer-Lasting Laptop Battery
+subtitle:The new battery, developed by the startup Boston-Power, will be available next year.
+author:null
+title:Michal Depa, SM ’11
+subtitle:Entrepreneur wields smartphones against chronic disease
+author:Jamie Condliffe
+title:Constant Phone Checkers Are Totally Strung Out
+subtitle:People who admit to relentless refreshing of e-mail and social media report far higher stress levels.
+author:null
+title:Your Brain Limits You to Just Five BFFs
+subtitle:The number of people we can have meaningful contact with is limited by the size of our brains. Now this group seems to be subdivided into layers, say anthropologists.
+author:null
+title:Technology-Induced Distracted Driving Is Pushing Up Insurance Prices
+subtitle:Smartphones are driving premiums upward—and semi-autonomous driving systems may do the same.
+author:Elizabeth Woyke
+title:The Next Must-Have Smartphone Feature
+subtitle:Google’s new location-sensing system will make augmented reality far more useful.
+author:null
+title:Facebook Wants You to Chat with Business Bots
+subtitle:Forget calling customer service. Your next interaction with a business might be inside Facebook’s messaging service.
+author:null
+title:Google’s Plan to Use Android Phones to Dominate Virtual Reality
+subtitle:Google’s Daydream platform is its answer to the Oculus and Gear VR headsets.
+author:null
+title:Amazon Hopes Its New Tablets Are So Cheap You’ll Buy Several
+subtitle:As tablet sales slow, Amazon sees a way to widen its share: by enticing ultra-budget-minded buyers.
+author:null
+title:Intel and Microsoft Are Teaming Up to Make Virtual Reality Ubiquitous
+subtitle:A new headset design from Intel brings your hands into virtual spaces.
+author:null
+title:Lessons Learned
+subtitle:After a disastrous technology rollout in Los Angeles, schools reassess their priorities.
+author:null
+title:Intel Says Laptops and Tablets with 3-D Vision Are Coming Soon
+subtitle:Your next laptop or tablet may have 3-D sensors that let it recognize gestures or augment a real scene with virtual characters.
+author:null
+title:Shape-Shifting Touch Screen Buttons Head to Market
+subtitle:An iPad accessory launching later this year will bring transparent morphing buttons to the device’s screen to aid touch-typing.
+author:null
+title:In Pursuit of an Affordable Tablet for the Blind
+subtitle:By borrowing from microfluidics, a team of University of Michigan researchers are reinventing the Braille display to be cheaper and more useful.
+author:null
+title:Google Launches a Dongle to Bring Online Video to TV
+subtitle:Phones, tablets, and PCs can play online video on a TV set using Google’s cheap Chromecast device.
+author:null
+title:Sniffing Radio-Frequency Emissions to Secure the Internet of Things
+subtitle:Monitoring the usual behavior of Internet-connected devices could make it possible to detect malicious activity.
+author:null
+title:CES 2014: Intel’s 3-D Camera Heads to Laptops and Tablets
+subtitle:Controlled with gestures, these depth-sensing devices will appear in the second half of 2014.
+author:null
+title:Pokémon Go’s Breakout Success Has Implications for the Real World, Too
+subtitle:Nintendo’s mega-popular new game shows that augmented reality may yet trump virtual reality.
+author:null
+title:Is Samsung’s Galaxy Gear the First Truly Smart Watch?
+subtitle:Samsung’s new smart watch may be the most polished effort yet—but that doesn’t mean it’ll be a hit.
+author:null
+title:Nintendo Plans Glasses-Free 3D Console
+subtitle:“3DS” handheld system will be one of the first 3-D devices to work without special glasses.
+author:null
+title:Samsung Weans Itself From Android—at Least for Smart Watches
+subtitle:Samsung’s new Galaxy Gear smart watches will have longer battery lives in part thanks to the highly customized Tizen operating system.
+author:null
+title:Why Microsoft’s Next CEO Should Break Up the Company
+subtitle:Microsoft’s too bloated to innovate. Busting it up into specialized companies would solve that problem nicely.
+author:null
+title:More Empathy for Windows Users
+subtitle:Windows 8 launches to mixed reviews and the guy who oversaw it steps down.
+author:null
+title:Android, Windows Be Damned: The Tablet Market Isn’t Changing
+subtitle:Despite huge growth and Windows making a comeback, the tablet market really won’t change all that much in the coming years.
+author:null
+title:The Changing Face of Security: Android Overtakes Windows As Top Threat
+subtitle:A report shows that a higher percentage of Android devices are targeted by hackers than Windows machines.
+author:null
+title:App Ruins Your iPad by Running Windows on It
+subtitle:OnLive streams apps to tablets rather than running them locally
+author:null
+title:Nokia Rolls the Dice with Windows Devices
+subtitle:With modest hardware, Nokia’s new phones may struggle to stand out.
+author:null
+title:Android or Windows? Now You Don't Have to Choose
+subtitle:A startup lets smart-phone apps run as fast as normal on a PC or laptop.
+author:null
+title:Cheaper Color-Changing Window
+subtitle:Thin, battery-like films change color when the weather changes.
+author:null
+title:Why Windows 7 May be Microsoft's Last PC Operating System
+subtitle:Sneak peeks suggest the next edition of Microsoft’s PC operating system will also have to work well on mobile devices.
+author:null
+title:Single-Pixel Camera Reaches Milestone, Mimicking Human Vision
+subtitle:Animals have the ability to produce a higher resolution in parts of their field of view. Now physicists can do the same with a single pixel imaging system.
+author:null
+title:Moblin: A Netbook OS to Watch
+subtitle:Intel’s Linux-based netbook operating system gives Windows a run for its money.
+author:null
+title:Bendy Lenses Will Change Everything about Cameras As We Know Them
+subtitle:Flexible sheet-like lenses could lead to cameras that wrap around your car—or just about anything else.
+author:null
+title:A High-End Camera in a Small Package
+subtitle:Startup Light says its L16 will replace a fancy camera and lenses for a third the cost and fit easily into your bag, too.
+author:null
+title:Using Deep Learning to Make Video Surveillance Smarter
+subtitle:Startup Camio is drawing on neural networks to better identify who—or what—is outside your door.
+author:null
+title:Erase Obstructions from Photos with a Click
+subtitle:Researchers at Google and MIT came up with an algorithm that could make taking pictures of obstructed scenes like taking a panoramic photo.
+author:null
+title:An Optical Trick Makes Disappearing Messages Harder to Screenshot
+subtitle:An app called Yovo uses a clever trick to make it hard to preserve its ephemeral messages.
+author:null
+title:Lenses That Move Sideways Could Improve Smartphone Snaps
+subtitle:Startup DynaOptics uses lenses that move from side to side, rather than forward and backward, for a high-quality optical zoom in smartphones.
+author:null
+title:Lasers Made from Human Cells
+subtitle:Living lasers might transmit information about health and disease. They are also just plain cool.
+author:null
+title:MRI Reveals Tarantula's Double Beating Heart
+subtitle:Studying live animals via MRI can shed new light on their biology.
+author:null
+title:The Human Body, Searchable in 3-D
+subtitle:A new tool lets people see the inside of the body up close and in great detail.
+author:null
+title:Images of a Hard-Hitting Disease
+subtitle:Advanced imaging techniques could help diagnose the degenerative brain disease linked to repetitive head trauma.
+author:null
+title:A Search Engine for the Human Body
+subtitle:Microsoft software recognizes organs and other structures in medical images.
+author:null
+title:FDA Panel Supports New Diagnostic Tool for Alzheimer's
+subtitle:Doctors may soon have access to a tool to detect signs of the disease in the living brain.
+author:null
+title:Light-Based Therapy Destroys Cancer Cells
+subtitle:The new approach, which features a heat-sensitive fluorescent dye, could eventually replace standard chemotherapy.
+author:null
+title:An Eyeball Camera, Now with Zoom
+subtitle:Cameras built using flexible electronics could find many uses.
+author:Rachel Metz
+title:Can This Dumb Phone Free Us from Smartphone Addiction?
+subtitle:The Light Phone lets you make and receive calls—and that’s it.
+author:null
+title:Your Smartphone Can Tell If You’re Bored
+subtitle:A group of researchers looked at how people used their phones to figure out when they were bored, then suggested they go read a BuzzFeed article.
+author:null
+title:A Different View from the Top of the World
+subtitle:Eighty years ago, George Mallory climbed Everest “because it is there.” Now he might also cite the ability to keep playing FarmVille during the trek.
+author:null
+title:Gesture Control for Devices
+subtitle:Technology from the University of Tokyo lets users control a phone without touching it.
+author:null
+title:The Stranger Side of CHI 2009
+subtitle:Some of the odder inventions demoed at the Computer-Human Interaction Conference.
+author:null
+title:SXSW: Allowing Ordinary Webcams to Track your Gaze
+subtitle:That small camera over your screen knows where you’re looking.
+author:null
+title:Smartphone Movements Could Reveal Empty Parking Spots
+subtitle:Researchers say “pocketsourcing” could let you find parking spots easily, without requiring cities to add spot sensors.
+author:null
+title:Toward a More Social Sense of Place
+subtitle:A new crop of location-based services for mobile devices will encourage users to interact more.
+author:null
+title:SXSW: How Games Will Shape the Future
+subtitle:SCVNGR’s Seth Priebatsch outlines a vision for gaming that goes far beyond “checking in.”
+author:null
+title:SXSW: What's the Future of Content?
+subtitle:Could producing a Web series be a better investment than buying ads?
+author:null
+title:Will Spotify Be Fair to Artists?
+subtitle:Daniel Ek dodged the question during a keynote interview at South By Southwest Interactive.
+author:null
+title:HTML 5 Could Challenge Flash
+subtitle:New browser technologies may reduce the need for Adobe’s ubiquitous plug-in.
+author:null
+title:A New and Improved Moore's Law
+subtitle:Under “Koomey’s law,” it’s efficiency, not power, that doubles every year and a half.
+author:null
+title:App-Specific Processors to Fight Dark Silicon
+subtitle:A processor designed around Android’s most-used apps could significantly extend the lives of smart-phone batteries.
+author:null
+title:SXSW: Twitter Announces "@anywhere" Platform
+subtitle:It will give partners access to more Twitter data.
+author:null
+title:One-Cubic-Millimeter Computer
+subtitle:A prototype sensor consumes just a few nanowatts and could someday take pressure readings from the eye.
+author:null
+title:The Botnets That Won't Die
+subtitle:New communications schemes could make zombie PC networks far harder to shut down.
+author:null
+title:Lie Detection
+subtitle:To a few human experts, our faces are open books. Now computer technology automates those abilities.
+author:null
+title:Bypassing Windows with a Quick Boot
+subtitle:Presto loads a Web browser and other software in seconds.
+author:null
+title:Stretchable Displays
+subtitle:An elastic conductor makes possible cheap, conformable displays.
+author:null
+title:Energy Demands of Networked Devices Skyrocket
+subtitle:As the Internet of things grows to encompass billions of devices, its power usage will require novel technologies for improving efficiency.
+author:null
+title:Two New Tools for Self-Tracking
+subtitle:A super-watch and sensors that track how often you brush your teeth and walk the dog—among other things.
+author:null
+title:First Impressions: Better than the iPad
+subtitle:Our first impression: It’s better than the iPad.
+author:null
+title:Why Google Wants Motorola
+subtitle:Besides an impressive patent portfolio, Motorola will give Google greater control over the future of the mobile Web.
+author:null
+title:The iPad Has Not Changed My Life
+subtitle:Apple’s “magical and revolutionary” device is quite a good e-reader, though.
+author:null
+title:Simple Yet Smart Cubes Go On Sale
+subtitle:Sifteo is taking pre-orders for its sensor-filled blocks.
+author:null
+title:Logging on with Hardware
+subtitle:Many users like using devices for authentication. But is it safe?
+author:null
+title:Personal Medical Monitoring
+subtitle:Keeping tabs on your vitals with Microsoft HealthVault.
+author:null
+title:Stealthier Mac Attacks
+subtitle:A new technique lets hackers targeting Apple’s OS X cover their tracks more effectively.
+author:null
+title:HP Sees Cloudy Skies Ahead
+subtitle:Can the world’s biggest PC maker introduce cloud computing to the masses?
+author:null
+title:Cooling Chips with an Ion Breeze
+subtitle:By using an electric charge to put molecules in motion, a new device can make a computer’s fans more efficient.
+author:null
+title:The Big Picture, Made Easy
+subtitle:New software makes it easier to manipulate and share images.
+author:null
+title:Microsoft Is Looking Like the New Apple
+subtitle:A pair of events this week suggest one company is charging ahead, while the other is stuck in a product rut.
+author:null
+title:Review: Apple's New Operating System
+subtitle:MacOS 10.5 offers easy file recovery, effective parental controls, and a host of clever, smaller features.
+author:null
+title:Vista vs. OS X?
+subtitle:We want to hear from readers.
+author:null
+title:Nano Switches that Store More Data Head to Market
+subtitle:Products featuring memristors could appear in 2013.
+author:null
+title:IBM Makes Revolutionary Racetrack Memory Using Existing Tools
+subtitle:Racetrack memory could someday supersede flash in terms of density and cost.
+author:null
+title:Adobe Fights to Keep Flash Vital
+subtitle:Announcements at its developer conference are aimed to show its customers that it can still deliver a broad audience.
+author:null
+title:New Adobe Software Blurs Lines between Code and Design
+subtitle:But the launch is soured by news from Apple.
+author:null
+title:Memristor Memory Readied for Production
+subtitle:HP plans new nonvolatile memory for 2013.
+author:null
+title:Google Squeezes Flash into Chrome
+subtitle:The move is part of an effort to let browsers and plug-ins interact more easily.
+author:null
+title:Cheap, Plastic Memory for Flexible Devices
+subtitle:A new type of flash could be used in e-readers.
+author:null
+title:Ultradense, 3-D Data Storage
+subtitle:Chips that use graphite show promise for storing more bits than flash memory.
+author:null
+title:This Gadget Can Tell What’s Wrong with Your Air Conditioner by Listening to It
+subtitle:Augury’s gadget and iPhone app pay attention to ultrasonic sounds and vibrations to figure out what’s wrong with air conditioners and other big machines.
+author:null
+title:Fearsome Machines: A Prehistory
+subtitle:A time line of what happened when in the history of artificial intelligence.
+author:null
+title:Flash Forward for Mobile
+subtitle:Adobe announces a full Flash player for netbooks and smartphones, but not for the iPhone.
+author:null
+title:Seamlessly Melding Man and Machine
+subtitle:Tiny implants that connect to nerve cells could make it easier to control prosthetic limbs.
+author:null
+title:Plug-and-Play Medicine
+subtitle:A step toward letting medical devices communicate.
+author:null
+title:Regenerating Teeth, and Maybe Other Body Parts, with Light
+subtitle:Low-power lasers could be a simple, cheap way to coax tissues to repair themselves.
+author:Will Knight
+title:Robot Cars Can Learn to Drive without Leaving the Garage
+subtitle:Playing video games and surfing Google Street View can teach software a lot about driving.
+author:null
+title:Laser Erasers Gently Remove Ink from Paper
+subtitle:The trick could reduce the carbon emissions and energy usage associated with recycling paper.
+author:null
+title:Solar Cells that See Red
+subtitle:Metamaterials that convert lower-energy photons to usable wavelengths could offer solar cells an efficiency boost.
+author:null
+title:First Results from the Search for Extraterrestrial Laser Activity Around Other Stars
+subtitle:If civilizations on other planets are pointing lasers in our direction, either deliberately or inadvertently, this survey will have spotted them.
+author:null
+title:Bringing a Whole New Meaning to 'High-Speed Internet'
+subtitle:Researchers push a staggering 100 terabits of data per second through an optical fiber.
+author:null
+title:Light-Emitting Rubber Could Sense Structural Damage
+subtitle:The new type of sensor could be an early warning system for bridges and buildings under stress.
+author:null
+title:Audi’s New A8 May Drive Itself, But Owners Should Proceed with Caution
+subtitle:Even with laser sensors and safety measures in place, the car will still be susceptible to unpredictable events.
+author:null
+title:Augmented Light Bulb Turns a Desk Into a Touch Screen
+subtitle:A computer that can be screwed into a light socket can project interactive images onto any nearby surface.
+author:null
+title:Laser-Quick Data Transfer
+subtitle:Researchers learn how to make lasers directly on microchips—the result could be computers that download large files much more quickly.
+author:null
+title:The "Bring Your Own Device" Policy
+subtitle:Security and freedom can clash when companies decide which smart phones their workers can use.
+author:null
+title:Wireless Technology Could Slash Health-Care Costs
+subtitle:Sensing and monitoring devices are crucial for keeping long-term hospital expenses down.
+author:null
+title:Corporations Going Totally Wireless
+subtitle:Mobile broadband services are becoming competitive with fixed data links—which means businesses should be able to cut their wired connections.
+author:null
+title:Augmented Reality Lacks Bite for Marketers
+subtitle:Companies are experimenting with adding AR layers to real-world scenes. So far, it’s not doing much to boost business.
+author:null
+title:Introduction: How Mobile Is Your Enterprise?
+subtitle:All this month, we’ll explore questions about how mobile computing will transform what companies do and how they do it.
+author:null
+title:A Connection between Cell Phones and Cancer Has Been Found. Should We Be Worried?
+subtitle:Cell-phone radiation appears to cause an uptick in two types of cancer in rats, but don’t go throwing your phone out the window just yet.
+author:null
+title:Uber’s Pittsburgh Project Is a Crucial Test for Self-Driving Cars
+subtitle:The technology is being rapidly commercialized, though safety issues have yet to be settled.
+author:null
+title:Deep Learning Squeezed Onto a Phone
+subtitle:Artificial-intelligence software can make phones better at tracking your workouts and emotions.
+author:null
+title:Your Next Wallet Is Calling
+subtitle:“Contactless” hardware lets phones and gadgets pay with a tap, but the coming plethora of apps that use it may confuse users.
+author:null
+title:3-D Models Created by a Cell Phone
+subtitle:With a few snapshots, you can build a detailed virtual replica.
+author:null
+title:Mobile Networks Move Indoors
+subtitle:Miniature cell-phone towers can improve patchy coverage and provide super-fast data speeds.
+author:Rachel Metz
+title:When Smartphones Become Too Addictive, Stylish Dumb Phones Offer a Respite
+subtitle:Feeling distracted and exhausted by constant connectivity? Maybe you need one more gadget.
+author:null
+title:Cell Phones Make a Touch Surface Smarter
+subtitle:A new system identifies users by their mobile phones.
+author:null
+title:Theresa May Wants to End “Safe Spaces” for Terrorists on the Internet. What Does That Even Mean?
+subtitle:In the wake of the U.K.’s most recent terrorist attacks, its prime minister is talking tough on Internet regulation, but what she’s suggesting is impractical.
+author:null
+title:A Cell-Phone Network without a License
+subtitle:A trial system offers calling, texting, and data by weaving signals around the chatter of baby monitors and cordless phones.
+author:null
+title:The U.K. Pleads with Congress to Change an Outdated Privacy Law to Help Fight Terrorism
+subtitle:Updating the Electronic Communications Privacy Act, which governs law enforcement access to data, would also help U.S. investigators.
+author:null
+title:The Trump Administration May Soon Have New Powers to Destroy Drone “Threats”
+subtitle:Officials say it shouldn’t be illegal for the government to track and shoot down drones it deems threatening.
+author:null
+title:Is Facebook Targeting Ads at Sad Teens?
+subtitle:The social network appears to leverage sensitive user data to aim ads at teenagers who say they feel “anxious” and “worthless.”
+author:null
+title:Google Now Tracks Your Credit Card Purchases and Connects Them to Its Online Profile of You
+subtitle:The search giant wants to know how online ads translate into offline sales, but says it is taking steps to ensure users’ privacy isn’t breached.
+author:Mike Orcutt
+title:100 Days in, Few Clues about Trump’s Tech Agenda
+subtitle:We’re even more confused about President Trump’s stances on pressing technology policy issues today than we were on inauguration day.
+author:Mike Orcutt
+title:Personal AI Privacy Watchdog Could Help You Regain Control of Your Data
+subtitle:If regulators aren’t going to help consumers make sense of what companies are doing with their data, maybe artificial intelligence can.
+author:Stacey Higginbotham
+title:Qualcomm Wants Your Smartphone to Have Energy-Efficient Eyes
+subtitle:This power-sipping image sensor uses computer vision to help you unlock your phone.
+author:null
+title:Five Ways Apple Should Spend Its $76 Billion
+subtitle:If you had more money than the U.S. government, what would you spend it on?
+author:null
+title:This Technology Is About to Revolutionize Beer-Making
+subtitle:The formation and collapse of tiny bubbles dramatically changes the chemistry, engineering, and cost of beer-making.
+author:null
+title:Obama: Technology Will Save the Country
+subtitle:Did Obama’s State of the Union speech include more mentions of technology than any other president’s?
+author:null
+title:Can the Kremlin's Silicon Valley Succeed?
+subtitle:Russia has a wealth of engineering talent, but needs to put a lot more in place.
+author:null
+title:America's First CTO?
+subtitle:Cisco’s Padmasree Warrior tells us what role a U.S CTO should play.
+author:null
+title:The Internet of Cars Is Approaching a Crossroads
+subtitle:Wireless vehicle networks could make driving safer and more efficient, but the cost of deployment will be significant.
+author:null
+title:Singapore Wants a Driverless Version of Uber
+subtitle:Singapore plans to let anyone test driverless cars in one of its busy neighborhoods in 2015.
+author:null
+title:From the President: Resolving to Solve
+subtitle:MIT’s problem-solving platform takes on pressing global challenges.
+author:null
+title:#SolveMIT Coverage
+subtitle:News and views from Solve at MIT, where technologists, researchers, investors, and other leaders are sharing ideas on how to solve the world’s greatest problems.
+author:null
+title:Salty Solution for Energy Generation
+subtitle:Battery draws power from salinity difference between freshwater and saltwater.
+author:null
+title:A Guide to Recent Battery Advances
+subtitle:Battery breakthroughs could lower costs and improve performance for electric vehicles and renewable energy storage–but commercializing these new technologies will be challenging.
+author:null
+title:How Wi-Fi Drains Your Cell Phone
+subtitle:A study finds problems, but also offers software fixes that could help cell phones last significantly longer between charges.
+author:null
+title:Intel Prototypes Low-Power Circuits
+subtitle:Chips that let errors happen, then correct them, use less power overall.
+author:null
+title:Using CO to Extract Geothermal Energy
+subtitle:Carbon dioxide captured from power plants could make geothermal energy more practical.
+author:null
+title:High-Performance Electronics without the High Price
+subtitle:A method for printing exotic semiconductors brings down the cost of high-performance solar cells and microchips.
+author:null
+title:New Diesel Engine Emits Cleaner Fumes
+subtitle:Design cuts pollution–but is it practical?
+author:null
+title:Supercritical Fuel Injection
+subtitle:A supercritical diesel engine could increase efficiency and cut emissions.
+author:null
+title:A Fuel-Sipping Engine
+subtitle:An engine from Lotus and Continental Powertrain consumes 15 percent less fuel.
+author:null
+title:A More Efficient Ethanol Engine
+subtitle:An “adaptive” engine promises to make ethanol more competitive.
+author:null
+title:Hybrids Powered by Air
+subtitle:Storing energy with compressed air, rather than batteries, could cut the cost of hybrid vehicles.
+author:null
+title:High-Efficiency Generators for Hybrid Vehicles
+subtitle:Free-piston engines could be used to generate electricity as efficiently as, and less expensively than, fuel cells.
+author:null
+title:Proceed with Caution
+subtitle:A promising technique for synthetic biology is fraught with risks.
+author:null
+title:Motorized Pants to Help Soldiers and Stroke Victims
+subtitle:A soft, lightweight exoskeleton developed at Harvard applies assistive force without interfering with a person’s normal gait.
+author:null
+title:Electronic Inks Make 3-D Printing More Promising
+subtitle:A startup called Voxel8 is using materials expertise to extend the capabilities of 3-D printing.
+author:null
+title:How to Predict Success for IVF
+subtitle:A new technique can determine which fertilized eggs will reach a crucial step in development.
+author:null
+title:Could New Oil Production Cause Oil Prices—and Energy Innovation—to Collapse?
+subtitle:A Harvard researcher says unparalleled investment in oil exploration is creating a boom in supply, and that could hurt the development of oil alternatives.
+author:null
+title:Stem Cell Funding Restricted Once Again
+subtitle:A federal ruling temporarily blocks expanded funding for embryonic stem cell research.
+author:null
+title:The Most Important Education Technology in 200 Years
+subtitle:Students anywhere are being offered free instruction online. What will that do to the trillion-dollar education business?
+author:null
+title:A Source of Men's Stem Cells
+subtitle:Stem cells from human testes could be used for personalized medicine.
+author:null
+title:How a Tumor Is Like an Embryo
+subtitle:Pioneering cancer researcher Robert Weinberg says that deadly secondary tumors happen when cancer cells don’t act their age.
+author:null
+title:New Court Ruling Could Cripple Stem-Cell Research
+subtitle:Once again, federal funding restrictions cast uncertainty over the field.
+author:null
+title:The Fingerprints of Embryos
+subtitle:Using DNA fingerprinting, researchers strive to improve in vitro fertilization.
+author:null
+title:Repaired Stem Cells Treat Liver Disease in Mice
+subtitle:Scientists corrected a genetic error in stem cells from patients with liver disease, and implanted those cells in the livers of mice.
+author:null
+title:Reprogrammed Stem Cells Are Rife with Mutations
+subtitle:The findings cast doubt on a promising alternative to the use of embryonic stem cells in medicine.
+author:null
+title:Stem-Cell Engineering Offers a Lifeline to Endangered Species
+subtitle:A technology used to develop new medical treatments might one day revive endangered or extinct species.
+author:null
+title:Helping the Brain to Help Itself
+subtitle:Transforming support cells in the brain into neurons might one day help repair damage from stroke or injury.
+author:null
+title:Old Livers Made New Again
+subtitle:Unhealthy organs provide a framework for growing replacement ones.
+author:null
+title:Rewinding the Clock for Aging Cells
+subtitle:Cells from people with premature aging disease get “younger” with the help of stem cell technology.
+author:null
+title:Skin Cells Grown into a Mouse
+subtitle:Reprogrammed cells pass the ultimate test of flexibility.
+author:null
+title:Reprogrammed Human Cells Shed Light on Rare Disease
+subtitle:A new study uses induced pluripotent stem cells to investigate a neurological disease and test drugs.
+author:null
+title:Skin Cells Turned into Brain Cells
+subtitle:A simple approach shows that cells might be more flexible than once thought.
+author:null
+title:Gene Defect Corrected in Human Stem Cells
+subtitle:New research outlines a path toward new therapies with induced pluripotent stem cells.
+author:null
+title:Today’s Artificial Intelligence Does Not Justify Basic Income
+subtitle:Even the simplest jobs require skills—like creative problem solving—that AI systems cannot yet perform competently.
+author:null
+title:A Health-Monitoring Sticker Powered by Your Cell Phone
+subtitle:Stretchy electronics offer wearable health gadgets without batteries.
+author:Antonio Regalado
+title:2013: The Best Business Stories of the Year
+subtitle:A bubble formed around social media in 2013. But other companies, nations, and ordinary people struggled to find advantage in technological change.
+author:null
+title:FAA Head: Government Must Go Faster Than Normal to Cultivate the Drone Industry
+subtitle:The technology for unleashing drones may be ready, but the government says it needs more data.
+author:null
+title:A Sensor for Logging People Traffic at the Gym or Café
+subtitle:Startup Density says its Internet-connected sensors can make it simple to count people all over your city.
+author:null
+title:Black Market for Solar Panels
+subtitle:Solar-panel theft is rampant in California, and this could drive up the cost even more.
+author:null
+title:Rise of the Immigrant Robo-Laborers
+subtitle:From factories to oil rigs, robot workers present a tricky situation for a president that aims to be both pro-business and populist.
+author:null
+title:Materials Tricks for Better Wine
+subtitle:How plastic wrap draws dank chemicals out of corked wine.
+author:null
+title:Three Questions for iRobot’s CTO Paolo Pirjanian
+subtitle:The Roomba maker is working on technology that could enable robots to help with more household chores.
+author:null
+title:Herding Robots and Other "Multiagent Systems"
+subtitle:A new system combines simple control programs to let fleets of robots collaborate.
+author:null
+title:Warning: When Selling Domestic Drones, Mileage May Vary
+subtitle:As the debate continues over drones in U.S. skies, other countries could show the way.
+author:null
+title:A Telepresence Machine to Watch the Kids or Visit Grandma
+subtitle:Startup offers $995 remotely steered video-chat device for people to check up on kids and elderly relatives.
+author:null
+title:Remote E-Banking in India
+subtitle:Villagers gain access through biometric verification and cell-phones.
+author:null
+title:Inside Amazon’s Warehouse, Human-Robot Symbiosis
+subtitle:Amazon’s newest warehouse is testing the limits of automation and human-machine collaboration.
+author:James Somers
+title:Toolkits for the Mind
+subtitle:Programming languages shape the way their users think—which helps explain how tech startups work and why they are able to reinvent themselves.
+author:null
+title:Google’s Latest Robot Acquisition Is the Smartest Yet
+subtitle:In buying Boston Dynamics, Google has gained an impressive edge in robot locomotion.
+author:null
+title:Are You Ready for a Robot Colleague?
+subtitle:Robots are moving into new areas of work, and it isn’t entirely clear how staff and customers will react.
