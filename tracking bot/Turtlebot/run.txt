@@ -1,0 +1,10 @@
+roslaunch turtlebot_bringup minimal.launch
+roslaunch openni_launch openni.launch 
+rosrun image_view image_view image:=/camera/rgb/image_color
+
+
+
+
+roslaunch turtlebot_bringup minimal.launch
+roslaunch turtlebot_follower follower.launch 
+

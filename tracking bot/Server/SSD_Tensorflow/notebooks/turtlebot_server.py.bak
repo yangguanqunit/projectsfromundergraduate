@@ -1,0 +1,92 @@
+from socket import *
+import pickle
+import struct
+import os
+import sys
+sys.path.append('../')
+from notebooks import frame_processer
+
+def file_deal(file_name):
+    # 定义函数用于处理用户索要下载的文件
+    try:
+        # 二进制方式读取
+        files = open(file_name, "rb")
+        mes = files.read()
+    except:
+        print("没有该文件")
+    else:
+        files.close()
+        return mes
+
+def commamd():
+    #return str(1231231)
+    #msg = "forward"
+    #msg = "left"
+    #msg = "right"
+    return msg
+
+def get_cmd(image_name):
+    cmd = frame_processer.cmd(image_name)
+    if cmd == "left":
+        return "right"
+    elif cmd == "middle":
+        return "forward"
+    elif cmd == "right":
+        return "left"
+    elif cmd == "stop":
+        return "stop"
+    else:
+        print("error processing frame")
+        return "error"
+
+
+def main():
+    tcp_socket = socket(AF_INET, SOCK_STREAM)
+    tcp_socket.setsockopt(SOL_SOCKET, SO_REUSEADDR, 1)
+    # 固定端口号
+    tcp_socket.bind(("",12345))
+    # 将主动套接字转为被动套接字
+    tcp_socket.listen(128)
+
+    while True:
+        client_socket,client_addr = tcp_socket.accept()
+        #conn, addr = s.accept()
+        print ('Accept new connection from ', client_addr)
+        new_filename = ""
+        while True:
+            fileinfo_size = struct.calcsize('128sl')
+            buf = client_socket.recv(fileinfo_size)
+            if buf:
+                filename, filesize = struct.unpack('128sl', buf)
+                #print(filename)
+                fn = filename.decode().strip('\00')
+                new_filename = os.path.join('./', fn)
+                print(fn)
+                print ('file new name is '+new_filename+ ', filesize is '+str(filesize))
+
+                recvd_size = 0  # 定义已接收文件的大小
+                fp = open(new_filename, 'wb')
+                print('start receiving...')
+
+                while not recvd_size == filesize:
+                    if filesize - recvd_size > 1024:
+                        data = client_socket.recv(1024)
+                        recvd_size += len(data)
+                    else:
+                        data = client_socket.recv(filesize - recvd_size)
+                        recvd_size = filesize
+                    fp.write(data)
+                fp.close()
+                print('end receive...')
+
+            #client_socket.send(commamd.encode())
+            print(new_filename)
+            cmd = get_cmd(new_filename) 
+            client_socket.send(cmd.encode())
+            print("end sending")
+            client_socket.close()
+            break
+    
+
+if __name__ == "__main__":
+    main()
